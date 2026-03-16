@@ -527,3 +527,112 @@ input[type="text"]:focus, textarea:focus {
         gap: 1rem;
     }
 }
+/* --- Auth Pages --- */
+.auth-container {
+    width: 100%;
+    max-width: 480px;
+    padding: 2rem;
+    margin: auto;
+}
+
+.auth-card {
+    padding: 3rem 2.5rem;
+    text-align: center;
+}
+
+.auth-header {
+    margin-bottom: 2.5rem;
+}
+
+.auth-header .logo {
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.auth-header h2 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+.auth-header p {
+    color: var(--text-muted);
+}
+
+.auth-form {
+    text-align: left;
+}
+
+.input-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.input-wrapper i {
+    position: absolute;
+    left: 16px;
+    color: var(--text-light);
+    font-size: 1.2rem;
+}
+
+.input-wrapper input {
+    padding-left: 48px;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.auth-btn {
+    width: 100%;
+    margin-top: 1rem;
+    padding: 16px;
+}
+
+.auth-switch {
+    margin-top: 1.5rem;
+    text-align: center;
+    font-size: 0.95rem;
+    color: var(--text-muted);
+}
+
+.auth-switch a {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.auth-switch a:hover {
+    text-decoration: underline;
+}
+
+/* Authentication Password field icon toggle */
+input[type="password"] {
+    width: 100%;
+    padding: 14px 16px;
+    border-radius: var(--radius-sm);
+    border: 1px solid rgba(0,0,0,0.1);
+    background: rgba(255, 255, 255, 0.6);
+    font-family: inherit;
+    transition: all 0.2s ease;
+}
+
+input[type="password"]:focus {
+    outline: none;
+    border-color: var(--primary);
+    background: #fff;
+    box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.1);
+}
+
+@media (max-width: 480px) {
+    .form-grid {
+        grid-template-columns: 1fr;
+    }
+    .auth-card {
+        padding: 2rem 1.5rem;
+    }
+}
