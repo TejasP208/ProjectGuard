@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Portal - Submit Project</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Phosphor Icons for modern, clean icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar glass-panel">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <i class="ph ph-graduation-cap"></i>
+                    <span>EduPortal</span>
+                </div>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="#" class="nav-item">
+                    <i class="ph ph-squares-four"></i>
+                    <span>Dashboard</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <i class="ph ph-folder-open"></i>
+                    <span>My Projects</span>
+                </a>
+                <a href="#" class="nav-item active">
+                    <i class="ph ph-upload-simple"></i>
+                    <span>Submit Project</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <i class="ph ph-shield-check"></i>
+                    <span>Plagiarism Check</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <i class="ph ph-gear"></i>
+                    <span>Settings</span>
+                </a>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="user-profile">
+                    <img src="https://i.pravatar.cc/150?img=68" alt="Student Profile" class="avatar">
+                    <div class="user-info">
+                        <span class="user-name">Krishna K</span>
+                        <span class="user-role">Student</span>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="top-header">
+                <div>
+                    <h1 class="page-title">Submit Your Project</h1>
+                    <p class="page-subtitle">Upload your final assignment for evaluation</p>
+                </div>
+                <!-- Optional notification icon -->
+                <button class="icon-btn glass-btn">
+                    <i class="ph ph-bell"></i>
+                </button>
+            </header>
+
+            <div class="submission-container">
+                <div class="card glass-card">
+                    
+                    <form id="submission-form" class="submission-form">
+                        
+                        <!-- Inputs -->
+                        <div class="form-group">
+                            <label for="project-title">Project Title</label>
+                            <input type="text" id="project-title" placeholder="e.g., Advanced AI Algorithms" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="project-desc">Project Description</label>
+                            <textarea id="project-desc" rows="4" placeholder="Briefly describe the objective and methodology of your project..." ></textarea>
+                        </div>
+                        
+                        <!-- Drag & Drop Area -->
+                        <div class="form-group">
+                            <label>Upload Project File</label>
+                            <div class="drop-zone" id="drop-zone">
+                                <div class="drop-zone-content">
+                                    <div class="upload-icon-wrapper">
+                                        <i class="ph ph-plus"></i>
+                                    </div>
+                                    <h3>Drag & Drop your files here</h3>
+                                    <p>or click to browse</p>
+                                    <span class="file-formats">Supported formats: PDF, DOCX, ZIP (Max 50MB)</span>
+                                </div>
+                                <input type="file" id="file-input" hidden accept=".pdf,.docx,.zip">
+                            </div>
+                            
+                            <!-- State: Upload Progress (Hidden initially) -->
+                            <div class="upload-progress-container" id="upload-progress-area" style="display: none;">
+                                <div class="file-info-bar">
+                                    <div class="file-details">
+                                        <i class="ph ph-file-doc"></i>
+                                        <span id="file-name-display">project_final_v2.pdf</span>
+                                    </div>
+                                    <button type="button" class="remove-file-btn" id="remove-file"><i class="ph ph-x"></i></button>
+                                </div>
+                                <div class="progress-bar-wrapper">
+                                    <div class="progress-bar" id="upload-progress-bar"></div>
+                                </div>
+                                <div class="progress-stats">
+                                    <span id="upload-status-text">Uploading...</span>
+                                    <span id="upload-percentage">0%</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Evaluation Status Area (Hidden initially) -->
+                        <div class="evaluation-panel" id="evaluation-panel" style="display: none;">
+                            <div class="status-grid">
+                                <div class="status-item">
+                                    <span class="status-label">Submission Status</span>
+                                    <div class="chips">
+                                        <span class="chip pending" id="chip-pending">Pending</span>
+                                        <span class="chip checking" id="chip-checking" style="display: none;">Checking</span>
+                                        <span class="chip verified" id="chip-verified" style="display: none;">Verified</span>
+                                    </div>
+                                </div>
+                                <div class="status-item score-container" id="score-container" style="display: none;">
+                                    <span class="status-label">Plagiarism Score</span>
+                                    <div class="score-indicator" id="score-value">
+                                        <span class="score-number safe">12%</span>
+                                        <span class="chip similarity safe">Low Similarity</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Actions -->
+                        <div class="form-actions">
+                            <button type="button" class="btn btn-secondary" id="btn-check" disabled>
+                                <i class="ph-fill ph-shield-check"></i>
+                                Check Plagiarism
+                            </button>
+                            <button type="submit" class="btn btn-primary" id="btn-submit" disabled>
+                                <i class="ph ph-upload-simple"></i>
+                                Submit Your Project
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
