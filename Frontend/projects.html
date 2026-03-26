@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Portal - My Projects</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Phosphor Icons for modern, clean icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar glass-panel">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <i class="ph ph-graduation-cap"></i>
+                    <span>ProjectGaurd</span>
+                </div>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="projects.html" class="nav-item">
+                    <i class="ph ph-squares-four"></i>
+                    <span>Dashboard</span>
+                </a>
+                <a href="projects.html" class="nav-item active">
+                    <i class="ph ph-folder-open"></i>
+                    <span>My Projects</span>
+                </a>
+                <a href="index.html" class="nav-item">
+                    <i class="ph ph-upload-simple"></i>
+                    <span>Submit Project</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <i class="ph ph-shield-check"></i>
+                    <span>Plagiarism Check</span>
+                </a>
+                <a href="#" class="nav-item">
+                    <i class="ph ph-gear"></i>
+                    <span>Settings</span>
+                </a>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="user-profile">
+                    <img src="https://i.pravatar.cc/150?img=68" alt="Student Profile" class="avatar">
+                    <div class="user-info">
+                        <span class="user-name">Krishna K</span>
+                        <span class="user-role">Student</span>
+                    </div>
+                </div>
+                <div class="logout-wrapper" style="margin-top: 1rem; border-top: 1px solid var(--glass-border); padding-top: 1rem;">
+                    <a href="auth.html" class="nav-item">
+                        <i class="ph ph-sign-out"></i>
+                        <span>Logout</span>
+                    </a>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="top-header">
+                <div>
+                    <h1 class="page-title">Projects</h1>
+                    <p class="page-subtitle">Browse recently submitted projects</p>
+                </div>
+                <!-- Optional notification icon -->
+                <button class="icon-btn glass-btn">
+                    <i class="ph ph-bell"></i>
+                </button>
+            </header>
+
+            <div class="projects-container" id="projects-container" style="padding: 2rem 0; display: grid; gap: 1.5rem; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));">
+                <!-- Project cards will be injected here dynamically -->
+            </div>
+        </main>
+    </div>
+    
+    <script src="projects.js"></script>
+</body>
+</html>
