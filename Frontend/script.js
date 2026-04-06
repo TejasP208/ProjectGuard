@@ -327,3 +327,57 @@ document.addEventListener('DOMContentLoaded', () => {
     // setupAxiomAI('dashboard-chat-input', 'dashboard-send-btn', 'dashboard-chat-box'); // Removed per layout changes
     setupAxiomAI('find-chat-input', 'find-send-btn', 'find-chat-box');
 });
+const input = document.getElementById("find-chat-input");
+const sendBtn = document.getElementById("find-send-btn");
+const chatBox = document.getElementById("find-chat-box");
+
+sendBtn.addEventListener("click", sendMessage);
+input.addEventListener("keypress", (e) => {
+    if (e.key === "Enter") sendMessage();
+});
+
+async function sendMessage() {
+    const message = input.value.trim();
+    if (!message) return;
+
+    // 🧑 User message
+    chatBox.innerHTML += `
+        <div class="message-wrapper user-wrapper">
+            <div class="user-message">${message}</div>
+        </div>
+    `;
+
+    input.value = "";
+
+    // 🤖 Create empty AI message container
+    const aiWrapper = document.createElement("div");
+    aiWrapper.className = "message-wrapper ai-wrapper";
+
+    const aiMessage = document.createElement("div");
+    aiMessage.className = "ai-message";
+
+    aiWrapper.appendChild(aiMessage);
+    chatBox.appendChild(aiWrapper);
+
+    try {
+        const res = await fetch(`http://127.0.0.1:8000/chat-stream?prompt=${encodeURIComponent(message)}`);
+
+        const reader = res.body.getReader();
+        const decoder = new TextDecoder();
+
+        while (true) {
+            const { done, value } = await reader.read();
+            if (done) break;
+
+            // 🔥 Append streaming text
+            aiMessage.textContent += decoder.decode(value);
+
+            // Auto scroll
+            chatBox.scrollTop = chatBox.scrollHeight;
+        }
+
+    } catch (err) {
+        aiMessage.textContent = "Error connecting to server";
+        console.error(err);
+    }
+}
