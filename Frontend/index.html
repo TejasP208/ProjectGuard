@@ -19,30 +19,22 @@
             <div class="sidebar-header">
                 <div class="logo">
                     <i class="ph ph-graduation-cap"></i>
-                    <span>ProjectGraud</span>
+                    <span>ProjectGuard</span>
                 </div>
             </div>
             
             <nav class="sidebar-nav">
-                <a href="#" class="nav-item">
+                <a href="#" class="nav-item" id="nav-dashboard">
                     <i class="ph ph-squares-four"></i>
                     <span>Dashboard</span>
                 </a>
-                <a href="#" class="nav-item">
-                    <i class="ph ph-folder-open"></i>
-                    <span>My Projects</span>
-                </a>
-                <a href="#" class="nav-item active">
+                <a href="#" class="nav-item active" id="nav-submit">
                     <i class="ph ph-upload-simple"></i>
                     <span>Submit Project</span>
                 </a>
-                <a href="#" class="nav-item">
-                    <i class="ph ph-shield-check"></i>
-                    <span>Plagiarism Check</span>
-                </a>
-                <a href="#" class="nav-item">
-                    <i class="ph ph-gear"></i>
-                    <span>Settings</span>
+                <a href="#" class="nav-item" id="nav-find">
+                    <i class="ph ph-folder-open"></i>
+                    <span>Find your Project</span>
                 </a>
             </nav>
 
@@ -65,16 +57,86 @@
 
         <!-- Main Content -->
         <main class="main-content">
-            <header class="top-header">
-                <div>
-                    <h1 class="page-title">Submit Your Project</h1>
-                    <p class="page-subtitle">Upload your final assignment for evaluation</p>
+            
+            <!-- Dashboard View -->
+            <div id="view-dashboard" class="content-view hidden">
+                <header class="top-header">
+                    <div>
+                        <h1 class="page-title">Dashboard</h1>
+                        <p class="page-subtitle">Welcome back, Krishna. Here's your project status.</p>
+                    </div>
+                </header>
+
+                <div class="dashboard-grid">
+                    <!-- Progress Card -->
+                    <div class="card glass-card progress-overview">
+                        <h3>Project Progress</h3>
+                        <div class="main-progress">
+                            <span class="percentage">46%</span>
+                            <div class="progress-bar-wrapper">
+                                <div class="progress-bar" style="width: 46%"></div>
+                            </div>
+                        </div>
+                        <ul class="milestones">
+                            <li class="completed"><i class="ph-fill ph-check-circle"></i> Review-1</li>
+                            <li class="completed"><i class="ph-fill ph-check-circle"></i> Review-2</li>
+                            <li class="active"><i class="ph-fill ph-spinner-gap"></i> Review-3</li>
+                            <li class="pending"><i class="ph ph-circle"></i> Review-4</li>
+                            <li class="pending"><i class="ph ph-circle"></i>Final Submission</li>
+                        </ul>
+                    </div>
+                    
                 </div>
-                <!-- Optional notification icon -->
-                <button class="icon-btn glass-btn">
-                    <i class="ph ph-bell"></i>
-                </button>
-            </header>
+            </div>
+
+            <!-- Find Your Project View (Axiom AI Search) -->
+            <div id="view-find" class="content-view hidden">
+                <header class="top-header">
+                    <div>
+                        <h1 class="page-title">Find your Project</h1>
+                        <p class="page-subtitle">Use Axiom AI to locate and analyze your past submissions</p>
+                    </div>
+                </header>
+                <div class="ai-search-container glass-card ai-glow-card">
+                    <div class="ai-branding ai-pulse-branding">
+                        <div class="ai-logo-wrapper">
+                            <div class="premium-ai-orb">
+                                <i class="ph-fill ph-terminal-window"></i>
+                            </div>
+                            <div class="glow-ring"></div>
+                            <div class="glow-ring ring-2"></div>
+                        </div>
+                        <h2>Axiom AI Search</h2>
+                        <p>Intelligent semantic search for your knowledge base</p>
+                    </div>
+                    <div id="find-chat-box" class="chatbot-messages expanded-chat">
+                        <div class="message-wrapper ai-wrapper">
+                            <div class="message-avatar"><i class="ph-fill ph-terminal-window"></i></div>
+                            <div class="ai-message premium-glass-bubble"><p>I'm Axiom, ready to search your project history. What do you need?</p></div>
+                        </div>
+                    </div>
+                    <div class="ai-chat-box premium-input-container">
+                        <div class="input-wrapper glowing-input">
+                            <i class="ph ph-terminal-window ai-sparkle-icon"></i>
+                            <input type="text" id="find-chat-input" placeholder="e.g., Show me my last AI Algorithms draft...">
+                            <button id="find-send-btn" class="btn btn-primary premium-send-btn chat-send"><i class="ph-bold ph-arrow-right"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Submit Project View -->
+            <div id="view-submit" class="content-view">
+                <header class="top-header">
+                    <div>
+                        <h1 class="page-title">Submit Your Project</h1>
+                        <p class="page-subtitle">Upload your final assignment for evaluation</p>
+                    </div>
+                    <!-- Optional notification icon -->
+                    <button class="icon-btn glass-btn">
+                        <i class="ph ph-bell"></i>
+                    </button>
+                </header>
 
             <div class="submission-container">
                 <div class="card glass-card">
@@ -161,6 +223,27 @@
                     </form>
                 </div>
             </div>
+            
+            <!-- Plagiarism Check View (Placeholder) -->
+            <div id="view-plagiarism" class="content-view hidden">
+                <header class="top-header">
+                    <div>
+                        <h1 class="page-title">Plagiarism Check</h1>
+                    </div>
+                </header>
+                <div class="glass-card"><p>Plagiarism checking tools go here.</p></div>
+            </div>
+
+            <!-- Settings View (Placeholder) -->
+            <div id="view-settings" class="content-view hidden">
+                <header class="top-header">
+                    <div>
+                        <h1 class="page-title">Settings</h1>
+                    </div>
+                </header>
+                <div class="glass-card"><p>Account settings go here.</p></div>
+            </div>
+
         </main>
     </div>
     

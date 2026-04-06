@@ -181,4 +181,149 @@ document.addEventListener('DOMContentLoaded', () => {
             btnSubmit.style.background = 'var(--status-verified)';
         }, 1500);
     });
+
+    // --- Navigation & View Switching --- //
+    const navItems = {
+        'nav-dashboard': 'view-dashboard',
+        'nav-find': 'view-find',
+        'nav-submit': 'view-submit',
+        'nav-plagiarism': 'view-plagiarism',
+        'nav-settings': 'view-settings'
+    };
+
+    function switchView(targetNavId) {
+        // Update active nav class
+        document.querySelectorAll('.sidebar-nav .nav-item').forEach(nav => {
+            nav.classList.remove('active');
+        });
+        document.getElementById(targetNavId).classList.add('active');
+
+        // Hide all views, show target view
+        document.querySelectorAll('.content-view').forEach(view => {
+            view.classList.add('hidden');
+        });
+        document.getElementById(navItems[targetNavId]).classList.remove('hidden');
+    }
+
+    // Attach click listeners to nav items
+    Object.keys(navItems).forEach(navId => {
+        const navEl = document.getElementById(navId);
+        if (navEl) {
+            navEl.addEventListener('click', (e) => {
+                e.preventDefault();
+                switchView(navId);
+            });
+        }
+    });
+
+    // Initialize default view based on active nav item
+    const activeNav = document.querySelector('.sidebar-nav .nav-item.active');
+    if (activeNav) {
+        switchView(activeNav.id);
+    }
+
+    // --- Axiom AI Integration --- //
+    function setupAxiomAI(inputId, btnId, chatBoxId) {
+        const input = document.getElementById(inputId);
+        const btn = document.getElementById(btnId);
+        const chatBox = document.getElementById(chatBoxId);
+
+        if (!input || !btn || !chatBox) return;
+
+        // Premium AI Responses
+        const responses = [
+            "Analyzing your request based on your recent project submissions...",
+            "I found 3 relevant drafts in your history. Here is a quick summary for you.",
+            "That's an excellent question! Based on my semantic search of your knowledge base, here's what you need to know.",
+            "I'm cross-referencing your project guidelines with your current draft. Please allow me a moment.",
+            "Your previous 'AI Algorithms' assignment had a perfectly aligned methodology. I suggest reviewing Section 3."
+        ];
+
+        function sendMessage() {
+            const text = input.value.trim();
+            if(!text) return;
+
+            // Add user message with premium styling
+            const userWrapper = document.createElement('div');
+            userWrapper.className = 'message-wrapper user-wrapper';
+            
+            const userAvatar = document.createElement('div');
+            userAvatar.className = 'message-avatar';
+            userAvatar.innerHTML = '<i class="ph-fill ph-user"></i>';
+            
+            const userMsg = document.createElement('div');
+            userMsg.className = 'premium-glass-bubble';
+            userMsg.textContent = text;
+            
+            userWrapper.appendChild(userAvatar);
+            userWrapper.appendChild(userMsg);
+            chatBox.appendChild(userWrapper);
+            
+            input.value = '';
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            // Disable Send Button
+            const originalBtnHtml = btn.innerHTML;
+            btn.innerHTML = '<i class="ph ph-spinner-gap ph-spin"></i>';
+            btn.disabled = true;
+
+            // Show AI Typing Indicator
+            const aiWrapper = document.createElement('div');
+            aiWrapper.className = 'message-wrapper ai-wrapper';
+            
+            const aiAvatar = document.createElement('div');
+            aiAvatar.className = 'message-avatar';
+            aiAvatar.innerHTML = '<i class="ph-fill ph-terminal-window"></i>';
+            
+            const typingMsg = document.createElement('div');
+            typingMsg.className = 'typing-indicator';
+            typingMsg.innerHTML = '<div class="typing-dot"></div><div class="typing-dot"></div><div class="typing-dot"></div>';
+            
+            aiWrapper.appendChild(aiAvatar);
+            aiWrapper.appendChild(typingMsg);
+            chatBox.appendChild(aiWrapper);
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            // Simulate Thinking Delay, then Type out response
+            setTimeout(() => {
+                // Pick a random smart response
+                const responseText = responses[Math.floor(Math.random() * responses.length)];
+                
+                // Replace typing indicator with empty glass bubble
+                aiWrapper.removeChild(typingMsg);
+                const finalMsg = document.createElement('div');
+                finalMsg.className = 'ai-message premium-glass-bubble';
+                finalMsg.innerHTML = `<p><strong>Axiom AI:</strong> <span class="typing-text"></span></p>`;
+                aiWrapper.appendChild(finalMsg);
+                
+                const textSpan = finalMsg.querySelector('.typing-text');
+                let charIndex = 0;
+                
+                // Typing effect
+                const typeInterval = setInterval(() => {
+                    if (charIndex < responseText.length) {
+                        textSpan.textContent += responseText.charAt(charIndex);
+                        charIndex++;
+                        chatBox.scrollTop = chatBox.scrollHeight;
+                    } else {
+                        clearInterval(typeInterval);
+                        btn.innerHTML = originalBtnHtml;
+                        btn.disabled = false;
+                        
+                        // Give input focus back
+                        input.focus();
+                    }
+                }, 20); // 20ms per character for fast reading
+                
+            }, 1200); // 1.2s thinking time
+        }
+
+        btn.addEventListener('click', sendMessage);
+        input.addEventListener('keypress', (e) => {
+            if(e.key === 'Enter') sendMessage();
+        });
+    }
+
+    // setupAxiomAI('dashboard-chat-input', 'dashboard-send-btn', 'dashboard-chat-box'); // Removed per layout changes
+    setupAxiomAI('find-chat-input', 'find-send-btn', 'find-chat-box');
 });
