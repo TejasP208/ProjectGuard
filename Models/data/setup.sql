@@ -6,78 +6,183 @@ CREATE TABLE IF NOT EXISTS projects (
     project_name TEXT,
     project_abstract TEXT
 );
-
 INSERT INTO projects (year, group_no, project_name, project_abstract) VALUES
--- 2nd Year Projects (Groups 1 - 22)
-('2nd Year', 1, 'AI-Powered Resume Screener', 'Uses natural language processing to parse and rank applicant resumes against specific job descriptions, streamlining the initial HR filtering process.'),
-('2nd Year', 2, 'Predictive Traffic Flow Analyzer', 'Processes historical and real-time city transit data to predict congestion zones and suggest optimal dynamic routing for emergency vehicles.'),
-('2nd Year', 3, 'Hyperlocal Grocery Deal Aggregator', 'A mobile application that aggregates and compares daily item prices from nearby supermarkets, allowing users to find the cheapest overall cart total in their area.'),
-('2nd Year', 4, 'Interactive Algorithm Visualizer', 'A web-based educational platform that step-by-step animates complex sorting and searching algorithms to help students grasp core data structures.'),
-('2nd Year', 5, 'Fake News Detection Engine', 'A machine learning model trained on linguistic patterns and trusted source databases to flag potentially misleading articles and clickbait headlines.'),
-('2nd Year', 6, 'Cross-Platform Study Group Matcher', 'An app that connects students based on their current enrolled courses, availability, and preferred learning styles to facilitate collaborative study sessions.'),
-('2nd Year', 7, 'E-commerce Dynamic Price Tracker', 'An automated web scraper that monitors targeted products across multiple online retailers, sending users SMS or email alerts when prices drop below a set threshold.'),
-('2nd Year', 8, 'Real-time Sign Language Translator', 'Utilizes computer vision and a device''s webcam to translate standard sign language gestures into text and spoken audio in real-time.'),
-('2nd Year', 9, 'Decentralized Student Voting System', 'A secure, blockchain-based web application designed for campus elections to ensure voter anonymity and prevent ballot tampering.'),
-('2nd Year', 10, 'Deep Learning Crop Disease Classifier', 'An agricultural tool where farmers upload photos of plant leaves, and an AI model identifies potential diseases and suggests treatments.'),
-('2nd Year', 11, 'Automated Timetable Generator', 'An algorithmic scheduling tool that takes faculty availability, room capacities, and student course loads to generate conflict-free college timetables.'),
-('2nd Year', 12, 'Social Media Sentiment Dashboard', 'Pulls public data from social platforms regarding specific keywords or brands, visualizing the overall public sentiment (positive, negative, neutral) over time.'),
-('2nd Year', 13, 'Cloud-based Code Execution Sandbox', 'A secure, isolated web environment that allows users to write, compile, and execute code in various programming languages without local setup.'),
-('2nd Year', 14, 'Campus Lost and Found Tracker', 'A centralized database application where students can upload photos of found items or report lost ones, using image matching to suggest potential claims.'),
-('2nd Year', 15, 'Smart Phishing Email Detector', 'A lightweight email client plugin that analyzes incoming mail headers, link destinations, and text urgency to warn users of potential phishing attempts.'),
-('2nd Year', 16, 'Real Estate Market Trend Visualizer', 'Aggregates housing market data to create interactive heat maps showing price fluctuations, rental yields, and neighborhood growth metrics over time.'),
-('2nd Year', 17, 'Peer-to-Peer Local File Share', 'A desktop utility that allows high-speed, secure file transfers between devices on the same local network without relying on external internet servers.'),
-('2nd Year', 18, 'Automated Research Paper Summarizer', 'An AI tool designed for academics that ingests long PDF research papers and extracts the core methodology, key findings, and conclusion into a concise brief.'),
-('2nd Year', 19, 'Secure Password Vault App', 'A mobile application featuring AES-256 encryption, biometric login, and a strong password generator to securely manage user credentials locally.'),
-('2nd Year', 20, 'IoT Smart Classroom Energy Monitor', 'A hardware-software integration that uses room occupancy sensors to automatically manage lighting and HVAC systems, reducing campus energy waste.'),
-('2nd Year', 21, 'Fitness Form Correction AI', 'A computer vision application that tracks a user''s joint angles during exercises (like squats or deadlifts) and provides real-time audio feedback to prevent injury.'),
-('2nd Year', 22, 'Autonomous Indoor Delivery Robot', 'A prototype routing system for a small wheeled robot designed to navigate office or campus hallways, avoiding dynamic obstacles to deliver small packages.'),
-
--- 3rd Year Projects (Groups 1 - 22)
-('3rd Year', 1, 'Microservices E-commerce Backend', 'A scalable backend architecture separating user authentication, inventory management, and payment processing into isolated dockerized services.'),
-('3rd Year', 2, 'Distributed Web Scraper Framework', 'A distributed system using message queues to manage multiple worker nodes crawling large-scale datasets without getting IP-blocked.'),
-('3rd Year', 3, 'Real-time Collaborative Whiteboard', 'A web application using WebSockets to allow multiple users to draw, add text, and collaborate on a digital canvas with zero latency.'),
-('3rd Year', 4, 'AI Music Generation Tool', 'A deep learning model utilizing LSTMs to analyze MIDI files and generate original, genre-specific background music loops.'),
-('3rd Year', 5, 'Automated Stock Trading Bot', 'An algorithmic trading script that ingests real-time financial APIs and executes simulated trades based on momentum and moving average crossovers.'),
-('3rd Year', 6, 'Smart City Waste Management', 'An IoT-simulated dashboard tracking bin fill-levels across a city grid to optimize garbage truck routing and reduce fuel consumption.'),
-('3rd Year', 7, 'AR Interior Design Visualizer', 'A mobile application utilizing augmented reality frameworks to let users place scaled 3D models of furniture inside their physical rooms.'),
-('3rd Year', 8, 'Plagiarism Detection NLP', 'A natural language processing pipeline that converts documents into vector embeddings to detect semantic similarities and disguised plagiarism.'),
-('3rd Year', 9, 'Predictive IoT Maintenance', 'A machine learning model analyzing simulated vibration and temperature data from factory machinery to predict catastrophic failures before they happen.'),
-('3rd Year', 10, 'Medical Image Tumor Detector', 'A Convolutional Neural Network (CNN) trained on MRI scans to highlight anomalies and assist radiologists in early tumor classification.'),
-('3rd Year', 11, 'Decentralized File Storage', 'A peer-to-peer network protocol that fragments files, encrypts them, and distributes the shards across multiple nodes for redundant, serverless storage.'),
-('3rd Year', 12, 'Podcast Summarization Pipeline', 'An automated tool that downloads RSS audio feeds, transcribes them using speech-to-text, and uses an LLM to generate chapter summaries.'),
-('3rd Year', 13, 'Cybersecurity Vulnerability Scanner', 'A Python-based utility that maps local network topologies and cross-references open ports with a database of known security vulnerabilities.'),
-('3rd Year', 14, 'Drone Swarm Simulator', 'A physics-based simulation of multiple autonomous drones using flocking algorithms to navigate obstacle courses without colliding.'),
-('3rd Year', 15, 'Mental Health Chatbot AI', 'A conversational agent fine-tuned on psychological datasets to provide empathetic responses and route users to professional resources during crisis.'),
-('3rd Year', 16, 'Serverless Function Orchestrator', 'A lightweight cloud controller that automatically spins up and scales down execution environments based on incoming HTTP request volume.'),
-('3rd Year', 17, 'Edge Computing Surveillance', 'A lightweight computer vision model optimized to run directly on low-power security cameras to detect intrusions without sending video to the cloud.'),
-('3rd Year', 18, 'Cryptographic Key Manager', 'A secure enterprise service for generating, rotating, and storing AES encryption keys with strict role-based access control logging.'),
-('3rd Year', 19, 'Personalized E-learning Recommender', 'A collaborative filtering algorithm that tracks a student''s quiz performance to suggest specific video modules and reading materials.'),
-('3rd Year', 20, 'Blockchain Credential Verifier', 'A decentralized application (dApp) where universities issue cryptographic hashes of diplomas to a public ledger for instant, fraud-proof employer verification.'),
-('3rd Year', 21, 'Multiplayer Game State Sync', 'A custom UDP networking protocol designed to handle player movement prediction and rollback networking for fast-paced multiplayer games.'),
-('3rd Year', 22, 'Automated Bug Triaging System', 'A text classification model that reads incoming GitHub issues and automatically assigns them severity labels and routes them to the correct developer team.'),
-
--- 4th Year Projects (Groups 1 - 22)
-('4th Year', 1, 'Brain-Computer Wheelchair Interface', 'A capstone project processing EEG brainwave signals to translate user thought patterns into directional commands for motorized wheelchair navigation.'),
-('4th Year', 2, 'Autonomous Vehicle Perception', 'A sensor fusion algorithm combining simulated LiDAR point clouds and camera feeds to accurately identify pedestrians, lane markings, and traffic signs.'),
-('4th Year', 3, 'Federated Learning in Healthcare', 'A privacy-preserving ML framework where hospital databases train local models on patient data and only share the learned weights with a central server.'),
-('4th Year', 4, 'LLM-based Automated Code Review', 'An AI agent integrated into CI/CD pipelines that reviews pull requests, highlights potential memory leaks, and suggests optimized refactoring.'),
-('4th Year', 5, 'Hyper-realistic Deepfake Detector', 'An advanced adversarial network designed to detect micro-artifacts in video rendering and spectral inconsistencies in audio to flag AI-generated media.'),
-('4th Year', 6, 'Swarm Robotics Search & Rescue', 'A coordination protocol for a fleet of micro-robots to map collapsed structures and locate human heat signatures using distributed intelligence.'),
-('4th Year', 7, 'Next-Gen Zero-Day Firewall', 'An anomaly-detection network appliance that uses deep learning to identify and block novel cyber attacks that have no known malware signatures.'),
-('4th Year', 8, 'Biometric Gait Authentication', 'A security system utilizing camera feeds to authenticate individuals based on their unique walking patterns and skeletal kinetics rather than facial recognition.'),
-('4th Year', 9, 'Pharmacogenomics AI Predictor', 'A deep learning model that analyzes a patient''s genetic sequence to predict their metabolic response to specific dosages of cardiovascular drugs.'),
-('4th Year', 10, 'Space Debris Collision Avoidance', 'A high-performance computational model predicting orbital trajectories of thousands of satellite fragments to automate evasion maneuvers for active satellites.'),
-('4th Year', 11, 'Real-time Holographic Telepresence', 'A system compressing and transmitting dense 3D point cloud data over 5G networks to render real-time, volumetric representations of remote participants.'),
-('4th Year', 12, 'Synthetic Autonomous Driving Data', 'A generative adversarial network (GAN) that creates hyper-realistic, edge-case driving scenarios (e.g., blizzards, rare accidents) to safely train car AI.'),
-('4th Year', 13, 'Exoskeleton EMG Control System', 'An electromyography-based controller that reads electrical signals from human muscles to predict intended movement and actuate robotic joint assist motors.'),
-('4th Year', 14, '5G Network Slicing Optimizer', 'A reinforcement learning agent that dynamically allocates cellular bandwidth to prioritize emergency services over commercial streaming during network congestion.'),
-('4th Year', 15, 'FPGA DNA Sequence Accelerator', 'A hardware-level implementation of the Smith-Waterman algorithm on a Field Programmable Gate Array to drastically reduce genomic alignment times.'),
-('4th Year', 16, 'Automated Legal Risk Scoring', 'An NLP platform trained on contract law that scans massive enterprise agreements to highlight unfavorable clauses and calculate financial liability risks.'),
-('4th Year', 17, 'Climate Impact Predictive Model', 'A spatiotemporal forecasting system utilizing satellite imagery and atmospheric data to predict localized flooding and drought conditions decades in advance.'),
-('4th Year', 18, 'Cross-lingual Real-time Dubbing', 'A voice-cloning pipeline that translates live speech, mimics the speaker''s original vocal timbre, and matches the output audio to the original lip movements.'),
-('4th Year', 19, 'AI-driven Drug Discovery', 'A graph neural network mapping molecular structures to predict binding affinities, significantly reducing the computational time needed to discover new antibiotics.'),
-('4th Year', 20, 'Spiking Neural Network Simulator', 'A neuromorphic computing framework designed to simulate the energy-efficient, time-dependent firing of human neurons on standard silicon hardware.'),
-('4th Year', 21, 'Quantum Cryptography Simulator', 'A software environment simulating Quantum Key Distribution (QKD) protocols like BB84 to test secure communication channels against interception eavesdropping.'),
-('4th Year', 22, 'Generative AI Video Editor', 'A text-to-video editing suite where users type prompts to automatically swap backgrounds, alter lighting, or insert dynamic objects into existing footage.');
-
-SELECT * FROM projects;
+-- ── GROUP 1: AI Resume / Job Matching (4 similar) ──────────────────────
+('2nd Year', 1,  'AI-Powered Resume Screener',
+ 'Uses natural language processing to parse and rank applicant resumes against specific job descriptions, streamlining the initial HR filtering process.'),
+ 
+('2nd Year', 2,  'Automated Resume Ranking System',
+ 'A machine learning system that reads candidate resumes and scores them against job role requirements using NLP and keyword extraction techniques.'),
+ 
+('2nd Year', 3,  'Smart Job Application Filter',
+ 'An intelligent filtering tool that processes uploaded CVs and matches applicants to relevant job postings based on skills, experience, and semantic similarity.'),
+ 
+('2nd Year', 4,  'Resume Parser and Job Matcher',
+ 'Parses resumes using NLP pipelines and matches candidates to job descriptions by computing similarity scores across skills and work experience fields.'),
+ 
+-- ── GROUP 2: Traffic / Route Optimization (4 similar) ──────────────────
+('2nd Year', 5,  'Predictive Traffic Flow Analyzer',
+ 'Processes historical and real-time city transit data to predict congestion zones and suggest optimal dynamic routing for emergency vehicles.'),
+ 
+('2nd Year', 6,  'Real-Time Traffic Congestion Predictor',
+ 'Uses live sensor data and machine learning to forecast traffic bottlenecks and recommend alternate routes to reduce urban congestion.'),
+ 
+('2nd Year', 7,  'Smart City Route Optimizer',
+ 'Analyzes traffic patterns across city road networks and dynamically reroutes vehicles to minimize travel time and reduce fuel consumption.'),
+ 
+('2nd Year', 8,  'Dynamic Road Traffic Management System',
+ 'A system that monitors road traffic in real time, identifies high congestion zones, and suggests optimal detour paths for commuters and emergency services.'),
+ 
+-- ── GROUP 3: Fake News / Misinformation Detection (4 similar) ──────────
+('2nd Year', 9,  'Fake News Detection Engine',
+ 'A machine learning model trained on linguistic patterns and trusted source databases to flag potentially misleading articles and clickbait headlines.'),
+ 
+('2nd Year', 10, 'Misinformation Classifier for News Articles',
+ 'Applies NLP-based classification to online news content, detecting patterns of misinformation and cross-referencing with verified fact-checking databases.'),
+ 
+('2nd Year', 11, 'Clickbait and Fake Article Detector',
+ 'Analyzes headline language, source credibility, and article structure using machine learning to identify fake or misleading online news content.'),
+ 
+('2nd Year', 12, 'News Credibility Verification System',
+ 'A browser extension backed by an ML model that scores the trustworthiness of news articles in real time based on linguistic cues and source reputation.'),
+ 
+-- ── GROUP 4: E-commerce Price Tracking (4 similar) ─────────────────────
+('2nd Year', 13, 'E-commerce Dynamic Price Tracker',
+ 'An automated web scraper that monitors targeted products across multiple online retailers, sending users SMS or email alerts when prices drop below a set threshold.'),
+ 
+('2nd Year', 14, 'Product Price Drop Alert System',
+ 'Scrapes major e-commerce platforms periodically to track product price changes and notifies registered users via email when their wishlist items go on sale.'),
+ 
+('2nd Year', 15, 'Online Shopping Price Comparison Tool',
+ 'Aggregates product pricing data from multiple e-commerce websites and presents the cheapest available options to users on a unified dashboard.'),
+ 
+('2nd Year', 16, 'Automated Retail Price Monitor',
+ 'Continuously monitors product listings across online stores using web scraping and alerts users in real time when prices fall below their desired amount.'),
+ 
+-- ── GROUP 5: Sign Language / Gesture Recognition (3 similar) ───────────
+('2nd Year', 17, 'Real-time Sign Language Translator',
+ 'Utilizes computer vision and a device webcam to translate standard sign language gestures into text and spoken audio in real-time.'),
+ 
+('2nd Year', 18, 'Hand Gesture to Text Converter',
+ 'A computer vision system that detects and interprets hand gestures captured via webcam and converts them into readable text using a trained CNN model.'),
+ 
+('2nd Year', 19, 'Sign Language Recognition Using Deep Learning',
+ 'Trains a convolutional neural network on a dataset of sign language hand poses to recognize and translate gestures into spoken language in real time.'),
+ 
+-- ── GROUP 6: Blockchain Voting (3 similar) ─────────────────────────────
+('2nd Year', 20, 'Decentralized Student Voting System',
+ 'A secure blockchain-based web application designed for campus elections to ensure voter anonymity and prevent ballot tampering.'),
+ 
+('2nd Year', 21, 'Blockchain-Based Online Voting Platform',
+ 'Implements a tamper-proof digital voting mechanism using Ethereum smart contracts to conduct transparent and verifiable online elections.'),
+ 
+('2nd Year', 22, 'Secure E-Voting System Using Blockchain',
+ 'A decentralized election platform that uses blockchain technology to record votes immutably, ensuring transparency and eliminating fraud in online voting.'),
+ 
+-- ── GROUP 7: Medical Image / Tumor Detection (4 similar) ───────────────
+('3rd Year', 1,  'Medical Image Tumor Detector',
+ 'Applies deep convolutional neural networks to MRI and CT scan images to automatically detect and localize tumors with high diagnostic accuracy.'),
+ 
+('3rd Year', 2,  'Brain Tumor Detection Using CNN',
+ 'A deep learning model trained on labeled MRI datasets to detect the presence and type of brain tumors, assisting radiologists in early diagnosis.'),
+ 
+('3rd Year', 3,  'Cancer Cell Classification from Histology Images',
+ 'Uses transfer learning on microscopic histology image datasets to classify cancerous and non-cancerous cells with clinical-grade accuracy.'),
+ 
+('3rd Year', 4,  'Automated Radiology Scan Analyzer',
+ 'Processes X-ray and CT scan images through a trained neural network pipeline to flag abnormalities and assist medical professionals in diagnosis.'),
+ 
+-- ── GROUP 8: Crop / Plant Disease Detection (4 similar) ────────────────
+('3rd Year', 5,  'AI Crop Disease Detection System',
+ 'Uses image recognition and deep learning to identify diseases in crop leaves from smartphone photographs, enabling early intervention for farmers.'),
+ 
+('3rd Year', 6,  'Plant Disease Identification Using Machine Learning',
+ 'A mobile application that analyzes photos of plant leaves and predicts the type of disease affecting the crop using a trained image classification model.'),
+ 
+('3rd Year', 7,  'Smart Agriculture Disease Monitoring Tool',
+ 'Monitors crop health using drone-captured images and a convolutional neural network to detect early signs of disease and recommend treatment options.'),
+ 
+('3rd Year', 8,  'Leaf Condition Classifier for Precision Farming',
+ 'Classifies leaf images into healthy or diseased categories using CNN-based image processing to help farmers take timely action against crop damage.'),
+ 
+-- ── GROUP 9: Student Exam / Online Testing Platform (3 similar) ────────
+('3rd Year', 9,  'Online Examination Portal',
+ 'A web-based platform for conducting timed online exams with automated grading, anti-cheating measures, and result analytics for institutions.'),
+ 
+('3rd Year', 10, 'Automated Online Test Management System',
+ 'Provides educational institutions with a secure platform to schedule, conduct, and auto-grade online exams with real-time proctoring support.'),
+ 
+('3rd Year', 11, 'Student Assessment and Quiz Platform',
+ 'A full-stack web application that allows teachers to create quizzes and exams, and students to attempt them online with instant automated feedback.'),
+ 
+-- ── GROUP 10: Chatbot / Virtual Assistant (3 similar) ──────────────────
+('3rd Year', 12, 'AI Customer Support Chatbot',
+ 'A natural language processing-powered chatbot that handles customer queries, resolves common complaints, and escalates complex issues to human agents.'),
+ 
+('3rd Year', 13, 'Intelligent Virtual Assistant for E-commerce',
+ 'An NLP-driven virtual assistant integrated into e-commerce platforms to help users find products, track orders, and resolve issues through conversation.'),
+ 
+('3rd Year', 14, 'Automated FAQ Answering Bot',
+ 'Uses intent recognition and a knowledge base to automatically answer frequently asked questions on institutional websites without human intervention.'),
+ 
+-- ── GROUP 11: Attendance System (3 similar) ────────────────────────────
+('3rd Year', 15, 'Face Recognition Attendance System',
+ 'Automatically marks student or employee attendance by recognizing faces in real time using a trained deep learning model connected to a camera feed.'),
+ 
+('3rd Year', 16, 'Automated Attendance Tracking Using Facial Recognition',
+ 'A system that scans faces at entry points using computer vision and logs attendance records in a database without requiring manual check-in.'),
+ 
+('3rd Year', 17, 'Smart Classroom Attendance Monitor',
+ 'Uses a webcam and face detection algorithms to automatically identify students in a classroom and mark their attendance in the institution database.'),
+ 
+-- ── GROUP 12: Biometric / Gait (standalone, different) ─────────────────
+('3rd Year', 18, 'Biometric Gait Authentication',
+ 'Identifies individuals by analyzing their walking pattern using accelerometer and gyroscope sensor data processed through a machine learning classifier.'),
+ 
+-- ── GROUP 13: Bug Triaging (standalone) ────────────────────────────────
+('3rd Year', 19, 'Automated Bug Triaging System',
+ 'Applies NLP to incoming bug reports to automatically categorize severity, assign to relevant developers, and prioritize the software issue resolution queue.'),
+ 
+-- ── GROUP 14: Recipe Recommendation (standalone) ───────────────────────
+('3rd Year', 20, 'Personalized Recipe Recommendation Engine',
+ 'Suggests recipes to users based on available ingredients, dietary preferences, and past cooking history using a collaborative filtering recommendation model.'),
+ 
+-- ── GROUP 15: Expense / Finance Tracker (3 similar) ───────────────────
+('Final Year', 1, 'AI Personal Finance Tracker',
+ 'Tracks user income and expenses automatically by parsing bank statements and categorizing transactions using machine learning to provide spending insights.'),
+ 
+('Final Year', 2, 'Smart Budget and Expense Manager',
+ 'A mobile app that monitors daily spending, categorizes expenses automatically, and sends budget alerts to help users manage their personal finances effectively.'),
+ 
+('Final Year', 3, 'Automated Expenditure Analysis Tool',
+ 'Analyzes uploaded bank transaction data and provides visual spending breakdowns, savings suggestions, and monthly budget reports using ML-based categorization.'),
+ 
+-- ── GROUP 16: Mental Health / Mood Detection (3 similar) ───────────────
+('Final Year', 4, 'Student Mental Health Monitoring System',
+ 'Analyzes student behavioral patterns, academic performance data, and self-reported mood inputs to detect early signs of stress or mental health issues.'),
+ 
+('Final Year', 5, 'AI-Based Stress and Mood Detector',
+ 'Uses facial expression analysis and text sentiment from journal entries to detect emotional stress levels and recommend appropriate mental health resources.'),
+ 
+('Final Year', 6, 'Mental Wellness Tracker for College Students',
+ 'A mobile application that monitors mood, sleep, and activity patterns of students and flags potential mental health concerns to counselors for early intervention.'),
+ 
+-- ── GROUP 17: Plagiarism Detection (3 similar) ─────────────────────────
+('Final Year', 7,  'Academic Plagiarism Detection Tool',
+ 'Compares submitted academic documents against a large corpus of online and institutional sources to detect copied or paraphrased content using NLP similarity measures.'),
+ 
+('Final Year', 8,  'Document Similarity and Plagiarism Checker',
+ 'Uses TF-IDF and cosine similarity algorithms to compare student assignment submissions and identify sections with high textual overlap indicating potential plagiarism.'),
+ 
+('Final Year', 9,  'AI-Powered Content Originality Verifier',
+ 'Applies sentence embedding models to detect semantically similar passages between submitted papers and a reference database to flag potential academic dishonesty.'),
+ 
+-- ── GROUP 18: Object Detection / Surveillance (3 similar) ──────────────
+('Final Year', 10, 'Real-Time Object Detection for Surveillance',
+ 'Deploys a YOLO-based object detection model on CCTV footage to identify and track suspicious objects or unauthorized persons in restricted areas.'),
+ 
+('Final Year', 11, 'Smart CCTV Intrusion Detection System',
+ 'Monitors surveillance camera feeds using deep learning to automatically detect intrusions, raise alerts, and log timestamped incidents for security teams.'),
+ 
+('Final Year', 12, 'Anomaly Detection in Security Camera Footage',
+ 'Processes live video streams with a trained CNN to identify abnormal behaviors or objects and notify security personnel in real time.');

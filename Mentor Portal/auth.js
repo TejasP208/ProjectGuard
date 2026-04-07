@@ -1,16 +1,7 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/12.11.0/firebase-app.js";
 import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword, signOut } from "https://www.gstatic.com/firebasejs/12.11.0/firebase-auth.js";
 import { getFirestore, doc, setDoc, getDoc } from "https://www.gstatic.com/firebasejs/12.11.0/firebase-firestore.js";
-
-const firebaseConfig = {
-    apiKey: "AIzaSyBGXgPMyXLGZAXYq0aLFvD1EIHpNlDeM0A",
-    authDomain: "project-guard-19f21.firebaseapp.com",
-    projectId: "project-guard-19f21",
-    storageBucket: "project-guard-19f21.firebasestorage.app",
-    messagingSenderId: "334400351259",
-    appId: "1:334400351259:web:9460acdd8bbc5844585cbe",
-    measurementId: "G-WEMJ0J7C13"
-};
+import { firebaseConfig } from "../env.js";
 
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);

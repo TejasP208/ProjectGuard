@@ -1,0 +1,1178 @@
+[
+  {
+    "name_a": "Real-Time Traffic Congestion Predictor",
+    "abstract_a": "Uses live sensor data and machine learning to forecast traffic bottlenecks and recommend alternate routes to reduce urban congestion.",
+    "name_b": "AI Customer Support Chatbot",
+    "abstract_b": "A natural language processing-powered chatbot that handles customer queries, resolves common complaints, and escalates complex issues to human agents.",
+    "label": 0
+  },
+  {
+    "name_a": "Brain Tumor Detection Using CNN",
+    "abstract_a": "A deep learning model trained on labeled MRI datasets to detect the presence and type of brain tumors, assisting radiologists in early diagnosis.",
+    "name_b": "Intelligent Virtual Assistant for E-commerce",
+    "abstract_b": "An NLP-driven virtual assistant integrated into e-commerce platforms to help users find products, track orders, and resolve issues through conversation.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Job Application Filter",
+    "abstract_a": "An intelligent filtering tool that processes uploaded CVs and matches applicants to relevant job postings based on skills, experience, and semantic similarity.",
+    "name_b": "Leaf Condition Classifier for Precision Farming",
+    "abstract_b": "Classifies leaf images into healthy or diseased categories using CNN-based image processing to help farmers take timely action against crop damage.",
+    "label": 0
+  },
+  {
+    "name_a": "Intelligent Virtual Assistant for E-commerce",
+    "abstract_a": "An NLP-driven virtual assistant integrated into e-commerce platforms to help users find products, track orders, and resolve issues through conversation.",
+    "name_b": "AI Personal Finance Tracker",
+    "abstract_b": "Tracks user income and expenses automatically by parsing bank statements and categorizing transactions using machine learning to provide spending insights.",
+    "label": 0
+  },
+  {
+    "name_a": "Predictive Traffic Flow Analyzer",
+    "abstract_a": "Processes historical and real-time city transit data to predict congestion zones and suggest optimal dynamic routing for emergency vehicles.",
+    "name_b": "Decentralized Student Voting System",
+    "abstract_b": "A secure blockchain-based web application designed for campus elections to ensure voter anonymity and prevent ballot tampering.",
+    "label": 0
+  },
+  {
+    "name_a": "Blockchain-Based Online Voting Platform",
+    "abstract_a": "Implements a tamper-proof digital voting mechanism using Ethereum smart contracts to conduct transparent and verifiable online elections.",
+    "name_b": "Automated FAQ Answering Bot",
+    "abstract_b": "Uses intent recognition and a knowledge base to automatically answer frequently asked questions on institutional websites without human intervention.",
+    "label": 0
+  },
+  {
+    "name_a": "Automated Resume Ranking System",
+    "abstract_a": "A machine learning system that reads candidate resumes and scores them against job role requirements using NLP and keyword extraction techniques.",
+    "name_b": "Product Price Drop Alert System",
+    "abstract_b": "Scrapes major e-commerce platforms periodically to track product price changes and notifies registered users via email when their wishlist items go on sale.",
+    "label": 0
+  },
+  {
+    "name_a": "Automated Radiology Scan Analyzer",
+    "abstract_a": "Processes X-ray and CT scan images through a trained neural network pipeline to flag abnormalities and assist medical professionals in diagnosis.",
+    "name_b": "Smart Classroom Attendance Monitor",
+    "abstract_b": "Uses a webcam and face detection algorithms to automatically identify students in a classroom and mark their attendance in the institution database.",
+    "label": 0
+  },
+  {
+    "name_a": "Real-Time Object Detection for Surveillance",
+    "abstract_a": "Deploys a YOLO-based object detection model on CCTV footage to identify and track suspicious objects or unauthorized persons in restricted areas.",
+    "name_b": "Anomaly Detection in Security Camera Footage",
+    "abstract_b": "Processes live video streams with a trained CNN to identify abnormal behaviors or objects and notify security personnel in real time.",
+    "label": 1
+  },
+  {
+    "name_a": "Product Price Drop Alert System",
+    "abstract_a": "Scrapes major e-commerce platforms periodically to track product price changes and notifies registered users via email when their wishlist items go on sale.",
+    "name_b": "Student Assessment and Quiz Platform",
+    "abstract_b": "A full-stack web application that allows teachers to create quizzes and exams, and students to attempt them online with instant automated feedback.",
+    "label": 0
+  },
+  {
+    "name_a": "AI Crop Disease Detection System",
+    "abstract_a": "Uses image recognition and deep learning to identify diseases in crop leaves from smartphone photographs, enabling early intervention for farmers.",
+    "name_b": "Leaf Condition Classifier for Precision Farming",
+    "abstract_b": "Classifies leaf images into healthy or diseased categories using CNN-based image processing to help farmers take timely action against crop damage.",
+    "label": 1
+  },
+  {
+    "name_a": "Blockchain-Based Online Voting Platform",
+    "abstract_a": "Implements a tamper-proof digital voting mechanism using Ethereum smart contracts to conduct transparent and verifiable online elections.",
+    "name_b": "Secure E-Voting System Using Blockchain",
+    "abstract_b": "A decentralized election platform that uses blockchain technology to record votes immutably, ensuring transparency and eliminating fraud in online voting.",
+    "label": 1
+  },
+  {
+    "name_a": "Cancer Cell Classification from Histology Images",
+    "abstract_a": "Uses transfer learning on microscopic histology image datasets to classify cancerous and non-cancerous cells with clinical-grade accuracy.",
+    "name_b": "Student Mental Health Monitoring System",
+    "abstract_b": "Analyzes student behavioral patterns, academic performance data, and self-reported mood inputs to detect early signs of stress or mental health issues.",
+    "label": 0
+  },
+  {
+    "name_a": "Medical Image Tumor Detector",
+    "abstract_a": "Applies deep convolutional neural networks to MRI and CT scan images to automatically detect and localize tumors with high diagnostic accuracy.",
+    "name_b": "Online Examination Portal",
+    "abstract_b": "A web-based platform for conducting timed online exams with automated grading, anti-cheating measures, and result analytics for institutions.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart City Route Optimizer",
+    "abstract_a": "Analyzes traffic patterns across city road networks and dynamically reroutes vehicles to minimize travel time and reduce fuel consumption.",
+    "name_b": "E-commerce Dynamic Price Tracker",
+    "abstract_b": "An automated web scraper that monitors targeted products across multiple online retailers, sending users SMS or email alerts when prices drop below a set threshold.",
+    "label": 0
+  },
+  {
+    "name_a": "Hand Gesture to Text Converter",
+    "abstract_a": "A computer vision system that detects and interprets hand gestures captured via webcam and converts them into readable text using a trained CNN model.",
+    "name_b": "Sign Language Recognition Using Deep Learning",
+    "abstract_b": "Trains a convolutional neural network on a dataset of sign language hand poses to recognize and translate gestures into spoken language in real time.",
+    "label": 1
+  },
+  {
+    "name_a": "Automated Resume Ranking System",
+    "abstract_a": "A machine learning system that reads candidate resumes and scores them against job role requirements using NLP and keyword extraction techniques.",
+    "name_b": "Real-Time Object Detection for Surveillance",
+    "abstract_b": "Deploys a YOLO-based object detection model on CCTV footage to identify and track suspicious objects or unauthorized persons in restricted areas.",
+    "label": 0
+  },
+  {
+    "name_a": "Fake News Detection Engine",
+    "abstract_a": "A machine learning model trained on linguistic patterns and trusted source databases to flag potentially misleading articles and clickbait headlines.",
+    "name_b": "Misinformation Classifier for News Articles",
+    "abstract_b": "Applies NLP-based classification to online news content, detecting patterns of misinformation and cross-referencing with verified fact-checking databases.",
+    "label": 1
+  },
+  {
+    "name_a": "AI-Powered Resume Screener",
+    "abstract_a": "Uses natural language processing to parse and rank applicant resumes against specific job descriptions, streamlining the initial HR filtering process.",
+    "name_b": "Automated Resume Ranking System",
+    "abstract_b": "A machine learning system that reads candidate resumes and scores them against job role requirements using NLP and keyword extraction techniques.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Examination Portal",
+    "abstract_a": "A web-based platform for conducting timed online exams with automated grading, anti-cheating measures, and result analytics for institutions.",
+    "name_b": "Mental Wellness Tracker for College Students",
+    "abstract_b": "A mobile application that monitors mood, sleep, and activity patterns of students and flags potential mental health concerns to counselors for early intervention.",
+    "label": 0
+  },
+  {
+    "name_a": "Automated Expenditure Analysis Tool",
+    "abstract_a": "Analyzes uploaded bank transaction data and provides visual spending breakdowns, savings suggestions, and monthly budget reports using ML-based categorization.",
+    "name_b": "Anomaly Detection in Security Camera Footage",
+    "abstract_b": "Processes live video streams with a trained CNN to identify abnormal behaviors or objects and notify security personnel in real time.",
+    "label": 0
+  },
+  {
+    "name_a": "Misinformation Classifier for News Articles",
+    "abstract_a": "Applies NLP-based classification to online news content, detecting patterns of misinformation and cross-referencing with verified fact-checking databases.",
+    "name_b": "Smart CCTV Intrusion Detection System",
+    "abstract_b": "Monitors surveillance camera feeds using deep learning to automatically detect intrusions, raise alerts, and log timestamped incidents for security teams.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Shopping Price Comparison Tool",
+    "abstract_a": "Aggregates product pricing data from multiple e-commerce websites and presents the cheapest available options to users on a unified dashboard.",
+    "name_b": "Automated Retail Price Monitor",
+    "abstract_b": "Continuously monitors product listings across online stores using web scraping and alerts users in real time when prices fall below their desired amount.",
+    "label": 1
+  },
+  {
+    "name_a": "Predictive Traffic Flow Analyzer",
+    "abstract_a": "Processes historical and real-time city transit data to predict congestion zones and suggest optimal dynamic routing for emergency vehicles.",
+    "name_b": "AI-Based Stress and Mood Detector",
+    "abstract_b": "Uses facial expression analysis and text sentiment from journal entries to detect emotional stress levels and recommend appropriate mental health resources.",
+    "label": 0
+  },
+  {
+    "name_a": "Clickbait and Fake Article Detector",
+    "abstract_a": "Analyzes headline language, source credibility, and article structure using machine learning to identify fake or misleading online news content.",
+    "name_b": "AI Personal Finance Tracker",
+    "abstract_b": "Tracks user income and expenses automatically by parsing bank statements and categorizing transactions using machine learning to provide spending insights.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Shopping Price Comparison Tool",
+    "abstract_a": "Aggregates product pricing data from multiple e-commerce websites and presents the cheapest available options to users on a unified dashboard.",
+    "name_b": "Hand Gesture to Text Converter",
+    "abstract_b": "A computer vision system that detects and interprets hand gestures captured via webcam and converts them into readable text using a trained CNN model.",
+    "label": 0
+  },
+  {
+    "name_a": "E-commerce Dynamic Price Tracker",
+    "abstract_a": "An automated web scraper that monitors targeted products across multiple online retailers, sending users SMS or email alerts when prices drop below a set threshold.",
+    "name_b": "Product Price Drop Alert System",
+    "abstract_b": "Scrapes major e-commerce platforms periodically to track product price changes and notifies registered users via email when their wishlist items go on sale.",
+    "label": 1
+  },
+  {
+    "name_a": "Automated FAQ Answering Bot",
+    "abstract_a": "Uses intent recognition and a knowledge base to automatically answer frequently asked questions on institutional websites without human intervention.",
+    "name_b": "Mental Wellness Tracker for College Students",
+    "abstract_b": "A mobile application that monitors mood, sleep, and activity patterns of students and flags potential mental health concerns to counselors for early intervention.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Job Application Filter",
+    "abstract_a": "An intelligent filtering tool that processes uploaded CVs and matches applicants to relevant job postings based on skills, experience, and semantic similarity.",
+    "name_b": "Face Recognition Attendance System",
+    "abstract_b": "Automatically marks student or employee attendance by recognizing faces in real time using a trained deep learning model connected to a camera feed.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Job Application Filter",
+    "abstract_a": "An intelligent filtering tool that processes uploaded CVs and matches applicants to relevant job postings based on skills, experience, and semantic similarity.",
+    "name_b": "Predictive Traffic Flow Analyzer",
+    "abstract_b": "Processes historical and real-time city transit data to predict congestion zones and suggest optimal dynamic routing for emergency vehicles.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Shopping Price Comparison Tool",
+    "abstract_a": "Aggregates product pricing data from multiple e-commerce websites and presents the cheapest available options to users on a unified dashboard.",
+    "name_b": "Decentralized Student Voting System",
+    "abstract_b": "A secure blockchain-based web application designed for campus elections to ensure voter anonymity and prevent ballot tampering.",
+    "label": 0
+  },
+  {
+    "name_a": "Dynamic Road Traffic Management System",
+    "abstract_a": "A system that monitors road traffic in real time, identifies high congestion zones, and suggests optimal detour paths for commuters and emergency services.",
+    "name_b": "Student Assessment and Quiz Platform",
+    "abstract_b": "A full-stack web application that allows teachers to create quizzes and exams, and students to attempt them online with instant automated feedback.",
+    "label": 0
+  },
+  {
+    "name_a": "Face Recognition Attendance System",
+    "abstract_a": "Automatically marks student or employee attendance by recognizing faces in real time using a trained deep learning model connected to a camera feed.",
+    "name_b": "Academic Plagiarism Detection Tool",
+    "abstract_b": "Compares submitted academic documents against a large corpus of online and institutional sources to detect copied or paraphrased content using NLP similarity measures.",
+    "label": 0
+  },
+  {
+    "name_a": "News Credibility Verification System",
+    "abstract_a": "A browser extension backed by an ML model that scores the trustworthiness of news articles in real time based on linguistic cues and source reputation.",
+    "name_b": "Intelligent Virtual Assistant for E-commerce",
+    "abstract_b": "An NLP-driven virtual assistant integrated into e-commerce platforms to help users find products, track orders, and resolve issues through conversation.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Budget and Expense Manager",
+    "abstract_a": "A mobile app that monitors daily spending, categorizes expenses automatically, and sends budget alerts to help users manage their personal finances effectively.",
+    "name_b": "AI-Powered Content Originality Verifier",
+    "abstract_b": "Applies sentence embedding models to detect semantically similar passages between submitted papers and a reference database to flag potential academic dishonesty.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Agriculture Disease Monitoring Tool",
+    "abstract_a": "Monitors crop health using drone-captured images and a convolutional neural network to detect early signs of disease and recommend treatment options.",
+    "name_b": "Leaf Condition Classifier for Precision Farming",
+    "abstract_b": "Classifies leaf images into healthy or diseased categories using CNN-based image processing to help farmers take timely action against crop damage.",
+    "label": 1
+  },
+  {
+    "name_a": "Smart City Route Optimizer",
+    "abstract_a": "Analyzes traffic patterns across city road networks and dynamically reroutes vehicles to minimize travel time and reduce fuel consumption.",
+    "name_b": "Real-time Sign Language Translator",
+    "abstract_b": "Utilizes computer vision and a device webcam to translate standard sign language gestures into text and spoken audio in real-time.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Job Application Filter",
+    "abstract_a": "An intelligent filtering tool that processes uploaded CVs and matches applicants to relevant job postings based on skills, experience, and semantic similarity.",
+    "name_b": "Resume Parser and Job Matcher",
+    "abstract_b": "Parses resumes using NLP pipelines and matches candidates to job descriptions by computing similarity scores across skills and work experience fields.",
+    "label": 1
+  },
+  {
+    "name_a": "Real-time Sign Language Translator",
+    "abstract_a": "Utilizes computer vision and a device webcam to translate standard sign language gestures into text and spoken audio in real-time.",
+    "name_b": "Automated Online Test Management System",
+    "abstract_b": "Provides educational institutions with a secure platform to schedule, conduct, and auto-grade online exams with real-time proctoring support.",
+    "label": 0
+  },
+  {
+    "name_a": "Fake News Detection Engine",
+    "abstract_a": "A machine learning model trained on linguistic patterns and trusted source databases to flag potentially misleading articles and clickbait headlines.",
+    "name_b": "Clickbait and Fake Article Detector",
+    "abstract_b": "Analyzes headline language, source credibility, and article structure using machine learning to identify fake or misleading online news content.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Examination Portal",
+    "abstract_a": "A web-based platform for conducting timed online exams with automated grading, anti-cheating measures, and result analytics for institutions.",
+    "name_b": "Automated FAQ Answering Bot",
+    "abstract_b": "Uses intent recognition and a knowledge base to automatically answer frequently asked questions on institutional websites without human intervention.",
+    "label": 0
+  },
+  {
+    "name_a": "Real-time Sign Language Translator",
+    "abstract_a": "Utilizes computer vision and a device webcam to translate standard sign language gestures into text and spoken audio in real-time.",
+    "name_b": "Document Similarity and Plagiarism Checker",
+    "abstract_b": "Uses TF-IDF and cosine similarity algorithms to compare student assignment submissions and identify sections with high textual overlap indicating potential plagiarism.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Budget and Expense Manager",
+    "abstract_a": "A mobile app that monitors daily spending, categorizes expenses automatically, and sends budget alerts to help users manage their personal finances effectively.",
+    "name_b": "Automated Expenditure Analysis Tool",
+    "abstract_b": "Analyzes uploaded bank transaction data and provides visual spending breakdowns, savings suggestions, and monthly budget reports using ML-based categorization.",
+    "label": 1
+  },
+  {
+    "name_a": "Real-time Sign Language Translator",
+    "abstract_a": "Utilizes computer vision and a device webcam to translate standard sign language gestures into text and spoken audio in real-time.",
+    "name_b": "Anomaly Detection in Security Camera Footage",
+    "abstract_b": "Processes live video streams with a trained CNN to identify abnormal behaviors or objects and notify security personnel in real time.",
+    "label": 0
+  },
+  {
+    "name_a": "Decentralized Student Voting System",
+    "abstract_a": "A secure blockchain-based web application designed for campus elections to ensure voter anonymity and prevent ballot tampering.",
+    "name_b": "Secure E-Voting System Using Blockchain",
+    "abstract_b": "A decentralized election platform that uses blockchain technology to record votes immutably, ensuring transparency and eliminating fraud in online voting.",
+    "label": 1
+  },
+  {
+    "name_a": "Automated Resume Ranking System",
+    "abstract_a": "A machine learning system that reads candidate resumes and scores them against job role requirements using NLP and keyword extraction techniques.",
+    "name_b": "Brain Tumor Detection Using CNN",
+    "abstract_b": "A deep learning model trained on labeled MRI datasets to detect the presence and type of brain tumors, assisting radiologists in early diagnosis.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Examination Portal",
+    "abstract_a": "A web-based platform for conducting timed online exams with automated grading, anti-cheating measures, and result analytics for institutions.",
+    "name_b": "Student Assessment and Quiz Platform",
+    "abstract_b": "A full-stack web application that allows teachers to create quizzes and exams, and students to attempt them online with instant automated feedback.",
+    "label": 1
+  },
+  {
+    "name_a": "AI Customer Support Chatbot",
+    "abstract_a": "A natural language processing-powered chatbot that handles customer queries, resolves common complaints, and escalates complex issues to human agents.",
+    "name_b": "Automated FAQ Answering Bot",
+    "abstract_b": "Uses intent recognition and a knowledge base to automatically answer frequently asked questions on institutional websites without human intervention.",
+    "label": 1
+  },
+  {
+    "name_a": "Automated Online Test Management System",
+    "abstract_a": "Provides educational institutions with a secure platform to schedule, conduct, and auto-grade online exams with real-time proctoring support.",
+    "name_b": "Automated Attendance Tracking Using Facial Recognition",
+    "abstract_b": "A system that scans faces at entry points using computer vision and logs attendance records in a database without requiring manual check-in.",
+    "label": 0
+  },
+  {
+    "name_a": "Automated Online Test Management System",
+    "abstract_a": "Provides educational institutions with a secure platform to schedule, conduct, and auto-grade online exams with real-time proctoring support.",
+    "name_b": "Student Assessment and Quiz Platform",
+    "abstract_b": "A full-stack web application that allows teachers to create quizzes and exams, and students to attempt them online with instant automated feedback.",
+    "label": 1
+  },
+  {
+    "name_a": "E-commerce Dynamic Price Tracker",
+    "abstract_a": "An automated web scraper that monitors targeted products across multiple online retailers, sending users SMS or email alerts when prices drop below a set threshold.",
+    "name_b": "Automated Retail Price Monitor",
+    "abstract_b": "Continuously monitors product listings across online stores using web scraping and alerts users in real time when prices fall below their desired amount.",
+    "label": 1
+  },
+  {
+    "name_a": "Intelligent Virtual Assistant for E-commerce",
+    "abstract_a": "An NLP-driven virtual assistant integrated into e-commerce platforms to help users find products, track orders, and resolve issues through conversation.",
+    "name_b": "Automated FAQ Answering Bot",
+    "abstract_b": "Uses intent recognition and a knowledge base to automatically answer frequently asked questions on institutional websites without human intervention.",
+    "label": 1
+  },
+  {
+    "name_a": "Dynamic Road Traffic Management System",
+    "abstract_a": "A system that monitors road traffic in real time, identifies high congestion zones, and suggests optimal detour paths for commuters and emergency services.",
+    "name_b": "Face Recognition Attendance System",
+    "abstract_b": "Automatically marks student or employee attendance by recognizing faces in real time using a trained deep learning model connected to a camera feed.",
+    "label": 0
+  },
+  {
+    "name_a": "Real-Time Traffic Congestion Predictor",
+    "abstract_a": "Uses live sensor data and machine learning to forecast traffic bottlenecks and recommend alternate routes to reduce urban congestion.",
+    "name_b": "Fake News Detection Engine",
+    "abstract_b": "A machine learning model trained on linguistic patterns and trusted source databases to flag potentially misleading articles and clickbait headlines.",
+    "label": 0
+  },
+  {
+    "name_a": "Hand Gesture to Text Converter",
+    "abstract_a": "A computer vision system that detects and interprets hand gestures captured via webcam and converts them into readable text using a trained CNN model.",
+    "name_b": "AI Customer Support Chatbot",
+    "abstract_b": "A natural language processing-powered chatbot that handles customer queries, resolves common complaints, and escalates complex issues to human agents.",
+    "label": 0
+  },
+  {
+    "name_a": "Product Price Drop Alert System",
+    "abstract_a": "Scrapes major e-commerce platforms periodically to track product price changes and notifies registered users via email when their wishlist items go on sale.",
+    "name_b": "Online Shopping Price Comparison Tool",
+    "abstract_b": "Aggregates product pricing data from multiple e-commerce websites and presents the cheapest available options to users on a unified dashboard.",
+    "label": 1
+  },
+  {
+    "name_a": "Fake News Detection Engine",
+    "abstract_a": "A machine learning model trained on linguistic patterns and trusted source databases to flag potentially misleading articles and clickbait headlines.",
+    "name_b": "News Credibility Verification System",
+    "abstract_b": "A browser extension backed by an ML model that scores the trustworthiness of news articles in real time based on linguistic cues and source reputation.",
+    "label": 1
+  },
+  {
+    "name_a": "Product Price Drop Alert System",
+    "abstract_a": "Scrapes major e-commerce platforms periodically to track product price changes and notifies registered users via email when their wishlist items go on sale.",
+    "name_b": "Automated Expenditure Analysis Tool",
+    "abstract_b": "Analyzes uploaded bank transaction data and provides visual spending breakdowns, savings suggestions, and monthly budget reports using ML-based categorization.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart City Route Optimizer",
+    "abstract_a": "Analyzes traffic patterns across city road networks and dynamically reroutes vehicles to minimize travel time and reduce fuel consumption.",
+    "name_b": "Leaf Condition Classifier for Precision Farming",
+    "abstract_b": "Classifies leaf images into healthy or diseased categories using CNN-based image processing to help farmers take timely action against crop damage.",
+    "label": 0
+  },
+  {
+    "name_a": "Cancer Cell Classification from Histology Images",
+    "abstract_a": "Uses transfer learning on microscopic histology image datasets to classify cancerous and non-cancerous cells with clinical-grade accuracy.",
+    "name_b": "Smart Budget and Expense Manager",
+    "abstract_b": "A mobile app that monitors daily spending, categorizes expenses automatically, and sends budget alerts to help users manage their personal finances effectively.",
+    "label": 0
+  },
+  {
+    "name_a": "Predictive Traffic Flow Analyzer",
+    "abstract_a": "Processes historical and real-time city transit data to predict congestion zones and suggest optimal dynamic routing for emergency vehicles.",
+    "name_b": "Automated Radiology Scan Analyzer",
+    "abstract_b": "Processes X-ray and CT scan images through a trained neural network pipeline to flag abnormalities and assist medical professionals in diagnosis.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Agriculture Disease Monitoring Tool",
+    "abstract_a": "Monitors crop health using drone-captured images and a convolutional neural network to detect early signs of disease and recommend treatment options.",
+    "name_b": "Mental Wellness Tracker for College Students",
+    "abstract_b": "A mobile application that monitors mood, sleep, and activity patterns of students and flags potential mental health concerns to counselors for early intervention.",
+    "label": 0
+  },
+  {
+    "name_a": "AI Customer Support Chatbot",
+    "abstract_a": "A natural language processing-powered chatbot that handles customer queries, resolves common complaints, and escalates complex issues to human agents.",
+    "name_b": "Intelligent Virtual Assistant for E-commerce",
+    "abstract_b": "An NLP-driven virtual assistant integrated into e-commerce platforms to help users find products, track orders, and resolve issues through conversation.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Shopping Price Comparison Tool",
+    "abstract_a": "Aggregates product pricing data from multiple e-commerce websites and presents the cheapest available options to users on a unified dashboard.",
+    "name_b": "AI Crop Disease Detection System",
+    "abstract_b": "Uses image recognition and deep learning to identify diseases in crop leaves from smartphone photographs, enabling early intervention for farmers.",
+    "label": 0
+  },
+  {
+    "name_a": "Cancer Cell Classification from Histology Images",
+    "abstract_a": "Uses transfer learning on microscopic histology image datasets to classify cancerous and non-cancerous cells with clinical-grade accuracy.",
+    "name_b": "Automated Radiology Scan Analyzer",
+    "abstract_b": "Processes X-ray and CT scan images through a trained neural network pipeline to flag abnormalities and assist medical professionals in diagnosis.",
+    "label": 1
+  },
+  {
+    "name_a": "Resume Parser and Job Matcher",
+    "abstract_a": "Parses resumes using NLP pipelines and matches candidates to job descriptions by computing similarity scores across skills and work experience fields.",
+    "name_b": "Secure E-Voting System Using Blockchain",
+    "abstract_b": "A decentralized election platform that uses blockchain technology to record votes immutably, ensuring transparency and eliminating fraud in online voting.",
+    "label": 0
+  },
+  {
+    "name_a": "Hand Gesture to Text Converter",
+    "abstract_a": "A computer vision system that detects and interprets hand gestures captured via webcam and converts them into readable text using a trained CNN model.",
+    "name_b": "AI-Based Stress and Mood Detector",
+    "abstract_b": "Uses facial expression analysis and text sentiment from journal entries to detect emotional stress levels and recommend appropriate mental health resources.",
+    "label": 0
+  },
+  {
+    "name_a": "News Credibility Verification System",
+    "abstract_a": "A browser extension backed by an ML model that scores the trustworthiness of news articles in real time based on linguistic cues and source reputation.",
+    "name_b": "Sign Language Recognition Using Deep Learning",
+    "abstract_b": "Trains a convolutional neural network on a dataset of sign language hand poses to recognize and translate gestures into spoken language in real time.",
+    "label": 0
+  },
+  {
+    "name_a": "AI-Powered Resume Screener",
+    "abstract_a": "Uses natural language processing to parse and rank applicant resumes against specific job descriptions, streamlining the initial HR filtering process.",
+    "name_b": "AI-Based Stress and Mood Detector",
+    "abstract_b": "Uses facial expression analysis and text sentiment from journal entries to detect emotional stress levels and recommend appropriate mental health resources.",
+    "label": 0
+  },
+  {
+    "name_a": "Secure E-Voting System Using Blockchain",
+    "abstract_a": "A decentralized election platform that uses blockchain technology to record votes immutably, ensuring transparency and eliminating fraud in online voting.",
+    "name_b": "Brain Tumor Detection Using CNN",
+    "abstract_b": "A deep learning model trained on labeled MRI datasets to detect the presence and type of brain tumors, assisting radiologists in early diagnosis.",
+    "label": 0
+  },
+  {
+    "name_a": "Academic Plagiarism Detection Tool",
+    "abstract_a": "Compares submitted academic documents against a large corpus of online and institutional sources to detect copied or paraphrased content using NLP similarity measures.",
+    "name_b": "Document Similarity and Plagiarism Checker",
+    "abstract_b": "Uses TF-IDF and cosine similarity algorithms to compare student assignment submissions and identify sections with high textual overlap indicating potential plagiarism.",
+    "label": 1
+  },
+  {
+    "name_a": "Hand Gesture to Text Converter",
+    "abstract_a": "A computer vision system that detects and interprets hand gestures captured via webcam and converts them into readable text using a trained CNN model.",
+    "name_b": "Smart Budget and Expense Manager",
+    "abstract_b": "A mobile app that monitors daily spending, categorizes expenses automatically, and sends budget alerts to help users manage their personal finances effectively.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Examination Portal",
+    "abstract_a": "A web-based platform for conducting timed online exams with automated grading, anti-cheating measures, and result analytics for institutions.",
+    "name_b": "Real-Time Object Detection for Surveillance",
+    "abstract_b": "Deploys a YOLO-based object detection model on CCTV footage to identify and track suspicious objects or unauthorized persons in restricted areas.",
+    "label": 0
+  },
+  {
+    "name_a": "Mental Wellness Tracker for College Students",
+    "abstract_a": "A mobile application that monitors mood, sleep, and activity patterns of students and flags potential mental health concerns to counselors for early intervention.",
+    "name_b": "AI-Powered Content Originality Verifier",
+    "abstract_b": "Applies sentence embedding models to detect semantically similar passages between submitted papers and a reference database to flag potential academic dishonesty.",
+    "label": 0
+  },
+  {
+    "name_a": "Intelligent Virtual Assistant for E-commerce",
+    "abstract_a": "An NLP-driven virtual assistant integrated into e-commerce platforms to help users find products, track orders, and resolve issues through conversation.",
+    "name_b": "Face Recognition Attendance System",
+    "abstract_b": "Automatically marks student or employee attendance by recognizing faces in real time using a trained deep learning model connected to a camera feed.",
+    "label": 0
+  },
+  {
+    "name_a": "Real-Time Traffic Congestion Predictor",
+    "abstract_a": "Uses live sensor data and machine learning to forecast traffic bottlenecks and recommend alternate routes to reduce urban congestion.",
+    "name_b": "Smart City Route Optimizer",
+    "abstract_b": "Analyzes traffic patterns across city road networks and dynamically reroutes vehicles to minimize travel time and reduce fuel consumption.",
+    "label": 1
+  },
+  {
+    "name_a": "Misinformation Classifier for News Articles",
+    "abstract_a": "Applies NLP-based classification to online news content, detecting patterns of misinformation and cross-referencing with verified fact-checking databases.",
+    "name_b": "News Credibility Verification System",
+    "abstract_b": "A browser extension backed by an ML model that scores the trustworthiness of news articles in real time based on linguistic cues and source reputation.",
+    "label": 1
+  },
+  {
+    "name_a": "Medical Image Tumor Detector",
+    "abstract_a": "Applies deep convolutional neural networks to MRI and CT scan images to automatically detect and localize tumors with high diagnostic accuracy.",
+    "name_b": "Automated Radiology Scan Analyzer",
+    "abstract_b": "Processes X-ray and CT scan images through a trained neural network pipeline to flag abnormalities and assist medical professionals in diagnosis.",
+    "label": 1
+  },
+  {
+    "name_a": "Predictive Traffic Flow Analyzer",
+    "abstract_a": "Processes historical and real-time city transit data to predict congestion zones and suggest optimal dynamic routing for emergency vehicles.",
+    "name_b": "AI-Powered Content Originality Verifier",
+    "abstract_b": "Applies sentence embedding models to detect semantically similar passages between submitted papers and a reference database to flag potential academic dishonesty.",
+    "label": 0
+  },
+  {
+    "name_a": "Real-Time Traffic Congestion Predictor",
+    "abstract_a": "Uses live sensor data and machine learning to forecast traffic bottlenecks and recommend alternate routes to reduce urban congestion.",
+    "name_b": "Dynamic Road Traffic Management System",
+    "abstract_b": "A system that monitors road traffic in real time, identifies high congestion zones, and suggests optimal detour paths for commuters and emergency services.",
+    "label": 1
+  },
+  {
+    "name_a": "Fake News Detection Engine",
+    "abstract_a": "A machine learning model trained on linguistic patterns and trusted source databases to flag potentially misleading articles and clickbait headlines.",
+    "name_b": "Blockchain-Based Online Voting Platform",
+    "abstract_b": "Implements a tamper-proof digital voting mechanism using Ethereum smart contracts to conduct transparent and verifiable online elections.",
+    "label": 0
+  },
+  {
+    "name_a": "Predictive Traffic Flow Analyzer",
+    "abstract_a": "Processes historical and real-time city transit data to predict congestion zones and suggest optimal dynamic routing for emergency vehicles.",
+    "name_b": "Dynamic Road Traffic Management System",
+    "abstract_b": "A system that monitors road traffic in real time, identifies high congestion zones, and suggests optimal detour paths for commuters and emergency services.",
+    "label": 1
+  },
+  {
+    "name_a": "Resume Parser and Job Matcher",
+    "abstract_a": "Parses resumes using NLP pipelines and matches candidates to job descriptions by computing similarity scores across skills and work experience fields.",
+    "name_b": "Online Examination Portal",
+    "abstract_b": "A web-based platform for conducting timed online exams with automated grading, anti-cheating measures, and result analytics for institutions.",
+    "label": 0
+  },
+  {
+    "name_a": "News Credibility Verification System",
+    "abstract_a": "A browser extension backed by an ML model that scores the trustworthiness of news articles in real time based on linguistic cues and source reputation.",
+    "name_b": "E-commerce Dynamic Price Tracker",
+    "abstract_b": "An automated web scraper that monitors targeted products across multiple online retailers, sending users SMS or email alerts when prices drop below a set threshold.",
+    "label": 0
+  },
+  {
+    "name_a": "Face Recognition Attendance System",
+    "abstract_a": "Automatically marks student or employee attendance by recognizing faces in real time using a trained deep learning model connected to a camera feed.",
+    "name_b": "Smart Budget and Expense Manager",
+    "abstract_b": "A mobile app that monitors daily spending, categorizes expenses automatically, and sends budget alerts to help users manage their personal finances effectively.",
+    "label": 0
+  },
+  {
+    "name_a": "Misinformation Classifier for News Articles",
+    "abstract_a": "Applies NLP-based classification to online news content, detecting patterns of misinformation and cross-referencing with verified fact-checking databases.",
+    "name_b": "Clickbait and Fake Article Detector",
+    "abstract_b": "Analyzes headline language, source credibility, and article structure using machine learning to identify fake or misleading online news content.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Shopping Price Comparison Tool",
+    "abstract_a": "Aggregates product pricing data from multiple e-commerce websites and presents the cheapest available options to users on a unified dashboard.",
+    "name_b": "AI-Based Stress and Mood Detector",
+    "abstract_b": "Uses facial expression analysis and text sentiment from journal entries to detect emotional stress levels and recommend appropriate mental health resources.",
+    "label": 0
+  },
+  {
+    "name_a": "Secure E-Voting System Using Blockchain",
+    "abstract_a": "A decentralized election platform that uses blockchain technology to record votes immutably, ensuring transparency and eliminating fraud in online voting.",
+    "name_b": "Automated Online Test Management System",
+    "abstract_b": "Provides educational institutions with a secure platform to schedule, conduct, and auto-grade online exams with real-time proctoring support.",
+    "label": 0
+  },
+  {
+    "name_a": "AI Crop Disease Detection System",
+    "abstract_a": "Uses image recognition and deep learning to identify diseases in crop leaves from smartphone photographs, enabling early intervention for farmers.",
+    "name_b": "Plant Disease Identification Using Machine Learning",
+    "abstract_b": "A mobile application that analyzes photos of plant leaves and predicts the type of disease affecting the crop using a trained image classification model.",
+    "label": 1
+  },
+  {
+    "name_a": "Decentralized Student Voting System",
+    "abstract_a": "A secure blockchain-based web application designed for campus elections to ensure voter anonymity and prevent ballot tampering.",
+    "name_b": "AI-Powered Content Originality Verifier",
+    "abstract_b": "Applies sentence embedding models to detect semantically similar passages between submitted papers and a reference database to flag potential academic dishonesty.",
+    "label": 0
+  },
+  {
+    "name_a": "Misinformation Classifier for News Articles",
+    "abstract_a": "Applies NLP-based classification to online news content, detecting patterns of misinformation and cross-referencing with verified fact-checking databases.",
+    "name_b": "Automated Online Test Management System",
+    "abstract_b": "Provides educational institutions with a secure platform to schedule, conduct, and auto-grade online exams with real-time proctoring support.",
+    "label": 0
+  },
+  {
+    "name_a": "AI-Powered Resume Screener",
+    "abstract_a": "Uses natural language processing to parse and rank applicant resumes against specific job descriptions, streamlining the initial HR filtering process.",
+    "name_b": "Smart Job Application Filter",
+    "abstract_b": "An intelligent filtering tool that processes uploaded CVs and matches applicants to relevant job postings based on skills, experience, and semantic similarity.",
+    "label": 1
+  },
+  {
+    "name_a": "AI-Based Stress and Mood Detector",
+    "abstract_a": "Uses facial expression analysis and text sentiment from journal entries to detect emotional stress levels and recommend appropriate mental health resources.",
+    "name_b": "Anomaly Detection in Security Camera Footage",
+    "abstract_b": "Processes live video streams with a trained CNN to identify abnormal behaviors or objects and notify security personnel in real time.",
+    "label": 0
+  },
+  {
+    "name_a": "Medical Image Tumor Detector",
+    "abstract_a": "Applies deep convolutional neural networks to MRI and CT scan images to automatically detect and localize tumors with high diagnostic accuracy.",
+    "name_b": "Cancer Cell Classification from Histology Images",
+    "abstract_b": "Uses transfer learning on microscopic histology image datasets to classify cancerous and non-cancerous cells with clinical-grade accuracy.",
+    "label": 1
+  },
+  {
+    "name_a": "Medical Image Tumor Detector",
+    "abstract_a": "Applies deep convolutional neural networks to MRI and CT scan images to automatically detect and localize tumors with high diagnostic accuracy.",
+    "name_b": "Leaf Condition Classifier for Precision Farming",
+    "abstract_b": "Classifies leaf images into healthy or diseased categories using CNN-based image processing to help farmers take timely action against crop damage.",
+    "label": 0
+  },
+  {
+    "name_a": "Predictive Traffic Flow Analyzer",
+    "abstract_a": "Processes historical and real-time city transit data to predict congestion zones and suggest optimal dynamic routing for emergency vehicles.",
+    "name_b": "Real-Time Traffic Congestion Predictor",
+    "abstract_b": "Uses live sensor data and machine learning to forecast traffic bottlenecks and recommend alternate routes to reduce urban congestion.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Shopping Price Comparison Tool",
+    "abstract_a": "Aggregates product pricing data from multiple e-commerce websites and presents the cheapest available options to users on a unified dashboard.",
+    "name_b": "Smart CCTV Intrusion Detection System",
+    "abstract_b": "Monitors surveillance camera feeds using deep learning to automatically detect intrusions, raise alerts, and log timestamped incidents for security teams.",
+    "label": 0
+  },
+  {
+    "name_a": "Secure E-Voting System Using Blockchain",
+    "abstract_a": "A decentralized election platform that uses blockchain technology to record votes immutably, ensuring transparency and eliminating fraud in online voting.",
+    "name_b": "Smart CCTV Intrusion Detection System",
+    "abstract_b": "Monitors surveillance camera feeds using deep learning to automatically detect intrusions, raise alerts, and log timestamped incidents for security teams.",
+    "label": 0
+  },
+  {
+    "name_a": "Real-Time Object Detection for Surveillance",
+    "abstract_a": "Deploys a YOLO-based object detection model on CCTV footage to identify and track suspicious objects or unauthorized persons in restricted areas.",
+    "name_b": "Smart CCTV Intrusion Detection System",
+    "abstract_b": "Monitors surveillance camera feeds using deep learning to automatically detect intrusions, raise alerts, and log timestamped incidents for security teams.",
+    "label": 1
+  },
+  {
+    "name_a": "Resume Parser and Job Matcher",
+    "abstract_a": "Parses resumes using NLP pipelines and matches candidates to job descriptions by computing similarity scores across skills and work experience fields.",
+    "name_b": "AI Personal Finance Tracker",
+    "abstract_b": "Tracks user income and expenses automatically by parsing bank statements and categorizing transactions using machine learning to provide spending insights.",
+    "label": 0
+  },
+  {
+    "name_a": "AI Crop Disease Detection System",
+    "abstract_a": "Uses image recognition and deep learning to identify diseases in crop leaves from smartphone photographs, enabling early intervention for farmers.",
+    "name_b": "Smart Agriculture Disease Monitoring Tool",
+    "abstract_b": "Monitors crop health using drone-captured images and a convolutional neural network to detect early signs of disease and recommend treatment options.",
+    "label": 1
+  },
+  {
+    "name_a": "Smart CCTV Intrusion Detection System",
+    "abstract_a": "Monitors surveillance camera feeds using deep learning to automatically detect intrusions, raise alerts, and log timestamped incidents for security teams.",
+    "name_b": "Anomaly Detection in Security Camera Footage",
+    "abstract_b": "Processes live video streams with a trained CNN to identify abnormal behaviors or objects and notify security personnel in real time.",
+    "label": 1
+  },
+  {
+    "name_a": "Brain Tumor Detection Using CNN",
+    "abstract_a": "A deep learning model trained on labeled MRI datasets to detect the presence and type of brain tumors, assisting radiologists in early diagnosis.",
+    "name_b": "Cancer Cell Classification from Histology Images",
+    "abstract_b": "Uses transfer learning on microscopic histology image datasets to classify cancerous and non-cancerous cells with clinical-grade accuracy.",
+    "label": 1
+  },
+  {
+    "name_a": "Predictive Traffic Flow Analyzer",
+    "abstract_a": "Processes historical and real-time city transit data to predict congestion zones and suggest optimal dynamic routing for emergency vehicles.",
+    "name_b": "Automated Expenditure Analysis Tool",
+    "abstract_b": "Analyzes uploaded bank transaction data and provides visual spending breakdowns, savings suggestions, and monthly budget reports using ML-based categorization.",
+    "label": 0
+  },
+  {
+    "name_a": "Secure E-Voting System Using Blockchain",
+    "abstract_a": "A decentralized election platform that uses blockchain technology to record votes immutably, ensuring transparency and eliminating fraud in online voting.",
+    "name_b": "Automated Attendance Tracking Using Facial Recognition",
+    "abstract_b": "A system that scans faces at entry points using computer vision and logs attendance records in a database without requiring manual check-in.",
+    "label": 0
+  },
+  {
+    "name_a": "Hand Gesture to Text Converter",
+    "abstract_a": "A computer vision system that detects and interprets hand gestures captured via webcam and converts them into readable text using a trained CNN model.",
+    "name_b": "Leaf Condition Classifier for Precision Farming",
+    "abstract_b": "Classifies leaf images into healthy or diseased categories using CNN-based image processing to help farmers take timely action against crop damage.",
+    "label": 0
+  },
+  {
+    "name_a": "Decentralized Student Voting System",
+    "abstract_a": "A secure blockchain-based web application designed for campus elections to ensure voter anonymity and prevent ballot tampering.",
+    "name_b": "Blockchain-Based Online Voting Platform",
+    "abstract_b": "Implements a tamper-proof digital voting mechanism using Ethereum smart contracts to conduct transparent and verifiable online elections.",
+    "label": 1
+  },
+  {
+    "name_a": "Academic Plagiarism Detection Tool",
+    "abstract_a": "Compares submitted academic documents against a large corpus of online and institutional sources to detect copied or paraphrased content using NLP similarity measures.",
+    "name_b": "Anomaly Detection in Security Camera Footage",
+    "abstract_b": "Processes live video streams with a trained CNN to identify abnormal behaviors or objects and notify security personnel in real time.",
+    "label": 0
+  },
+  {
+    "name_a": "Brain Tumor Detection Using CNN",
+    "abstract_a": "A deep learning model trained on labeled MRI datasets to detect the presence and type of brain tumors, assisting radiologists in early diagnosis.",
+    "name_b": "Automated Radiology Scan Analyzer",
+    "abstract_b": "Processes X-ray and CT scan images through a trained neural network pipeline to flag abnormalities and assist medical professionals in diagnosis.",
+    "label": 1
+  },
+  {
+    "name_a": "AI Customer Support Chatbot",
+    "abstract_a": "A natural language processing-powered chatbot that handles customer queries, resolves common complaints, and escalates complex issues to human agents.",
+    "name_b": "Anomaly Detection in Security Camera Footage",
+    "abstract_b": "Processes live video streams with a trained CNN to identify abnormal behaviors or objects and notify security personnel in real time.",
+    "label": 0
+  },
+  {
+    "name_a": "Automated Resume Ranking System",
+    "abstract_a": "A machine learning system that reads candidate resumes and scores them against job role requirements using NLP and keyword extraction techniques.",
+    "name_b": "Automated FAQ Answering Bot",
+    "abstract_b": "Uses intent recognition and a knowledge base to automatically answer frequently asked questions on institutional websites without human intervention.",
+    "label": 0
+  },
+  {
+    "name_a": "AI Personal Finance Tracker",
+    "abstract_a": "Tracks user income and expenses automatically by parsing bank statements and categorizing transactions using machine learning to provide spending insights.",
+    "name_b": "Student Mental Health Monitoring System",
+    "abstract_b": "Analyzes student behavioral patterns, academic performance data, and self-reported mood inputs to detect early signs of stress or mental health issues.",
+    "label": 0
+  },
+  {
+    "name_a": "AI-Based Stress and Mood Detector",
+    "abstract_a": "Uses facial expression analysis and text sentiment from journal entries to detect emotional stress levels and recommend appropriate mental health resources.",
+    "name_b": "Mental Wellness Tracker for College Students",
+    "abstract_b": "A mobile application that monitors mood, sleep, and activity patterns of students and flags potential mental health concerns to counselors for early intervention.",
+    "label": 1
+  },
+  {
+    "name_a": "Blockchain-Based Online Voting Platform",
+    "abstract_a": "Implements a tamper-proof digital voting mechanism using Ethereum smart contracts to conduct transparent and verifiable online elections.",
+    "name_b": "Student Mental Health Monitoring System",
+    "abstract_b": "Analyzes student behavioral patterns, academic performance data, and self-reported mood inputs to detect early signs of stress or mental health issues.",
+    "label": 0
+  },
+  {
+    "name_a": "E-commerce Dynamic Price Tracker",
+    "abstract_a": "An automated web scraper that monitors targeted products across multiple online retailers, sending users SMS or email alerts when prices drop below a set threshold.",
+    "name_b": "Online Shopping Price Comparison Tool",
+    "abstract_b": "Aggregates product pricing data from multiple e-commerce websites and presents the cheapest available options to users on a unified dashboard.",
+    "label": 1
+  },
+  {
+    "name_a": "Plant Disease Identification Using Machine Learning",
+    "abstract_a": "A mobile application that analyzes photos of plant leaves and predicts the type of disease affecting the crop using a trained image classification model.",
+    "name_b": "Intelligent Virtual Assistant for E-commerce",
+    "abstract_b": "An NLP-driven virtual assistant integrated into e-commerce platforms to help users find products, track orders, and resolve issues through conversation.",
+    "label": 0
+  },
+  {
+    "name_a": "Plant Disease Identification Using Machine Learning",
+    "abstract_a": "A mobile application that analyzes photos of plant leaves and predicts the type of disease affecting the crop using a trained image classification model.",
+    "name_b": "Smart Agriculture Disease Monitoring Tool",
+    "abstract_b": "Monitors crop health using drone-captured images and a convolutional neural network to detect early signs of disease and recommend treatment options.",
+    "label": 1
+  },
+  {
+    "name_a": "Real-time Sign Language Translator",
+    "abstract_a": "Utilizes computer vision and a device webcam to translate standard sign language gestures into text and spoken audio in real-time.",
+    "name_b": "Sign Language Recognition Using Deep Learning",
+    "abstract_b": "Trains a convolutional neural network on a dataset of sign language hand poses to recognize and translate gestures into spoken language in real time.",
+    "label": 1
+  },
+  {
+    "name_a": "Academic Plagiarism Detection Tool",
+    "abstract_a": "Compares submitted academic documents against a large corpus of online and institutional sources to detect copied or paraphrased content using NLP similarity measures.",
+    "name_b": "AI-Powered Content Originality Verifier",
+    "abstract_b": "Applies sentence embedding models to detect semantically similar passages between submitted papers and a reference database to flag potential academic dishonesty.",
+    "label": 1
+  },
+  {
+    "name_a": "Cancer Cell Classification from Histology Images",
+    "abstract_a": "Uses transfer learning on microscopic histology image datasets to classify cancerous and non-cancerous cells with clinical-grade accuracy.",
+    "name_b": "Real-Time Object Detection for Surveillance",
+    "abstract_b": "Deploys a YOLO-based object detection model on CCTV footage to identify and track suspicious objects or unauthorized persons in restricted areas.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Shopping Price Comparison Tool",
+    "abstract_a": "Aggregates product pricing data from multiple e-commerce websites and presents the cheapest available options to users on a unified dashboard.",
+    "name_b": "Automated Attendance Tracking Using Facial Recognition",
+    "abstract_b": "A system that scans faces at entry points using computer vision and logs attendance records in a database without requiring manual check-in.",
+    "label": 0
+  },
+  {
+    "name_a": "Automated Retail Price Monitor",
+    "abstract_a": "Continuously monitors product listings across online stores using web scraping and alerts users in real time when prices fall below their desired amount.",
+    "name_b": "AI Customer Support Chatbot",
+    "abstract_b": "A natural language processing-powered chatbot that handles customer queries, resolves common complaints, and escalates complex issues to human agents.",
+    "label": 0
+  },
+  {
+    "name_a": "Decentralized Student Voting System",
+    "abstract_a": "A secure blockchain-based web application designed for campus elections to ensure voter anonymity and prevent ballot tampering.",
+    "name_b": "Automated Expenditure Analysis Tool",
+    "abstract_b": "Analyzes uploaded bank transaction data and provides visual spending breakdowns, savings suggestions, and monthly budget reports using ML-based categorization.",
+    "label": 0
+  },
+  {
+    "name_a": "Clickbait and Fake Article Detector",
+    "abstract_a": "Analyzes headline language, source credibility, and article structure using machine learning to identify fake or misleading online news content.",
+    "name_b": "News Credibility Verification System",
+    "abstract_b": "A browser extension backed by an ML model that scores the trustworthiness of news articles in real time based on linguistic cues and source reputation.",
+    "label": 1
+  },
+  {
+    "name_a": "News Credibility Verification System",
+    "abstract_a": "A browser extension backed by an ML model that scores the trustworthiness of news articles in real time based on linguistic cues and source reputation.",
+    "name_b": "AI Crop Disease Detection System",
+    "abstract_b": "Uses image recognition and deep learning to identify diseases in crop leaves from smartphone photographs, enabling early intervention for farmers.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Examination Portal",
+    "abstract_a": "A web-based platform for conducting timed online exams with automated grading, anti-cheating measures, and result analytics for institutions.",
+    "name_b": "Document Similarity and Plagiarism Checker",
+    "abstract_b": "Uses TF-IDF and cosine similarity algorithms to compare student assignment submissions and identify sections with high textual overlap indicating potential plagiarism.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Job Application Filter",
+    "abstract_a": "An intelligent filtering tool that processes uploaded CVs and matches applicants to relevant job postings based on skills, experience, and semantic similarity.",
+    "name_b": "Fake News Detection Engine",
+    "abstract_b": "A machine learning model trained on linguistic patterns and trusted source databases to flag potentially misleading articles and clickbait headlines.",
+    "label": 0
+  },
+  {
+    "name_a": "Face Recognition Attendance System",
+    "abstract_a": "Automatically marks student or employee attendance by recognizing faces in real time using a trained deep learning model connected to a camera feed.",
+    "name_b": "Automated Attendance Tracking Using Facial Recognition",
+    "abstract_b": "A system that scans faces at entry points using computer vision and logs attendance records in a database without requiring manual check-in.",
+    "label": 1
+  },
+  {
+    "name_a": "Automated Resume Ranking System",
+    "abstract_a": "A machine learning system that reads candidate resumes and scores them against job role requirements using NLP and keyword extraction techniques.",
+    "name_b": "Resume Parser and Job Matcher",
+    "abstract_b": "Parses resumes using NLP pipelines and matches candidates to job descriptions by computing similarity scores across skills and work experience fields.",
+    "label": 1
+  },
+  {
+    "name_a": "Face Recognition Attendance System",
+    "abstract_a": "Automatically marks student or employee attendance by recognizing faces in real time using a trained deep learning model connected to a camera feed.",
+    "name_b": "AI-Based Stress and Mood Detector",
+    "abstract_b": "Uses facial expression analysis and text sentiment from journal entries to detect emotional stress levels and recommend appropriate mental health resources.",
+    "label": 0
+  },
+  {
+    "name_a": "Real-time Sign Language Translator",
+    "abstract_a": "Utilizes computer vision and a device webcam to translate standard sign language gestures into text and spoken audio in real-time.",
+    "name_b": "Cancer Cell Classification from Histology Images",
+    "abstract_b": "Uses transfer learning on microscopic histology image datasets to classify cancerous and non-cancerous cells with clinical-grade accuracy.",
+    "label": 0
+  },
+  {
+    "name_a": "Fake News Detection Engine",
+    "abstract_a": "A machine learning model trained on linguistic patterns and trusted source databases to flag potentially misleading articles and clickbait headlines.",
+    "name_b": "Smart Classroom Attendance Monitor",
+    "abstract_b": "Uses a webcam and face detection algorithms to automatically identify students in a classroom and mark their attendance in the institution database.",
+    "label": 0
+  },
+  {
+    "name_a": "Real-time Sign Language Translator",
+    "abstract_a": "Utilizes computer vision and a device webcam to translate standard sign language gestures into text and spoken audio in real-time.",
+    "name_b": "Blockchain-Based Online Voting Platform",
+    "abstract_b": "Implements a tamper-proof digital voting mechanism using Ethereum smart contracts to conduct transparent and verifiable online elections.",
+    "label": 0
+  },
+  {
+    "name_a": "Cancer Cell Classification from Histology Images",
+    "abstract_a": "Uses transfer learning on microscopic histology image datasets to classify cancerous and non-cancerous cells with clinical-grade accuracy.",
+    "name_b": "Academic Plagiarism Detection Tool",
+    "abstract_b": "Compares submitted academic documents against a large corpus of online and institutional sources to detect copied or paraphrased content using NLP similarity measures.",
+    "label": 0
+  },
+  {
+    "name_a": "Real-time Sign Language Translator",
+    "abstract_a": "Utilizes computer vision and a device webcam to translate standard sign language gestures into text and spoken audio in real-time.",
+    "name_b": "Hand Gesture to Text Converter",
+    "abstract_b": "A computer vision system that detects and interprets hand gestures captured via webcam and converts them into readable text using a trained CNN model.",
+    "label": 1
+  },
+  {
+    "name_a": "Clickbait and Fake Article Detector",
+    "abstract_a": "Analyzes headline language, source credibility, and article structure using machine learning to identify fake or misleading online news content.",
+    "name_b": "AI-Based Stress and Mood Detector",
+    "abstract_b": "Uses facial expression analysis and text sentiment from journal entries to detect emotional stress levels and recommend appropriate mental health resources.",
+    "label": 0
+  },
+  {
+    "name_a": "Sign Language Recognition Using Deep Learning",
+    "abstract_a": "Trains a convolutional neural network on a dataset of sign language hand poses to recognize and translate gestures into spoken language in real time.",
+    "name_b": "Smart Classroom Attendance Monitor",
+    "abstract_b": "Uses a webcam and face detection algorithms to automatically identify students in a classroom and mark their attendance in the institution database.",
+    "label": 0
+  },
+  {
+    "name_a": "Automated Attendance Tracking Using Facial Recognition",
+    "abstract_a": "A system that scans faces at entry points using computer vision and logs attendance records in a database without requiring manual check-in.",
+    "name_b": "Smart Classroom Attendance Monitor",
+    "abstract_b": "Uses a webcam and face detection algorithms to automatically identify students in a classroom and mark their attendance in the institution database.",
+    "label": 1
+  },
+  {
+    "name_a": "Smart Classroom Attendance Monitor",
+    "abstract_a": "Uses a webcam and face detection algorithms to automatically identify students in a classroom and mark their attendance in the institution database.",
+    "name_b": "Anomaly Detection in Security Camera Footage",
+    "abstract_b": "Processes live video streams with a trained CNN to identify abnormal behaviors or objects and notify security personnel in real time.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Agriculture Disease Monitoring Tool",
+    "abstract_a": "Monitors crop health using drone-captured images and a convolutional neural network to detect early signs of disease and recommend treatment options.",
+    "name_b": "AI-Powered Content Originality Verifier",
+    "abstract_b": "Applies sentence embedding models to detect semantically similar passages between submitted papers and a reference database to flag potential academic dishonesty.",
+    "label": 0
+  },
+  {
+    "name_a": "Student Mental Health Monitoring System",
+    "abstract_a": "Analyzes student behavioral patterns, academic performance data, and self-reported mood inputs to detect early signs of stress or mental health issues.",
+    "name_b": "AI-Based Stress and Mood Detector",
+    "abstract_b": "Uses facial expression analysis and text sentiment from journal entries to detect emotional stress levels and recommend appropriate mental health resources.",
+    "label": 1
+  },
+  {
+    "name_a": "Predictive Traffic Flow Analyzer",
+    "abstract_a": "Processes historical and real-time city transit data to predict congestion zones and suggest optimal dynamic routing for emergency vehicles.",
+    "name_b": "Real-Time Object Detection for Surveillance",
+    "abstract_b": "Deploys a YOLO-based object detection model on CCTV footage to identify and track suspicious objects or unauthorized persons in restricted areas.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Job Application Filter",
+    "abstract_a": "An intelligent filtering tool that processes uploaded CVs and matches applicants to relevant job postings based on skills, experience, and semantic similarity.",
+    "name_b": "Document Similarity and Plagiarism Checker",
+    "abstract_b": "Uses TF-IDF and cosine similarity algorithms to compare student assignment submissions and identify sections with high textual overlap indicating potential plagiarism.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart City Route Optimizer",
+    "abstract_a": "Analyzes traffic patterns across city road networks and dynamically reroutes vehicles to minimize travel time and reduce fuel consumption.",
+    "name_b": "Dynamic Road Traffic Management System",
+    "abstract_b": "A system that monitors road traffic in real time, identifies high congestion zones, and suggests optimal detour paths for commuters and emergency services.",
+    "label": 1
+  },
+  {
+    "name_a": "AI Crop Disease Detection System",
+    "abstract_a": "Uses image recognition and deep learning to identify diseases in crop leaves from smartphone photographs, enabling early intervention for farmers.",
+    "name_b": "Automated Online Test Management System",
+    "abstract_b": "Provides educational institutions with a secure platform to schedule, conduct, and auto-grade online exams with real-time proctoring support.",
+    "label": 0
+  },
+  {
+    "name_a": "Medical Image Tumor Detector",
+    "abstract_a": "Applies deep convolutional neural networks to MRI and CT scan images to automatically detect and localize tumors with high diagnostic accuracy.",
+    "name_b": "Brain Tumor Detection Using CNN",
+    "abstract_b": "A deep learning model trained on labeled MRI datasets to detect the presence and type of brain tumors, assisting radiologists in early diagnosis.",
+    "label": 1
+  },
+  {
+    "name_a": "AI-Powered Resume Screener",
+    "abstract_a": "Uses natural language processing to parse and rank applicant resumes against specific job descriptions, streamlining the initial HR filtering process.",
+    "name_b": "Resume Parser and Job Matcher",
+    "abstract_b": "Parses resumes using NLP pipelines and matches candidates to job descriptions by computing similarity scores across skills and work experience fields.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Examination Portal",
+    "abstract_a": "A web-based platform for conducting timed online exams with automated grading, anti-cheating measures, and result analytics for institutions.",
+    "name_b": "Automated Expenditure Analysis Tool",
+    "abstract_b": "Analyzes uploaded bank transaction data and provides visual spending breakdowns, savings suggestions, and monthly budget reports using ML-based categorization.",
+    "label": 0
+  },
+  {
+    "name_a": "Secure E-Voting System Using Blockchain",
+    "abstract_a": "A decentralized election platform that uses blockchain technology to record votes immutably, ensuring transparency and eliminating fraud in online voting.",
+    "name_b": "Smart Agriculture Disease Monitoring Tool",
+    "abstract_b": "Monitors crop health using drone-captured images and a convolutional neural network to detect early signs of disease and recommend treatment options.",
+    "label": 0
+  },
+  {
+    "name_a": "AI Personal Finance Tracker",
+    "abstract_a": "Tracks user income and expenses automatically by parsing bank statements and categorizing transactions using machine learning to provide spending insights.",
+    "name_b": "Smart Budget and Expense Manager",
+    "abstract_b": "A mobile app that monitors daily spending, categorizes expenses automatically, and sends budget alerts to help users manage their personal finances effectively.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Examination Portal",
+    "abstract_a": "A web-based platform for conducting timed online exams with automated grading, anti-cheating measures, and result analytics for institutions.",
+    "name_b": "Automated Online Test Management System",
+    "abstract_b": "Provides educational institutions with a secure platform to schedule, conduct, and auto-grade online exams with real-time proctoring support.",
+    "label": 1
+  },
+  {
+    "name_a": "Leaf Condition Classifier for Precision Farming",
+    "abstract_a": "Classifies leaf images into healthy or diseased categories using CNN-based image processing to help farmers take timely action against crop damage.",
+    "name_b": "Smart CCTV Intrusion Detection System",
+    "abstract_b": "Monitors surveillance camera feeds using deep learning to automatically detect intrusions, raise alerts, and log timestamped incidents for security teams.",
+    "label": 0
+  },
+  {
+    "name_a": "E-commerce Dynamic Price Tracker",
+    "abstract_a": "An automated web scraper that monitors targeted products across multiple online retailers, sending users SMS or email alerts when prices drop below a set threshold.",
+    "name_b": "AI-Powered Content Originality Verifier",
+    "abstract_b": "Applies sentence embedding models to detect semantically similar passages between submitted papers and a reference database to flag potential academic dishonesty.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Shopping Price Comparison Tool",
+    "abstract_a": "Aggregates product pricing data from multiple e-commerce websites and presents the cheapest available options to users on a unified dashboard.",
+    "name_b": "Cancer Cell Classification from Histology Images",
+    "abstract_b": "Uses transfer learning on microscopic histology image datasets to classify cancerous and non-cancerous cells with clinical-grade accuracy.",
+    "label": 0
+  },
+  {
+    "name_a": "Student Mental Health Monitoring System",
+    "abstract_a": "Analyzes student behavioral patterns, academic performance data, and self-reported mood inputs to detect early signs of stress or mental health issues.",
+    "name_b": "Mental Wellness Tracker for College Students",
+    "abstract_b": "A mobile application that monitors mood, sleep, and activity patterns of students and flags potential mental health concerns to counselors for early intervention.",
+    "label": 1
+  },
+  {
+    "name_a": "Fake News Detection Engine",
+    "abstract_a": "A machine learning model trained on linguistic patterns and trusted source databases to flag potentially misleading articles and clickbait headlines.",
+    "name_b": "Medical Image Tumor Detector",
+    "abstract_b": "Applies deep convolutional neural networks to MRI and CT scan images to automatically detect and localize tumors with high diagnostic accuracy.",
+    "label": 0
+  },
+  {
+    "name_a": "Plant Disease Identification Using Machine Learning",
+    "abstract_a": "A mobile application that analyzes photos of plant leaves and predicts the type of disease affecting the crop using a trained image classification model.",
+    "name_b": "Leaf Condition Classifier for Precision Farming",
+    "abstract_b": "Classifies leaf images into healthy or diseased categories using CNN-based image processing to help farmers take timely action against crop damage.",
+    "label": 1
+  },
+  {
+    "name_a": "Document Similarity and Plagiarism Checker",
+    "abstract_a": "Uses TF-IDF and cosine similarity algorithms to compare student assignment submissions and identify sections with high textual overlap indicating potential plagiarism.",
+    "name_b": "AI-Powered Content Originality Verifier",
+    "abstract_b": "Applies sentence embedding models to detect semantically similar passages between submitted papers and a reference database to flag potential academic dishonesty.",
+    "label": 1
+  },
+  {
+    "name_a": "AI Personal Finance Tracker",
+    "abstract_a": "Tracks user income and expenses automatically by parsing bank statements and categorizing transactions using machine learning to provide spending insights.",
+    "name_b": "Automated Expenditure Analysis Tool",
+    "abstract_b": "Analyzes uploaded bank transaction data and provides visual spending breakdowns, savings suggestions, and monthly budget reports using ML-based categorization.",
+    "label": 1
+  },
+  {
+    "name_a": "News Credibility Verification System",
+    "abstract_a": "A browser extension backed by an ML model that scores the trustworthiness of news articles in real time based on linguistic cues and source reputation.",
+    "name_b": "Document Similarity and Plagiarism Checker",
+    "abstract_b": "Uses TF-IDF and cosine similarity algorithms to compare student assignment submissions and identify sections with high textual overlap indicating potential plagiarism.",
+    "label": 0
+  },
+  {
+    "name_a": "Automated Resume Ranking System",
+    "abstract_a": "A machine learning system that reads candidate resumes and scores them against job role requirements using NLP and keyword extraction techniques.",
+    "name_b": "Smart Job Application Filter",
+    "abstract_b": "An intelligent filtering tool that processes uploaded CVs and matches applicants to relevant job postings based on skills, experience, and semantic similarity.",
+    "label": 1
+  },
+  {
+    "name_a": "Intelligent Virtual Assistant for E-commerce",
+    "abstract_a": "An NLP-driven virtual assistant integrated into e-commerce platforms to help users find products, track orders, and resolve issues through conversation.",
+    "name_b": "AI-Powered Content Originality Verifier",
+    "abstract_b": "Applies sentence embedding models to detect semantically similar passages between submitted papers and a reference database to flag potential academic dishonesty.",
+    "label": 0
+  },
+  {
+    "name_a": "Leaf Condition Classifier for Precision Farming",
+    "abstract_a": "Classifies leaf images into healthy or diseased categories using CNN-based image processing to help farmers take timely action against crop damage.",
+    "name_b": "AI Personal Finance Tracker",
+    "abstract_b": "Tracks user income and expenses automatically by parsing bank statements and categorizing transactions using machine learning to provide spending insights.",
+    "label": 0
+  },
+  {
+    "name_a": "Product Price Drop Alert System",
+    "abstract_a": "Scrapes major e-commerce platforms periodically to track product price changes and notifies registered users via email when their wishlist items go on sale.",
+    "name_b": "Automated Retail Price Monitor",
+    "abstract_b": "Continuously monitors product listings across online stores using web scraping and alerts users in real time when prices fall below their desired amount.",
+    "label": 1
+  },
+  {
+    "name_a": "Automated Resume Ranking System",
+    "abstract_a": "A machine learning system that reads candidate resumes and scores them against job role requirements using NLP and keyword extraction techniques.",
+    "name_b": "Sign Language Recognition Using Deep Learning",
+    "abstract_b": "Trains a convolutional neural network on a dataset of sign language hand poses to recognize and translate gestures into spoken language in real time.",
+    "label": 0
+  },
+  {
+    "name_a": "Leaf Condition Classifier for Precision Farming",
+    "abstract_a": "Classifies leaf images into healthy or diseased categories using CNN-based image processing to help farmers take timely action against crop damage.",
+    "name_b": "Face Recognition Attendance System",
+    "abstract_b": "Automatically marks student or employee attendance by recognizing faces in real time using a trained deep learning model connected to a camera feed.",
+    "label": 0
+  },
+  {
+    "name_a": "Predictive Traffic Flow Analyzer",
+    "abstract_a": "Processes historical and real-time city transit data to predict congestion zones and suggest optimal dynamic routing for emergency vehicles.",
+    "name_b": "Smart City Route Optimizer",
+    "abstract_b": "Analyzes traffic patterns across city road networks and dynamically reroutes vehicles to minimize travel time and reduce fuel consumption.",
+    "label": 1
+  },
+  {
+    "name_a": "Face Recognition Attendance System",
+    "abstract_a": "Automatically marks student or employee attendance by recognizing faces in real time using a trained deep learning model connected to a camera feed.",
+    "name_b": "Smart Classroom Attendance Monitor",
+    "abstract_b": "Uses a webcam and face detection algorithms to automatically identify students in a classroom and mark their attendance in the institution database.",
+    "label": 1
+  }
+]
