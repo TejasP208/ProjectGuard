@@ -24,8 +24,8 @@ document.addEventListener('DOMContentLoaded', () => {
         authSubtitle.textContent = 'Please Enter your details to continue';
     });
 
-    // Handle Login Simulation
-    loginForm.addEventListener('submit', (e) => {
+    // Handle Login
+    loginForm.addEventListener('submit', async (e) => {
         e.preventDefault();
         const btn = loginForm.querySelector('button');
         const span = btn.querySelector('span');
@@ -34,13 +34,42 @@ document.addEventListener('DOMContentLoaded', () => {
         span.textContent = 'Logging in...';
         btn.disabled = true;
 
-        setTimeout(() => {
-            window.location.href = 'index.html';
-        }, 1500);
+        const teamName = document.getElementById('login-roll').value;
+        const password = document.getElementById('login-pass').value;
+
+        try {
+            const response = await fetch('http://localhost:8000/login', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    team_name: teamName,
+                    password: password
+                })
+            });
+
+            const data = await response.json();
+
+            if (response.ok) {
+                // Store login info in localStorage
+                localStorage.setItem('loggedInTeam', teamName);
+                window.location.href = 'index.html';
+            } else {
+                alert(data.detail || 'Login failed');
+                span.textContent = originalText;
+                btn.disabled = false;
+            }
+        } catch (error) {
+            console.error('Login error:', error);
+            alert('Network error. Please try again.');
+            span.textContent = originalText;
+            btn.disabled = false;
+        }
     });
 
-    // Handle Signup Simulation
-    signupForm.addEventListener('submit', (e) => {
+    // Handle Signup
+    signupForm.addEventListener('submit', async (e) => {
         e.preventDefault();
         const btn = signupForm.querySelector('button');
         const span = btn.querySelector('span');
@@ -48,11 +77,40 @@ document.addEventListener('DOMContentLoaded', () => {
         span.textContent = 'Creating account...';
         btn.disabled = true;
 
-        setTimeout(() => {
-            alert('Account created successfully! You can now login.');
-            showLogin.click();
-            span.textContent = 'Create Account';
-            btn.disabled = false;
-        }, 2000);
+        const formData = {
+            roll1: document.getElementById('roll-1').value,
+            roll2: document.getElementById('roll-2').value,
+            roll3: document.getElementById('roll-3').value,
+            roll4: document.getElementById('roll-4').value,
+            team_name: document.getElementById('team-name').value,
+            year: document.getElementById('year').value,
+            mentor_name: document.getElementById('mentor-name').value,
+            password: document.getElementById('signup-pass').value
+        };
+
+        try {
+            const response = await fetch('http://localhost:8000/signup', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(formData)
+            });
+
+            const data = await response.json();
+
+            if (response.ok) {
+                alert('Account created successfully! You can now login.');
+                showLogin.click();
+            } else {
+                alert(data.detail || 'Signup failed');
+            }
+        } catch (error) {
+            console.error('Signup error:', error);
+            alert('Network error. Please try again.');
+        }
+
+        span.textContent = 'Create Account';
+        btn.disabled = false;
     });
 });

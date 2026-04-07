@@ -1,4 +1,27 @@
 document.addEventListener('DOMContentLoaded', () => {
+    // Check if user is logged in
+    const loggedInTeam = localStorage.getItem('loggedInTeam');
+    if (!loggedInTeam) {
+        window.location.href = 'auth.html';
+        return;
+    }
+
+    // Update user profile with team name
+    const userNameElement = document.querySelector('.user-name');
+    if (userNameElement) {
+        userNameElement.textContent = loggedInTeam;
+    }
+
+    // Logout functionality
+    const logoutBtn = document.getElementById('logout-btn');
+    if (logoutBtn) {
+        logoutBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            localStorage.removeItem('loggedInTeam');
+            window.location.href = 'auth.html';
+        });
+    }
+
     // Elements
     const dropZone = document.getElementById('drop-zone');
     const fileInput = document.getElementById('file-input');
@@ -340,7 +363,7 @@ async function sendMessage() {
     const message = input.value.trim();
     if (!message) return;
 
-    // 🧑 User message
+    //  User message
     chatBox.innerHTML += `
         <div class="message-wrapper user-wrapper">
             <div class="user-message">${message}</div>
@@ -349,7 +372,7 @@ async function sendMessage() {
 
     input.value = "";
 
-    // 🤖 Create empty AI message container
+    //  Create empty AI message container
     const aiWrapper = document.createElement("div");
     aiWrapper.className = "message-wrapper ai-wrapper";
 
@@ -369,7 +392,7 @@ async function sendMessage() {
             const { done, value } = await reader.read();
             if (done) break;
 
-            // 🔥 Append streaming text
+            //  Append streaming text
             aiMessage.textContent += decoder.decode(value);
 
             // Auto scroll
@@ -379,5 +402,83 @@ async function sendMessage() {
     } catch (err) {
         aiMessage.textContent = "Error connecting to server";
         console.error(err);
+    }
+}
+// ==================== AUTH ====================
+
+async function signup() {
+    const data = {
+        roll1: document.getElementById("roll1").value,
+        roll2: document.getElementById("roll2").value,
+        roll3: document.getElementById("roll3").value,
+        roll4: document.getElementById("roll4").value,
+        team_name: document.getElementById("team-name").value,
+        year: document.getElementById("year").value,
+        mentor_name: document.getElementById("mentor").value,
+        password: document.getElementById("password").value
+    };
+
+    const res = await fetch("http://127.0.0.1:8000/signup", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify(data)
+    });
+
+    const result = await res.json();
+    alert(result.message);
+}
+
+
+// ==================== LOGIN ====================
+
+async function login() {
+    const data = {
+        team_name: document.getElementById("team-name").value,
+        password: document.getElementById("password").value
+    };
+
+    const res = await fetch("http://127.0.0.1:8000/login", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify(data)
+    });
+
+    const result = await res.json();
+
+    async function login() {
+    const data = {
+        team_name: document.getElementById("team-name").value,
+        password: document.getElementById("password").value
+    };
+
+    try {
+        const res = await fetch("http://127.0.0.1:8000/login", {
+            method: "POST",
+            headers: {"Content-Type": "application/json"},
+            body: JSON.stringify(data)
+        });
+
+        const result = await res.json();
+
+        // ✅ Proper validation
+        if (res.status === 200 && result.message === "Login successful") {
+            alert("Login successful");
+
+            // store token later if added
+            // localStorage.setItem("token", result.token);
+
+            window.location.href = "dashboard.html";  // redirect
+        } else {
+            alert(result.error || "Login failed");
+        }
+
+    } catch (err) {
+        console.error(err);
+        alert("Server error");
+    }
+}       
+
+        else {
+        alert("Invalid credentials");
     }
 }
