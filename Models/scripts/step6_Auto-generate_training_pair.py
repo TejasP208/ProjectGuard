@@ -73,7 +73,7 @@ for i, group_a in enumerate(group_names):
 
 # Keep 3x negatives vs positives
 random.shuffle(negative_pairs)
-negative_pairs = negative_pairs[:positive_count * 3]
+negative_pairs = negative_pairs[:positive_count]
 print(f"Negative pairs: {len(negative_pairs)}")
 
 # ── Combine and shuffle ──────────────────────────────────────────

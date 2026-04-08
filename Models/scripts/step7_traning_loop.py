@@ -71,13 +71,20 @@ class ProjectEncoder(nn.Module):
         self.relu      = nn.ReLU()
 
     def forward(self, x):
-        embedded  = self.embedding(x)
+        embedded    = self.embedding(x)
         lstm_out, _ = self.lstm(embedded)
-        pooled    = lstm_out.max(dim=1)[0]
-        return self.relu(self.fc(pooled))
+        pooled      = lstm_out.mean(dim=1)
+        output      = self.relu(self.fc(pooled))
+        return nn.functional.normalize(output, p=2, dim=1)
 
 model     = ProjectEncoder(vocab_size=len(vocab))
-optimizer = torch.optim.Adam(model.parameters(), lr=3e-4)
+# Lower learning rate
+optimizer = torch.optim.Adam(model.parameters(), lr=1e-4)  # was 3e-4
+
+# Add scheduler — reduces LR automatically when loss plateaus
+scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
+    optimizer, mode='min', factor=0.5, patience=3
+)
 
 # ── Contrastive Loss ─────────────────────────────────────────────
 class ContrastiveLoss(nn.Module):
@@ -98,7 +105,7 @@ criterion = ContrastiveLoss(margin=1.0)
 
 
 # ── Training Loop ────────────────────────────────────────────────
-EPOCHS = 50
+EPOCHS = 40
 
 print("\nStarting training...")
 print("─" * 40)
@@ -117,6 +124,7 @@ for epoch in range(EPOCHS):
         total_loss += loss.item()
 
     avg_loss = total_loss / len(dataloader)
+    scheduler.step(avg_loss)          
 
     if (epoch + 1) % 10 == 0:
         print(f"Epoch {epoch+1:3d}/{EPOCHS}  |  Loss: {avg_loss:.4f}")
