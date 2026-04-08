@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mentor Portal - Dashboard</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Phosphor Icons for modern, clean icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <link rel="stylesheet" href="mentor_sytle.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar glass-panel">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <i class="ph ph-graduation-cap"></i>
+                    <span>ProjectGuard</span>
+                </div>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="#" class="nav-item active" id="nav-dashboard">
+                    <i class="ph ph-squares-four"></i>
+                    <span>Dashboard</span>
+                </a>
+                <a href="#" class="nav-item" id="nav-project-list">
+                    <i class="ph ph-folder-open"></i>
+                    <span>Project List</span>
+                </a>
+                <a href="#" class="nav-item" id="nav-student-list">
+                    <i class="ph ph-users"></i>
+                    <span>Student List</span>
+                </a>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="user-profile">
+                    <img src="https://i.pravatar.cc/150?img=11" alt="Mentor Profile" class="avatar">
+                    <div class="user-info">
+                        <span class="user-name">Mentor Name</span>
+                        <span class="user-role">Mentor</span>
+                    </div>
+                </div>
+                <div class="logout-wrapper" style="margin-top: 1rem; border-top: 1px solid var(--glass-border); padding-top: 1rem;">
+                    <a href="mentor_auth.html" class="nav-item">
+                        <i class="ph ph-sign-out"></i>
+                        <span>Logout</span>
+                    </a>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="top-header">
+                <div>
+                    <h1 class="page-title" id="main-title">Mentor Dashboard</h1>
+                    <p class="page-subtitle" id="main-subtitle">Overview of your assigned student groups</p>
+                </div>
+                <!-- Optional notification icon -->
+                <button class="icon-btn glass-btn">
+                    <i class="ph ph-bell"></i>
+                </button>
+            </header>
+
+            <!-- View: Dashboard -->
+            <div id="view-dashboard" class="content-view">
+                <!-- Dashboard Stats Row -->
+                <div class="mentor-stats-row">
+                    <div class="mentor-stat-card glass-card">
+                        <div class="stat-icon" style="background: linear-gradient(135deg, rgba(99,102,241,0.15), rgba(139,92,246,0.15)); color: var(--primary);">
+                            <i class="ph ph-users-three"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-value">12</span>
+                            <span class="stat-label">Assigned Students</span>
+                        </div>
+                    </div>
+                    <div class="mentor-stat-card glass-card">
+                        <div class="stat-icon" style="background: linear-gradient(135deg, rgba(16,185,129,0.15), rgba(52,211,153,0.15)); color: var(--status-verified);">
+                            <i class="ph ph-folder-open"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-value">8</span>
+                            <span class="stat-label">Active Projects</span>
+                        </div>
+                    </div>
+                    <div class="mentor-stat-card glass-card">
+                        <div class="stat-icon" style="background: linear-gradient(135deg, rgba(245,158,11,0.15), rgba(251,191,36,0.15)); color: var(--status-pending);">
+                            <i class="ph ph-clock-countdown"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-value">3</span>
+                            <span class="stat-label">Pending Reviews</span>
+                        </div>
+                    </div>
+                    <div class="mentor-stat-card glass-card">
+                        <div class="stat-icon" style="background: linear-gradient(135deg, rgba(59,130,246,0.15), rgba(96,165,250,0.15)); color: var(--status-checking);">
+                            <i class="ph ph-calendar-check"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-value">5</span>
+                            <span class="stat-label">Reviews Done</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Schedule Review Button -->
+                <div class="schedule-review-section">
+                    <button class="btn btn-schedule-review" id="btn-schedule-review" onclick="document.getElementById('review-modal').classList.add('active')">
+                        <i class="ph ph-calendar-plus"></i>
+                        <span>Schedule a Review</span>
+                        <i class="ph ph-arrow-right btn-arrow"></i>
+                    </button>
+                </div>
+
+                <!-- Recent Activity -->
+                <div class="glass-card mentor-activity-card">
+                    <h3 class="activity-title"><i class="ph ph-clock-counter-clockwise"></i> Recent Activity</h3>
+                    <div class="activity-list">
+                        <div class="activity-item">
+                            <div class="activity-dot" style="background: var(--status-verified);"></div>
+                            <div class="activity-content">
+                                <span class="activity-text"><strong>Ravi Kumar</strong> submitted project report</span>
+                                <span class="activity-time">2 hours ago</span>
+                            </div>
+                        </div>
+                        <div class="activity-item">
+                            <div class="activity-dot" style="background: var(--status-pending);"></div>
+                            <div class="activity-content">
+                                <span class="activity-text"><strong>Priya Sharma</strong> requested feedback on draft</span>
+                                <span class="activity-time">5 hours ago</span>
+                            </div>
+                        </div>
+                        <div class="activity-item">
+                            <div class="activity-dot" style="background: var(--status-checking);"></div>
+                            <div class="activity-content">
+                                <span class="activity-text"><strong>Group B</strong> review completed</span>
+                                <span class="activity-time">Yesterday</span>
+                            </div>
+                        </div>
+                        <div class="activity-item">
+                            <div class="activity-dot" style="background: var(--primary);"></div>
+                            <div class="activity-content">
+                                <span class="activity-text"><strong>Anika Patel</strong> uploaded plagiarism check</span>
+                                <span class="activity-time">2 days ago</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- View: Project List -->
+            <div id="view-project-list" class="content-view hidden">
+                <div class="glass-card mentor-table-card">
+                    <div class="table-header-bar">
+                        <h3><i class="ph ph-folder-open"></i> All Projects</h3>
+                        <div class="table-search">
+                            <i class="ph ph-magnifying-glass"></i>
+                            <input type="text" placeholder="Search projects..." id="project-search">
+                        </div>
+                    </div>
+                    <div class="table-wrapper">
+                        <table class="mentor-table">
+                            <thead>
+                                <tr>
+                                    <th>Project Title</th>
+                                    <th>Group</th>
+                                    <th>Students</th>
+                                    <th>Status</th>
+                                    <th>Last Updated</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="project-name">AI-Based Plagiarism Detector</td>
+                                    <td>Group A</td>
+                                    <td>Ravi, Priya, Amit</td>
+                                    <td><span class="chip verified"><i class="ph-fill ph-check-circle"></i> Approved</span></td>
+                                    <td>Apr 7, 2026</td>
+                                    <td><button class="btn-table-action"><i class="ph ph-eye"></i> View</button></td>
+                                </tr>
+                                <tr>
+                                    <td class="project-name">Smart Attendance System</td>
+                                    <td>Group B</td>
+                                    <td>Anika, Rohan, Sneha</td>
+                                    <td><span class="chip checking"><i class="ph-fill ph-hourglass"></i> In Review</span></td>
+                                    <td>Apr 6, 2026</td>
+                                    <td><button class="btn-table-action"><i class="ph ph-eye"></i> View</button></td>
+                                </tr>
+                                <tr>
+                                    <td class="project-name">E-Commerce Platform</td>
+                                    <td>Group C</td>
+                                    <td>Meera, Karan, Dev</td>
+                                    <td><span class="chip pending"><i class="ph-fill ph-clock"></i> Pending</span></td>
+                                    <td>Apr 5, 2026</td>
+                                    <td><button class="btn-table-action"><i class="ph ph-eye"></i> View</button></td>
+                                </tr>
+                                <tr>
+                                    <td class="project-name">Healthcare Chatbot</td>
+                                    <td>Group D</td>
+                                    <td>Pooja, Varun, Nikhil</td>
+                                    <td><span class="chip verified"><i class="ph-fill ph-check-circle"></i> Approved</span></td>
+                                    <td>Apr 4, 2026</td>
+                                    <td><button class="btn-table-action"><i class="ph ph-eye"></i> View</button></td>
+                                </tr>
+                                <tr>
+                                    <td class="project-name">Budget Tracker App</td>
+                                    <td>Group E</td>
+                                    <td>Sanya, Jay, Tina</td>
+                                    <td><span class="chip pending"><i class="ph-fill ph-clock"></i> Pending</span></td>
+                                    <td>Apr 3, 2026</td>
+                                    <td><button class="btn-table-action"><i class="ph ph-eye"></i> View</button></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- View: Student List -->
+            <div id="view-student-list" class="content-view hidden">
+                <div class="glass-card mentor-table-card">
+                    <div class="table-header-bar">
+                        <h3><i class="ph ph-users"></i> All Students</h3>
+                        <div class="table-search">
+                            <i class="ph ph-magnifying-glass"></i>
+                            <input type="text" placeholder="Search students..." id="student-search">
+                        </div>
+                    </div>
+                    <div class="table-wrapper">
+                        <table class="mentor-table">
+                            <thead>
+                                <tr>
+                                    <th>Student Name</th>
+                                    <th>PRN</th>
+                                    <th>Group</th>
+                                    <th>Project</th>
+                                    <th>Submissions</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="student-name-cell">
+                                        <img src="https://i.pravatar.cc/32?img=1" alt="" class="table-avatar">
+                                        Ravi Kumar
+                                    </td>
+                                    <td>PRN2024001</td>
+                                    <td>Group A</td>
+                                    <td>AI-Based Plagiarism Detector</td>
+                                    <td><span class="chip verified">3 / 3</span></td>
+                                    <td><button class="btn-table-action"><i class="ph ph-eye"></i> View</button></td>
+                                </tr>
+                                <tr>
+                                    <td class="student-name-cell">
+                                        <img src="https://i.pravatar.cc/32?img=5" alt="" class="table-avatar">
+                                        Priya Sharma
+                                    </td>
+                                    <td>PRN2024002</td>
+                                    <td>Group A</td>
+                                    <td>AI-Based Plagiarism Detector</td>
+                                    <td><span class="chip checking">2 / 3</span></td>
+                                    <td><button class="btn-table-action"><i class="ph ph-eye"></i> View</button></td>
+                                </tr>
+                                <tr>
+                                    <td class="student-name-cell">
+                                        <img src="https://i.pravatar.cc/32?img=3" alt="" class="table-avatar">
+                                        Anika Patel
+                                    </td>
+                                    <td>PRN2024003</td>
+                                    <td>Group B</td>
+                                    <td>Smart Attendance System</td>
+                                    <td><span class="chip verified">3 / 3</span></td>
+                                    <td><button class="btn-table-action"><i class="ph ph-eye"></i> View</button></td>
+                                </tr>
+                                <tr>
+                                    <td class="student-name-cell">
+                                        <img src="https://i.pravatar.cc/32?img=8" alt="" class="table-avatar">
+                                        Rohan Mehta
+                                    </td>
+                                    <td>PRN2024004</td>
+                                    <td>Group B</td>
+                                    <td>Smart Attendance System</td>
+                                    <td><span class="chip pending">1 / 3</span></td>
+                                    <td><button class="btn-table-action"><i class="ph ph-eye"></i> View</button></td>
+                                </tr>
+                                <tr>
+                                    <td class="student-name-cell">
+                                        <img src="https://i.pravatar.cc/32?img=12" alt="" class="table-avatar">
+                                        Meera Joshi
+                                    </td>
+                                    <td>PRN2024005</td>
+                                    <td>Group C</td>
+                                    <td>E-Commerce Platform</td>
+                                    <td><span class="chip pending">0 / 3</span></td>
+                                    <td><button class="btn-table-action"><i class="ph ph-eye"></i> View</button></td>
+                                </tr>
+                                <tr>
+                                    <td class="student-name-cell">
+                                        <img src="https://i.pravatar.cc/32?img=15" alt="" class="table-avatar">
+                                        Karan Singh
+                                    </td>
+                                    <td>PRN2024006</td>
+                                    <td>Group C</td>
+                                    <td>E-Commerce Platform</td>
+                                    <td><span class="chip checking">2 / 3</span></td>
+                                    <td><button class="btn-table-action"><i class="ph ph-eye"></i> View</button></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+    <!-- Schedule Review Modal -->
+    <div class="review-modal-overlay" id="review-modal">
+        <div class="review-modal glass-card">
+            <div class="modal-header">
+                <h2><i class="ph ph-calendar-plus"></i> Schedule a Review</h2>
+                <button class="modal-close-btn" id="modal-close-btn" onclick="document.getElementById('review-modal').classList.remove('active')">
+                    <i class="ph ph-x"></i>
+                </button>
+            </div>
+            <form class="modal-form" id="review-form">
+
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="review-date">Date</label>
+                        <input type="date" id="review-date" class="modal-input" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="review-time">Time</label>
+                        <input type="time" id="review-time" class="modal-input" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="review-type">Review Type</label>
+                    <select id="review-type" class="modal-select">
+                        <option value="" disabled selected>Select review type</option>
+                        <option value="progress">Progress Review-1</option>
+                        <option value="mid-term">Progress Review-2</option>
+                        <option value="final">Final Presentation</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="review-notes">Notes (optional)</label>
+                    <textarea id="review-notes" class="modal-textarea" rows="3" placeholder="Add any notes for the review..."></textarea>
+                </div>
+                <div class="modal-actions">
+                    <button type="button" class="btn btn-secondary" onclick="document.getElementById('review-modal').classList.remove('active')">Cancel</button>
+                    <button type="submit" class="btn btn-primary" id="btn-confirm-review">
+                        <i class="ph ph-check-circle"></i> Confirm Schedule
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        // ============================================
+        // Mentor Dashboard - Navigation & View Switching
+        // ============================================
+        document.addEventListener('DOMContentLoaded', () => {
+            const navConfig = {
+                'nav-dashboard':     { view: 'view-dashboard',     title: 'Mentor Dashboard',  subtitle: 'Overview of your assigned student groups' },
+                'nav-project-list':  { view: 'view-project-list',  title: 'Project List',      subtitle: 'Manage and review all assigned projects' },
+                'nav-student-list':  { view: 'view-student-list',  title: 'Student List',      subtitle: 'View all students under your mentorship' },
+            };
+
+            const mainTitle = document.getElementById('main-title');
+            const mainSubtitle = document.getElementById('main-subtitle');
+
+            function switchView(navId) {
+                // Update active nav
+                document.querySelectorAll('.sidebar-nav .nav-item').forEach(n => n.classList.remove('active'));
+                document.getElementById(navId).classList.add('active');
+
+                // Hide all views, show target
+                document.querySelectorAll('.content-view').forEach(v => v.classList.add('hidden'));
+                document.getElementById(navConfig[navId].view).classList.remove('hidden');
+
+                // Update header
+                mainTitle.textContent = navConfig[navId].title;
+                mainSubtitle.textContent = navConfig[navId].subtitle;
+            }
+
+            // Attach click listeners
+            Object.keys(navConfig).forEach(navId => {
+                const el = document.getElementById(navId);
+                if (el) {
+                    el.addEventListener('click', (e) => {
+                        e.preventDefault();
+                        switchView(navId);
+                    });
+                }
+            });
+
+            // Table search filtering
+            function setupSearch(inputId, tableParentId) {
+                const input = document.getElementById(inputId);
+                if (!input) return;
+                input.addEventListener('input', () => {
+                    const query = input.value.toLowerCase();
+                    const rows = document.querySelectorAll(`#${tableParentId} .mentor-table tbody tr`);
+                    rows.forEach(row => {
+                        row.style.display = row.textContent.toLowerCase().includes(query) ? '' : 'none';
+                    });
+                });
+            }
+            setupSearch('project-search', 'view-project-list');
+            setupSearch('student-search', 'view-student-list');
+
+            // Schedule Review Modal Logic
+            document.getElementById('review-form').addEventListener('submit', function(e) {
+                e.preventDefault();
+                const btn = document.getElementById('btn-confirm-review');
+                btn.innerHTML = '<i class="ph ph-spinner-gap ph-spin"></i> Scheduling...';
+                btn.disabled = true;
+
+                setTimeout(() => {
+                    btn.innerHTML = '<i class="ph ph-check-circle"></i> Scheduled!';
+                    btn.style.background = 'var(--status-verified)';
+                    
+                    setTimeout(() => {
+                        document.getElementById('review-modal').classList.remove('active');
+                        document.getElementById('review-form').reset();
+                        btn.innerHTML = '<i class="ph ph-check-circle"></i> Confirm Schedule';
+                        btn.style.background = '';
+                        btn.disabled = false;
+                    }, 1000);
+                }, 1200);
+            });
+
+            // Close modal on overlay click
+            document.getElementById('review-modal').addEventListener('click', function(e) {
+                if (e.target === this) this.classList.remove('active');
+            });
+
+            // Close modal on Escape key
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape') document.getElementById('review-modal').classList.remove('active');
+            });
+        });
+    </script>
+</body>
+</html>
