@@ -1,0 +1,352 @@
+[
+    {
+        "name_a": "Staff Administration Platform",
+        "abstract_a": "A corporate software solution for managing employee lifecycle events, including role assignments, performance reviews, and department transfers.",
+        "name_b": "Human Resources System",
+        "abstract_b": "An administrative portal designed to centralize digitized personnel records, manage internal job postings, and track organizational staffing levels.",
+        "label": 1
+    },
+    {
+        "name_a": "Field Management System",
+        "abstract_a": "A digital dashboard for large-scale farms to oversee tractor maintenance schedules, manage bulk grain inventory, and plan seasonal crop rotations.",
+        "name_b": "Farmer Management Platform",
+        "abstract_b": "An agricultural ERP suite designed to monitor livestock health records, track soil nutrition levels, and optimize irrigation strategies across vast acreages.",
+        "label": 1
+    },
+    {
+        "name_a": "Virtual Social Network",
+        "abstract_a": "An online community space where individuals create personal profiles, share multimedia updates, and connect with peers through interest groups.",
+        "name_b": "Social Media Platform",
+        "abstract_b": "A digital networking application that facilitates human connection through real-time feeds, public comments, and private text-based interactions.",
+        "label": 1
+    },
+    {
+        "name_a": "Goods Supply System",
+        "abstract_a": "A logistical visibility tool that monitors the end-to-end movement of raw materials from extraction points through to manufacturing nodes.",
+        "name_b": "Supply Chain Management System",
+        "abstract_b": "An enterprise operational dashboard used to synchronize inventory levels, coordinate vendor shipping, and optimize global product distribution.",
+        "label": 1
+    },
+    {
+        "name_a": "Test Management System",
+        "abstract_a": "An administrative engine for academic institutions to create, schedule, and distribute digital evaluations with automated multiple-choice scoring.",
+        "name_b": "Quiz Management System",
+        "abstract_b": "A pedagogical tool designed to organize knowledge checks, featuring secure question bank management and instantaneous score reporting for students.",
+        "label": 1
+    },
+    {
+        "name_a": "Trash Management Platform",
+        "abstract_a": "A logistical framework for coordinating municipal refuse collection routes and monitoring the operational health of regional recycling centers.",
+        "name_b": "Waste Management System",
+        "abstract_b": "A public utility suite designed to track the volume of non-liquid waste and optimize the efficiency of residential garbage truck deployments.",
+        "label": 1
+    },
+    {
+        "name_a": "Online Payment Wallet",
+        "abstract_a": "A mobile fintech application allowing users to store virtual versions of debit cards and perform peer-to-peer transfers via a unified interface.",
+        "name_b": "Digital Wallet System",
+        "abstract_b": "A secure digital payment framework designed for high-frequency transactions, recurring bill payments, and contactless point-of-sale interaction.",
+        "label": 1
+    },
+    {
+        "name_a": "Health Monitoring App",
+        "abstract_a": "A consumer wellness application that utilizes mobile hardware to log daily physical activity, heart rate, and estimated caloric expenditure.",
+        "name_b": "Fitness Tracking App",
+        "abstract_b": "A personal health utility focused on recording workout intensity, tracking GPS-based running routes, and visualizing longitudinal fitness progress.",
+        "label": 1
+    },
+    {
+        "name_a": "Web Banking Application",
+        "abstract_a": "A secure portal provided by financial institutions for customers to perform wire transfers, manage investment portfolios, and reconcile bank accounts.",
+        "name_b": "E-Banking System",
+        "abstract_b": "A high-security financial interface allowing for remote access to banking services, electronic statement viewing, and recurring utility bill payments.",
+        "label": 1
+    },
+    {
+        "name_a": "Property Listing Portal",
+        "abstract_a": "A searchable web directory that allows real estate agents to post specification details and high-resolution photos of homes currently for sale.",
+        "name_b": "Real Estate Marketplace",
+        "abstract_b": "A public-facing commercial portal where users can browse residential properties and connect with brokers based on geographic location and price.",
+        "label": 1
+    },
+    {
+        "name_a": "Daily Attendance System",
+        "abstract_a": "A timekeeping solution that records daily arrival and departure events through biometric verification or RFID card scans for workforce compliance.",
+        "name_b": "Attendance Management System",
+        "abstract_b": "An administrative logger that timestamps employee or student presence to generate accurate punctuality reports for organizational review.",
+        "label": 1
+    },
+    {
+        "name_a": "Blood Donation Management Platform",
+        "abstract_a": "A community-focused application for scheduling blood drives, managing donor history, and tracking successful unit collections based on eligibility.",
+        "name_b": "Blood Donation System",
+        "abstract_b": "A donor-facing portal where volunteers can register for appointments and maintain records of their clinical participation in regional donation events.",
+        "label": 1
+    },
+    {
+        "name_a": "Food Courier Application",
+        "abstract_a": "A three-sided marketplace connecting hungry users with local restaurants and independent drivers for the rapid delivery of prepared meals.",
+        "name_b": "Meal Delivery System",
+        "abstract_b": "An on-demand service platform that facilitates restaurant menu browsing, secure transaction processing, and real-time GPS tracking for food orders.",
+        "label": 1
+    },
+    {
+        "name_a": "E-Learning Platform",
+        "abstract_a": "A cloud-based educational portal that hosts interactive course modules, video lectures, and student discussion forums for remote schooling.",
+        "name_b": "Learning Management System",
+        "abstract_b": "An integrated administrative suite designed to manage curriculum delivery, track student progress, and host academic resources for institutions.",
+        "label": 1
+    },
+    {
+        "name_a": "News Aggregator",
+        "abstract_a": "A content delivery platform that automatically scrapes and curates top headlines from various journalism sources into a single user interface.",
+        "name_b": "News Curation Platform",
+        "abstract_b": "An AI-driven engine that filters through thousands of daily articles to present users with high-quality content summaries based on topical interests.",
+        "label": 1
+    },
+    {
+        "name_a": "Test Taking Platform",
+        "abstract_a": "A secure digital assessment tool featuring browser lockdown technology to deliver academic evaluations in a controlled remote environment.",
+        "name_b": "Online Assessment System",
+        "abstract_b": "A web-based testing engine that provides randomized question sets and generates immediate analytical reports on individual student performance.",
+        "label": 1
+    },
+    {
+        "name_a": "Customer Management Platform",
+        "abstract_a": "A specialized tool designed to assist sales teams in tracking leads, managing account communication history, and forecasting potential revenue.",
+        "name_b": "Customer Relationship Management",
+        "abstract_b": "A strategic business application used to centralize client data, automate marketing outreach, and provide insights into consumer retention patterns.",
+        "label": 1
+    },
+    {
+        "name_a": "Document Tracking System",
+        "abstract_a": "A workflow solution that monitors the physical and digital movement of critical business records across different organizational departments.",
+        "name_b": "Document Management System",
+        "abstract_b": "An enterprise-grade repository for managing version-controlled files, indexing metadata for search, and facilitating secure collaborative editing.",
+        "label": 1
+    },
+    {
+        "name_a": "Vehicle Registry System",
+        "abstract_a": "An official record-keeping system that maintains a legal inventory of authorized motor vehicles, owner history, and state-mandated documentation.",
+        "name_b": "Vehicle Administration System",
+        "abstract_b": "A centralized governmental database used for managing motor vehicle titles, processing registration renewals, and tracking annual permit fees.",
+        "label": 1
+    },
+    {
+        "name_a": "Online Rental System",
+        "abstract_a": "A marketplace application designed to manage the availability, contract signing, and payment processing for rented high-value professional assets.",
+        "name_b": "Rental Booking Platform",
+        "abstract_b": "A web portal where users can browse equipment for short-term lease, secure reservations, and process digital deposits with verified owners.",
+        "label": 1
+    },
+    {
+        "name_a": "Complaint Management System",
+        "abstract_a": "A customer support utility designed to capture user feedback on service failures and track the time-to-resolution for internal investigators.",
+        "name_b": "Service Complaint System",
+        "abstract_b": "A formal administrative portal where citizens or customers can submit grievances and monitor the investigative lifecycle of their reported issues.",
+        "label": 1
+    },
+    {
+        "name_a": "University Management System",
+        "abstract_a": "An enterprise platform for higher education institutions to manage student admissions, faculty workloads, and department-level financial budgets.",
+        "name_b": "College Management System",
+        "abstract_b": "A centralized administrative suite used for coordinating course schedules, managing student enrollment data, and tracking institutional reporting.",
+        "label": 1
+    },
+    {
+        "name_a": "Blood Bank Management System",
+        "abstract_a": "A clinical supply chain application used to monitor the shelf-life, storage temperature, and quantity of blood units in a medical facility.",
+        "name_b": "Blood Inventory Management System",
+        "abstract_b": "An inventory portal for medical centers to catalog blood bags by type, expiration date, and cross-match compatibility for emergency use.",
+        "label": 1
+    },
+    {
+        "name_a": "Digital News Platform",
+        "abstract_a": "A digital journalism hub that publishes real-time articles and multimedia coverage of global current events for a subscribed audience.",
+        "name_b": "Online News Portal",
+        "abstract_b": "A web-based publication system featuring categorized article feeds, editorial pieces, and social sharing capabilities for modern news consumers.",
+        "label": 1
+    },
+    {
+        "name_a": "Payroll Tracking System",
+        "abstract_a": "A specialized financial module responsible for maintaining workforce compensation history and managing the disbursement of staff salary funds.",
+        "name_b": "Staff Payroll System",
+        "abstract_b": "An automated accounting tool that calculates employee net pay by applying statutory tax withholdings and benefit deductions to gross wages.",
+        "label": 1
+    },
+    {
+        "name_a": "Vehicle Tracking System",
+        "abstract_a": "An active telemetry application that uses GPS hardware to provide the real-time geographic location and velocity of a fleet vehicle.",
+        "name_b": "Vehicle Database System",
+        "abstract_b": "A static technical archive for recording automobile manufacturer specifications, spare part numbers, and historical safety recall data.",
+        "label": 0
+    },
+    {
+        "name_a": "Hospitality Management System",
+        "abstract_a": "A high-level software suite for hotel owners to oversee front-desk operations, room service logs, and property-wide financial performance.",
+        "name_b": "Hospital Management System",
+        "abstract_b": "A specialized medical platform for managing patient triage, clinical workflows, and surgical department scheduling within a healthcare facility.",
+        "label": 0
+    },
+    {
+        "name_a": "Blood Donation System",
+        "abstract_a": "A portal for coordinating volunteer appointments and maintaining clinical records of individual blood donor health eligibility.",
+        "name_b": "Blood Pressure Monitoring System",
+        "abstract_b": "A clinical hardware-software interface used to measure and record the arterial force of a patient's circulation in real-time.",
+        "label": 0
+    },
+    {
+        "name_a": "Examination System",
+        "abstract_a": "A digital assessment platform that delivers academic tests to students under a timed and potentially proctored environment.",
+        "name_b": "Examining System",
+        "abstract_b": "A specialized technical suite used by forensic investigators to analyze digital evidence and perform deep hard drive inspections.",
+        "label": 0
+    },
+    {
+        "name_a": "Water Bill Management System",
+        "abstract_a": "A municipal utility platform that tracks residential meter readings and calculates monthly consumption tariffs and service fees.",
+        "name_b": "Bill Generation System",
+        "abstract_b": "An automated accounting module that uses raw transaction data to create and distribute invoices to commercial business clients.",
+        "label": 0
+    },
+    {
+        "name_a": "Agriculture Management System",
+        "abstract_a": "An industrial farming tool used to track bulk grain inventory, manage field fertilization, and monitor the health of livestock.",
+        "name_b": "School Management System",
+        "abstract_b": "A district-level administrative platform for managing school bus routes, facility maintenance schedules, and faculty payroll disbursement.",
+        "label": 0
+    },
+    {
+        "name_a": "Real Estate Marketplace",
+        "abstract_a": "A consumer portal that aggregates residential property listings, featuring search filters for price, location, and square footage.",
+        "name_b": "Real Estate Management System",
+        "abstract_b": "An internal tool for residential landlords to track tenant lease agreements, security deposits, and building repair history.",
+        "label": 0
+    },
+    {
+        "name_a": "Support Ticket System",
+        "abstract_a": "A helpdesk management tool that converts customer inquiries into trackable tickets to be resolved by technical support personnel.",
+        "name_b": "Traffic Ticket System",
+        "abstract_b": "A judicial database used by municipal courts to record driving violations and process the collection of statutory fines from citizens.",
+        "label": 0
+    },
+    {
+        "name_a": "News Aggregation System",
+        "abstract_a": "A content delivery platform that automatically curates top headlines from various journalism sources into a single user interface.",
+        "name_b": "News Reader App",
+        "abstract_b": "A mobile interface for the visually impaired that uses text-to-speech technology to read daily newspaper headlines aloud.",
+        "label": 0
+    },
+    {
+        "name_a": "Document Management System",
+        "abstract_a": "An enterprise repository for managing version-controlled files, indexing metadata for search, and facilitating collaborative editing.",
+        "name_b": "Waste Management System",
+        "abstract_b": "A city-level logistics suite for scheduling the collection of curbside trash and monitoring the capacity of recycling centers.",
+        "label": 0
+    },
+    {
+        "name_a": "Inventory Management System",
+        "abstract_a": "A warehouse tool designed to track the physical location and SKU counts of millions of individual components in a manufacturing plant.",
+        "name_b": "Staff Management System",
+        "abstract_b": "An internal HR application for managing employee contracts, performance reviews, and company-wide personnel directories.",
+        "label": 0
+    },
+    {
+        "name_a": "Payroll Management System",
+        "abstract_a": "An accounting engine that processes gross earnings and calculates statutory deductions to manage the recurring distribution of staff salaries.",
+        "name_b": "Retail Management System",
+        "abstract_b": "A business intelligence tool used by retail executives to analyze regional sales trends and manage the physical store franchise network.",
+        "label": 0
+    },
+    {
+        "name_a": "Flight Booking System",
+        "abstract_a": "A transactional travel engine that allows users to browse airline seat availability and purchase flight tickets for future travel.",
+        "name_b": "Flight Tracking System",
+        "abstract_b": "A data visualization platform that displays the real-time altitude and flight paths of active commercial aircraft using global radar feeds.",
+        "label": 0
+    },
+    {
+        "name_a": "Bidding System",
+        "abstract_a": "An auction marketplace where users place escalating financial offers on items until a timer concludes and a winner is declared.",
+        "name_b": "Voting System",
+        "abstract_b": "A choice-capture tool designed to ensure each registered individual can submit exactly one selection for a specific candidate list.",
+        "label": 0
+    },
+    {
+        "name_a": "Attendance Tracking System",
+        "abstract_a": "A logger that uses RFID tags to timestamp when individuals enter or exit a secure commercial facility to monitor labor hours.",
+        "name_b": "Courier Tracking System",
+        "abstract_b": "A customer-facing web widget that allows users to enter a parcel ID to view its current city location and estimated delivery date.",
+        "label": 0
+    },
+    {
+        "name_a": "Online Store System",
+        "abstract_a": "A consumer-facing web application that supports product browsing, multi-currency checkout, and real-time inventory updates for retail.",
+        "name_b": "Store Management System",
+        "abstract_b": "A localized administrative tool used to oversee the daily operations of a physical shop, including staff rosters and shelf stocking.",
+        "label": 0
+    },
+    {
+        "name_a": "Supply Chain Platform",
+        "abstract_a": "A global visibility tool that coordinates the movement of raw materials from extraction points to manufacturing facilities.",
+        "name_b": "Chain Supply System",
+        "abstract_b": "A utility-grade monitoring solution designed to manage the distribution of high-voltage electricity across a regional power grid.",
+        "label": 0
+    },
+    {
+        "name_a": "Personal Finance Tracker",
+        "abstract_a": "A mobile application for individuals to manually log daily spending and view visualizations of their discretionary income usage.",
+        "name_b": "Stock Tracking System",
+        "abstract_b": "A financial data feed that provides real-time updates on the share prices of publicly traded companies on the New York Stock Exchange.",
+        "label": 0
+    },
+    {
+        "name_a": "Task Management System",
+        "abstract_a": "A collaborative workspace where team members assign professional responsibilities and track the status of specific project milestones.",
+        "name_b": "Task Monitoring Platform",
+        "abstract_b": "An industrial supervisor tool used to monitor the operational status and error logs of automated assembly line robots in a factory.",
+        "label": 0
+    },
+    {
+        "name_a": "Event Booking System",
+        "abstract_a": "A portal where individuals can reserve professional planners or venues for weddings, birthdays, and corporate galas.",
+        "name_b": "Booking Management System",
+        "abstract_b": "A medical administrative tool used by hospital staff to manage surgical room availability and coordinate the schedules of medical specialists.",
+        "label": 0
+    },
+    {
+        "name_a": "Retail POS System",
+        "abstract_a": "A hardware-software solution used at retail checkout lanes to scan barcodes, apply promotional discounts, and process credit card payments.",
+        "name_b": "POS System",
+        "abstract_b": "A high-security diagnostic tool used by IT administrators to monitor the health and throughput of a server's network ports.",
+        "label": 0
+    },
+    {
+        "name_a": "Meal Delivery System",
+        "abstract_a": "A consumer service application that allows users to order prepared food from local eateries and track the dispatch status.",
+        "name_b": "Meal Plan System",
+        "abstract_b": "A nutritional planning tool that suggests weekly recipes and generates shopping lists based on a user's specific caloric goals.",
+        "label": 0
+    },
+    {
+        "name_a": "Criminal Case Management System",
+        "abstract_a": "A legal database for attorneys to track case filings, court dates, and witness statements for active criminal trials.",
+        "name_b": "CRM System",
+        "abstract_b": "A business tool used to manage sales leads and client communication history to improve company revenue performance.",
+        "label": 0
+    },
+    {
+        "name_a": "Digital Learning System",
+        "abstract_a": "A virtual classroom environment where students can watch lecture videos, download reading materials, and submit homework assignments.",
+        "name_b": "Electronic Document System",
+        "abstract_b": "A paperless office solution used to digitize physical records and organize them into a searchable cloud-based database for remote teams.",
+        "label": 0
+    },
+    {
+        "name_a": "Online Learning System",
+        "abstract_a": "A web-based education hub providing self-paced certification courses and interactive learning paths for professional development.",
+        "name_b": "Online Banking System",
+        "abstract_b": "A secure financial portal where users can review account balances, pay utility bills, and set up recurring monthly fund transfers.",
+        "label": 0
+    }
+]
