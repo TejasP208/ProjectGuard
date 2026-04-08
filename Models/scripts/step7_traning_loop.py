@@ -73,7 +73,7 @@ class ProjectEncoder(nn.Module):
     def forward(self, x):
         embedded  = self.embedding(x)
         lstm_out, _ = self.lstm(embedded)
-        pooled    = lstm_out.mean(dim=1)
+        pooled    = lstm_out.max(dim=1)[0]
         return self.relu(self.fc(pooled))
 
 model     = ProjectEncoder(vocab_size=len(vocab))
@@ -94,11 +94,11 @@ class ContrastiveLoss(nn.Module):
         )
         return loss.mean()
 
-criterion = ContrastiveLoss(margin=0.5)
+criterion = ContrastiveLoss(margin=1.0)
 
 
 # ── Training Loop ────────────────────────────────────────────────
-EPOCHS = 200
+EPOCHS = 50
 
 print("\nStarting training...")
 print("─" * 40)

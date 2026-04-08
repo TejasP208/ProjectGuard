@@ -73,7 +73,7 @@ def cosine_similarity(vec_a, vec_b):
     return dot / (norm_a * norm_b)
 
 # ── Main search function ─────────────────────────────────────────
-def search(name, abstract="", threshold=0.75, top_k=3):
+def search(name, abstract="", threshold=0.95, top_k=3):
     # Embed the query
     tokens = tokenize(name, abstract)
     tensor = torch.tensor([tokens], dtype=torch.long)

@@ -1,4 +1,3 @@
-import sqlite3
 import json
 import re
 from collections import Counter
@@ -11,32 +10,21 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from utils.tokenizer import clean_text
 
 base_dir = os.path.dirname(os.path.dirname(__file__))
-db_path = os.path.join(base_dir, 'data', 'training_data.db')
-setup_sql_path = os.path.join(base_dir, 'data', 'setup.sql')
+pairs_path = os.path.join(base_dir, 'data', 'training_pairs.json')
 vocab_path = os.path.join(base_dir, 'vocab.json')
 
-is_new_db = not os.path.exists(db_path)
+with open(pairs_path, "r", encoding="utf-8") as f:
+    pairs = json.load(f)
 
-conn = sqlite3.connect(db_path)
-cursor = conn.cursor()
-
-if is_new_db:
-    print(f"Database '{db_path}' not found. Regenerating from setup.sql...")
-    with open(setup_sql_path, "r", encoding="utf-8") as f:
-        cursor.executescript(f.read())
-    conn.commit()
-
-cursor.execute("SELECT project_name, project_abstract FROM projects")
-rows = cursor.fetchall()
-conn.close()
-
-print(f"Loaded {len(rows)} projects from database")
+print(f"Loaded {len(pairs)} pairs from training_pairs.json")
 
 all_tokens = []
 
-for name, abstract in rows:
-    tokens = clean_text(name) + clean_text(abstract)
-    all_tokens.extend(tokens)
+for p in pairs:
+    tokens_a = clean_text(p.get("name_a", "")) + clean_text(p.get("abstract_a", ""))
+    tokens_b = clean_text(p.get("name_b", "")) + clean_text(p.get("abstract_b", ""))
+    all_tokens.extend(tokens_a)
+    all_tokens.extend(tokens_b)
 
 word_counts = Counter(all_tokens)
 print(f"Total unique words found: {len(word_counts)}")
