@@ -1,83 +1,73 @@
-import torch
 import numpy as np
 import json
-import sys
 import os
+from sentence_transformers import SentenceTransformer, util
 
-# Add Models/ to sys.path so we can import utils and model
-sys.path.append(os.path.abspath(os.path.dirname(__file__)))
-
-from utils.tokenizer import tokenize
-from model.encoder import ProjectEncoder
-
-base_dir = os.path.dirname(__file__)
+# --- Path Configuration ---
+# Since this file is in the root of 'Models', we look directly into the 'data' folder
+base_dir = os.path.dirname(os.path.abspath(__file__))
 data_dir = os.path.join(base_dir, 'data')
 
-vocab_path = os.path.join(base_dir, "vocab.json")
-meta_path = os.path.join(data_dir, "db_metadata.json")
-vec_path = os.path.join(data_dir, "db_vectors.npy")
-ids_path = os.path.join(data_dir, "db_ids.npy")
+metadata_path = os.path.join(data_dir, 'db_metadata.json')
+vectors_path  = os.path.join(data_dir, 'db_vectors.npy')
+ids_path      = os.path.join(data_dir, 'db_ids.npy')
 
-with open(vocab_path, "r") as f:
-    vocab = json.load(f)
+# Global model variable (Lazy Loading)
+_model = None
 
-with open(meta_path, "r") as f:
-    metadata = json.load(f)
+def get_model():
+    global _model
+    if _model is None:
+        print("Loading Sentence Transformer...")
+        _model = SentenceTransformer('all-MiniLM-L6-v2')
+    return _model
 
-db_vectors = np.load(vec_path)
-db_ids = np.load(ids_path)
+def semantic_search(name, abstract="", threshold=0.60, top_k=3):
+    """
+    Core search function for ProjectGuard. 
+    Returns True if a similar project exists, along with match details.
+    """
+    # 1. Load the database index
+    db_vectors = np.load(vectors_path)
+    db_ids     = np.load(ids_path)
+    with open(metadata_path, "r") as f:
+        metadata = json.load(f)
 
-model = ProjectEncoder(vocab_size=len(vocab))
-model.eval()
+    # 2. Encode the query
+    model = get_model()
+    query_text = f"{name}. {abstract if abstract else ''}"
+    query_vec  = model.encode(query_text)
 
-print("Everything loaded ✓")
-
-def cosine_similarity(vec_a, vec_b):
-    dot = np.dot(vec_a, vec_b)
-    norm_a = np.linalg.norm(vec_a)
-    norm_b = np.linalg.norm(vec_b)
-    if norm_a == 0 or norm_b == 0:
-        return 0.0
-    return dot / (norm_a * norm_b)
-
-def search(query_name, query_abstract="", threshold=0.85, top_k=3):
-    tokens = tokenize(query_name, query_abstract)
-    tensor = torch.tensor([tokens], dtype=torch.long)
+    # 3. Calculate similarities
+    scores = util.cos_sim(query_vec, db_vectors)[0].numpy()
     
-    with torch.no_grad():
-        query_vec = model(tensor).squeeze(0).numpy()
-
+    # Get the top matches
     results = []
-    for i, db_vec in enumerate(db_vectors):
-        score = cosine_similarity(query_vec, db_vec)
-        proj_id = str(db_ids[i])
+    for i, score in enumerate(scores):
+        proj_id   = str(db_ids[i])
         proj_name = metadata.get(proj_id, "Unknown")
-        results.append((score, proj_id, proj_name))
+        results.append({"name": proj_name, "score": float(score)})
 
-    results.sort(reverse=True)
-    best_score, best_id, best_name = results[0]
+    # Sort high -> low
+    results.sort(key=lambda x: x["score"], reverse=True)
 
-    print(f"\nQuery: '{query_name}'")
-    print(f"─────────────────────────────────")
+    best_match = results[0]
+    exists = best_match["score"] >= threshold
 
-    if best_score >= threshold:
-        print(f"✅ EXISTS — similar project found!")
-        print(f"   Match : {best_name}")
-        print(f"   Score : {best_score:.4f}")
-    else:
-        print(f"🆕 NEW — no similar project found")
-        print(f"   Closest: {best_name}")
-        print(f"   Score  : {best_score:.4f}")
+    return {
+        "exists": exists,
+        "best_match": best_match,
+        "top_k": results[:top_k]
+    }
 
-    print(f"\nTop {top_k} matches:")
-    for score, pid, pname in results[:top_k]:
-        bar = "█" * int(max(0, score) * 20)
-        print(f"  [{score:.4f}] {bar} {pname}")
-
-    return best_score >= threshold
-
+# --- Quick Test Execution ---
 if __name__ == "__main__":
-    search("AI based crop disease detection")
-    search("online examination system for students")
-    search("blockchain based voting system")
-    search("recipe recommendation app")
+    test_query = "AI based crop disease detection"
+    result = semantic_search(test_query)
+    
+    print(f"\nQuery: '{test_query}'")
+    print(f"─────────────────────────────────")
+    if result["exists"]:
+        print(f"✅ EXISTS: {result['best_match']['name']} ({result['best_match']['score']:.4f})")
+    else:
+        print(f"🆕 NEW Project Idea!")
