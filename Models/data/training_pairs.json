@@ -7040,5 +7040,2742 @@
     "name_b": "Online Banking System",
     "abstract_b": "A secure financial portal where users can review account balances, pay utility bills, and set up recurring monthly fund transfers.",
     "label": 0
+  },
+  {
+    "name_a": "Music Playlist Management System",
+    "abstract_a": "A cloud-based platform designed for organizing digital audio libraries, allowing users to curate dynamic playlists based on metadata like genre and BPM.",
+    "name_b": "Music Subscription Service",
+    "abstract_b": "A streaming application providing on-demand access to a global catalog of tracks with integrated recommendation engines and offline playback.",
+    "label": 1
+  },
+  {
+    "name_a": "Autonomous Delivery System",
+    "abstract_a": "A logistics solution utilizing self-navigating UAVs to transport small parcels across urban environments using obstacle avoidance sensors.",
+    "name_b": "Aerial Delivery System",
+    "abstract_b": "A drone-based transport network designed to deliver medical supplies and consumer goods to remote locations via programmed flight paths.",
+    "label": 1
+  },
+  {
+    "name_a": "Flight Operations Management System",
+    "abstract_a": "An enterprise tool for tracking aircraft turnarounds, gate assignments, and ground crew scheduling to optimize airport throughput.",
+    "name_b": "Airport Administration Platform",
+    "abstract_b": "A centralized dashboard for managing facility maintenance, security protocols, and operational workflows within an international air hub.",
+    "label": 1
+  },
+  {
+    "name_a": "Academic Grant System",
+    "abstract_a": "A digital portal for students to search and apply for institutional funding based on merit, financial need, and research criteria.",
+    "name_b": "Fellowship Management System",
+    "abstract_b": "An end-to-end platform for administering research stipends and postgraduate awards, featuring automated eligibility screening and disbursement tracking.",
+    "label": 1
+  },
+  {
+    "name_a": "Groundwater Monitoring System",
+    "abstract_a": "A sensor-based network that tracks aquifer levels and chemical composition to ensure the sustainability of local water resources.",
+    "name_b": "Water Pollution Monitoring System",
+    "abstract_b": "An IoT-enabled infrastructure that detects heavy metals and contaminants in reservoirs, providing real-time alerts to municipal authorities.",
+    "label": 1
+  },
+  {
+    "name_a": "Trading Dashboard System",
+    "abstract_a": "A high-frequency interface for executing equity trades, featuring real-time technical indicators and order book visualizations.",
+    "name_b": "Stock Investment Platform",
+    "abstract_b": "A retail-focused application that enables users to manage diverse portfolios and execute buy/sell orders on multiple global exchanges.",
+    "label": 1
+  },
+  {
+    "name_a": "Plant Diagnosis System",
+    "abstract_a": "A machine learning application that analyzes high-resolution images of foliage to identify fungal infections and nutrient deficiencies.",
+    "name_b": "Leaf Disease Detection System",
+    "abstract_b": "A computer vision tool designed for mobile devices to scan crop leaves and provide immediate treatment recommendations for botanical pathogens.",
+    "label": 1
+  },
+  {
+    "name_a": "Infrastructure Project System",
+    "abstract_a": "A collaborative platform for civil engineers to track blueprint revisions, budget allocations, and site progress for large-scale developments.",
+    "name_b": "Building Construction Management System",
+    "abstract_b": "A comprehensive software suite for managing subcontractor schedules, material inventories, and safety compliance on active job sites.",
+    "label": 1
+  },
+  {
+    "name_a": "Tax Calculation System",
+    "abstract_a": "A financial utility that automates the computation of personal and corporate liabilities based on current regional tax codes.",
+    "name_b": "E-Tax Filing System",
+    "abstract_b": "A secure web portal for submitting income declarations and supporting documents directly to government revenue services.",
+    "label": 1
+  },
+  {
+    "name_a": "Breakdown Management System",
+    "abstract_a": "A dispatch platform connecting stranded motorists with nearby service providers for mechanical repairs and emergency jumpstarts.",
+    "name_b": "Tow Truck Booking System",
+    "abstract_b": "An on-demand mobile application that allows users to request heavy-duty vehicle recovery and roadside hauling services in real-time.",
+    "label": 1
+  },
+  {
+    "name_a": "Monthly Bus Pass System",
+    "abstract_a": "A digital ticketing solution that enables commuters to purchase and renew long-term transit credentials via a mobile wallet.",
+    "name_b": "Bus Ticket Management System",
+    "abstract_b": "An automated fare collection system that tracks passenger boarding and validates digital passes across a metropolitan fleet.",
+    "label": 1
+  },
+  {
+    "name_a": "Smart Resume Creator",
+    "abstract_a": "An AI-powered tool that analyzes job descriptions to suggest optimized keywords and formatting for professional curriculum vitae.",
+    "name_b": "Career Profile Builder",
+    "abstract_b": "An interactive web application that helps job seekers generate structured documents highlighting their technical skills and work history.",
+    "label": 1
+  },
+  {
+    "name_a": "Music Discovery Platform",
+    "abstract_a": "An algorithmic service that introduces users to new artists based on their listening history and collaborative filtering techniques.",
+    "name_b": "Audio Streaming App",
+    "abstract_b": "A mobile platform for high-fidelity sound reproduction, offering millions of tracks for immediate playback via cloud-based servers.",
+    "label": 1
+  },
+  {
+    "name_a": "Decentralized Voting Platform",
+    "abstract_a": "A secure polling system built on a distributed ledger to ensure immutability and transparency during organizational elections.",
+    "name_b": "Token Voting Platform",
+    "abstract_b": "A blockchain-integrated governance tool where stakeholders use cryptographic tokens to cast verifiable and tamper-proof votes.",
+    "label": 1
+  },
+  {
+    "name_a": "Pet Appointment System",
+    "abstract_a": "A scheduling tool for pet owners to book grooming and check-up sessions with local veterinary clinics and service providers.",
+    "name_b": "Veterinary Management System",
+    "abstract_b": "A backend administrative platform for animal hospitals to manage patient records, surgery schedules, and prescription history.",
+    "label": 1
+  },
+  {
+    "name_a": "Macronutrient Tracking System",
+    "abstract_a": "A dietetic application that logs daily intake of proteins, fats, and carbohydrates to help users reach specific fitness goals.",
+    "name_b": "Nutritional Information System",
+    "abstract_b": "A comprehensive database and logging tool that provides caloric breakdowns and vitamin content for a wide variety of food items.",
+    "label": 1
+  },
+  {
+    "name_a": "Vehicle Telematics System",
+    "abstract_a": "An integrated solution for monitoring driving behavior, fuel efficiency, and engine diagnostics via onboard GPS modules.",
+    "name_b": "Fleet Tracking Platform",
+    "abstract_b": "A real-time dashboard that visualizes the location and operational status of a commercial vehicle fleet using satellite positioning.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Painting Store",
+    "abstract_a": "An e-commerce storefront dedicated to original oil and acrylic works, featuring high-resolution zoom and virtual wall previews.",
+    "name_b": "Art Marketplace Platform",
+    "abstract_b": "A peer-to-peer web service connecting independent artists with global collectors for the sale of fine art and limited editions.",
+    "label": 1
+  },
+  {
+    "name_a": "Inventory Prediction System",
+    "abstract_a": "A predictive analytics tool that uses historical sales data to forecast future stock requirements and minimize overstocking.",
+    "name_b": "Demand Forecasting System",
+    "abstract_b": "A machine learning engine designed to project consumer purchasing patterns and optimize supply chain procurement cycles.",
+    "label": 1
+  },
+  {
+    "name_a": "Language Skill Development App",
+    "abstract_a": "A mobile learning tool that utilizes spaced repetition and gamification to improve vocabulary and grammar in a foreign tongue.",
+    "name_b": "Online Language Tutor System",
+    "abstract_b": "A digital education platform connecting students with native speakers for structured linguistic training and conversational practice.",
+    "label": 1
+  },
+  {
+    "name_a": "Crowdsourced Data Collection System",
+    "abstract_a": "A distributed platform where participants contribute localized information to build large-scale datasets for research or mapping.",
+    "name_b": "Public Contribution Platform",
+    "abstract_b": "A web-based framework for gathering diverse data points from a global user base to support collaborative scientific or civic projects.",
+    "label": 1
+  },
+  {
+    "name_a": "Biodiversity Management System",
+    "abstract_a": "A digital tool for ecologists to record species sightings and track population fluctuations within protected natural habitats.",
+    "name_b": "Endangered Species Tracking System",
+    "abstract_b": "A conservation-focused application that monitors the movement and health of at-risk animals using radio collars and satellite data.",
+    "label": 1
+  },
+  {
+    "name_a": "Live Online Teaching Platform",
+    "abstract_a": "A video conferencing suite optimized for education, featuring whiteboards and breakout rooms for real-time virtual classrooms.",
+    "name_b": "Virtual Classroom System",
+    "abstract_b": "A synchronous learning environment that allows instructors to deliver lectures and interact with students through a web interface.",
+    "label": 1
+  },
+  {
+    "name_a": "Digital Room Planner",
+    "abstract_a": "A 3D modeling application that allows homeowners to visualize furniture layouts and color schemes within a virtual interior space.",
+    "name_b": "Interior Design Software",
+    "abstract_b": "A professional tool for architects to draft spatial arrangements and select material finishes for residential or commercial projects.",
+    "label": 1
+  },
+  {
+    "name_a": "Hydroponic Automation System",
+    "abstract_a": "An IoT platform that regulates nutrient delivery and pH levels in soil-less farming environments to maximize plant growth.",
+    "name_b": "Smart Greenhouse Controller",
+    "abstract_b": "An automated system for monitoring and adjusting temperature, humidity, and lighting for optimized indoor agricultural yields.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Art Gallery",
+    "abstract_a": "A digital showcase for visual artists to exhibit and sell high-resolution digital or physical artwork through a curated web interface.",
+    "name_b": "Online Parking Booking System",
+    "abstract_b": "A real-time reservation platform that allows drivers to locate and pre-pay for parking spots in urban areas using GPS-integrated maps.",
+    "label": 0
+  },
+  {
+    "name_a": "National Park Management System",
+    "abstract_a": "A comprehensive database for tracking wildlife sightings, trail maintenance schedules, and visitor permits in protected ecological zones.",
+    "name_b": "Stress Management App",
+    "abstract_b": "A wellness application that provides guided breathing exercises and mood tracking to help users reduce daily anxiety levels.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Stock Trading Platform",
+    "abstract_a": "A financial interface for executing real-time equity transactions and monitoring market indices with technical charting tools.",
+    "name_b": "Online Home Tutor System",
+    "abstract_b": "A marketplace connecting K-12 students with qualified educators for personalized one-on-one academic instruction via video call.",
+    "label": 0
+  },
+  {
+    "name_a": "Space Planning App",
+    "abstract_a": "A design utility for arranging office furniture and optimizing square footage usage using interactive 2D floor plans.",
+    "name_b": "Smart Farming Disease App",
+    "abstract_b": "A mobile diagnostic tool that uses image recognition to identify fungal outbreaks in wheat and corn crops for smallholder farmers.",
+    "label": 0
+  },
+  {
+    "name_a": "Reading Community Platform",
+    "abstract_a": "A social network for bibliophiles to share book recommendations, write literary reviews, and track their annual reading progress.",
+    "name_b": "Decentralized Voting Platform",
+    "abstract_b": "A cryptographic polling system designed to eliminate voter fraud through the use of immutable blockchain technology for record-keeping.",
+    "label": 0
+  },
+  {
+    "name_a": "Recyclable Material Tracker",
+    "abstract_a": "An industrial tool for logistics companies to monitor the lifecycle of plastic and metal waste from collection points to processing facilities.",
+    "name_b": "Emission Reduction Tracker",
+    "abstract_b": "A corporate software solution that calculates CO2 footprints and tracks the progress of sustainability initiatives across supply chains.",
+    "label": 0
+  },
+  {
+    "name_a": "Healthy Eating Tracker",
+    "abstract_a": "A mobile journal for users to log meals and track caloric intake against specific weight loss or muscle gain objectives.",
+    "name_b": "Carbon Footprint Tracker",
+    "abstract_b": "An environmental utility that estimates the ecological impact of a user's travel and consumption habits based on global emission factors.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Water Monitoring System",
+    "abstract_a": "An IoT network of sensors that measures pH, turbidity, and dissolved oxygen levels in municipal reservoirs to ensure safety.",
+    "name_b": "Electricity Usage Monitoring System",
+    "abstract_b": "A smart meter interface that provides homeowners with real-time data on kilowatt-hour consumption and peak usage periods.",
+    "label": 0
+  },
+  {
+    "name_a": "Air Travel Booking System",
+    "abstract_a": "A web-based search engine that aggregates flight schedules and prices from multiple airlines to facilitate ticket reservations.",
+    "name_b": "Parking Slot Booking System",
+    "abstract_b": "An urban mobility application that allows users to reserve and pay for parking spaces in commercial garages before arrival.",
+    "label": 0
+  },
+  {
+    "name_a": "Crypto Voting Platform",
+    "abstract_a": "An e-governance application utilizing digital signatures and hash-chains to allow secure, anonymous participation in organizational polls.",
+    "name_b": "Digital Drug Store Platform",
+    "abstract_b": "An e-commerce pharmacy service providing home delivery of prescription medications and over-the-counter healthcare products.",
+    "label": 0
+  },
+  {
+    "name_a": "Literary Review Platform",
+    "abstract_a": "A dedicated forum for critics and readers to publish long-form essays and ratings on contemporary and classic literature.",
+    "name_b": "Pet Adoption Platform",
+    "abstract_b": "A non-profit web portal that connects animal shelters with prospective owners looking to rescue dogs, cats, or other small animals.",
+    "label": 0
+  },
+  {
+    "name_a": "Distributed Team Management Platform",
+    "abstract_a": "A workflow coordination tool for remote companies, featuring task boards, time tracking, and asynchronous communication channels.",
+    "name_b": "Online Meditation Platform",
+    "abstract_b": "A digital sanctuary offering streaming access to guided mindfulness sessions, sleep sounds, and mental health workshops.",
+    "label": 0
+  },
+  {
+    "name_a": "Food Nutrition Tracker",
+    "abstract_a": "An application that allows users to scan barcodes on packaged foods to view detailed vitamin, mineral, and caloric breakdowns.",
+    "name_b": "Recyclable Material Tracker",
+    "abstract_b": "A waste management dashboard that logs the volume of glass and paper recycled by residential communities for municipal reporting.",
+    "label": 0
+  },
+  {
+    "name_a": "Air Travel Booking System",
+    "abstract_a": "A global distribution system (GDS) interface used by travel agents to manage international flight itineraries and seating assignments.",
+    "name_b": "Private Tutor Booking System",
+    "abstract_b": "A service marketplace where parents can schedule and pay for one-on-one educational sessions for students in various subjects.",
+    "label": 0
+  },
+  {
+    "name_a": "Petrol Pump Management System",
+    "abstract_a": "A fuel station utility that tracks underground tank levels, daily sales volume, and nozzle transactions for operational efficiency.",
+    "name_b": "Legal Practice Management System",
+    "abstract_b": "An administrative tool for law firms to manage client intake, billable hours, court dates, and sensitive case documentation.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Invigilation System",
+    "abstract_a": "A remote proctoring tool that uses facial recognition and screen monitoring to ensure academic integrity during digital exams.",
+    "name_b": "Online Flight Reservation System",
+    "abstract_b": "A customer-facing portal for selecting flight paths, entering passenger details, and completing payment for airline tickets.",
+    "label": 0
+  },
+  {
+    "name_a": "Daily Calm App",
+    "abstract_a": "A mobile application designed to promote relaxation through nature soundscapes, guided imagery, and rhythmic breathing exercises.",
+    "name_b": "Book Rating and Review App",
+    "abstract_b": "A mobile platform where users rate their recent reads and receive personalized recommendations for future purchases.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Airline Booking System",
+    "abstract_a": "A secure transaction platform for purchasing flight tickets, managing frequent flyer miles, and selecting inflight meal preferences.",
+    "name_b": "Private Tutor Booking System",
+    "abstract_b": "A web interface for browsing profiles of independent educators and reserving time slots for specialized academic coaching.",
+    "label": 0
+  },
+  {
+    "name_a": "Resume Management Platform",
+    "abstract_a": "A corporate recruiting tool for storing, parsing, and ranking applicant resumes based on specific job requirement algorithms.",
+    "name_b": "Threat Detection Platform",
+    "abstract_b": "A cybersecurity dashboard that monitors network traffic for anomalies, malware signatures, and unauthorized access attempts.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Kirana Store",
+    "abstract_a": "A local delivery app focused on providing fresh produce and daily household essentials from neighborhood grocery shops.",
+    "name_b": "Online Music Store",
+    "abstract_b": "A digital marketplace where users can purchase high-bitrate audio files and limited edition albums for permanent download.",
+    "label": 0
+  },
+  {
+    "name_a": "Aviation Booking Platform",
+    "abstract_a": "A B2B system that allows travel consolidators to reserve bulk seating on commercial flights at discounted wholesale rates.",
+    "name_b": "Online Therapist Booking System",
+    "abstract_b": "A HIPAA-compliant platform for patients to schedule tele-therapy sessions and securely communicate with licensed mental health professionals.",
+    "label": 0
+  },
+  {
+    "name_a": "Driver Behavior Monitoring System",
+    "abstract_a": "A telematics application that scores fleet drivers on metrics like harsh braking, rapid acceleration, and idling time.",
+    "name_b": "Water Quality Monitoring System",
+    "abstract_b": "An environmental dashboard that aggregates data from aquatic sensors to track salinity and acidity levels in coastal regions.",
+    "label": 0
+  },
+  {
+    "name_a": "Pet Service Management App",
+    "abstract_a": "A workflow tool for pet boarding facilities to manage kennel occupancy, feeding schedules, and special medical needs of animals.",
+    "name_b": "Irrigation Management System",
+    "abstract_b": "A control system for large-scale farms that optimizes water distribution based on soil moisture sensors and local weather forecasts.",
+    "label": 0
+  },
+  {
+    "name_a": "Farm Output Prediction App",
+    "abstract_a": "A data-driven tool that estimates harvest volumes for specific crops by analyzing satellite imagery and historical rainfall patterns.",
+    "name_b": "Smart Tourism App",
+    "abstract_b": "A mobile travel guide that offers AR-enhanced walking tours and real-time updates on local cultural events and landmarks.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Meditation Platform",
+    "abstract_a": "A subscription service offering a library of mindfulness videos and specialized programs for reducing work-related burnout.",
+    "name_b": "Online Music Store",
+    "abstract_b": "A web storefront for searching and purchasing digital soundtracks and albums across various musical genres.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Collaboration Platform",
+    "abstract_a": "A cloud-based workspace enabling distributed teams to co-author documents, share files, and manage version control in real-time.",
+    "name_b": "Remote Work Management System",
+    "abstract_b": "A suite of administrative tools for overseeing virtual operations, including task tracking, employee performance analytics, and team communication hubs.",
+    "label": 1
+  },
+  {
+    "name_a": "Airline Reservation System",
+    "abstract_a": "A backend database management system for airlines to handle flight schedules, seat inventory, and passenger PNR data.",
+    "name_b": "Air Travel Booking System",
+    "abstract_b": "A consumer-facing web application that allows travelers to search, compare, and purchase flight tickets across various carriers.",
+    "label": 1
+  },
+  {
+    "name_a": "Insurance Underwriting System",
+    "abstract_a": "An analytical platform that evaluates applicant risk profiles using actuarial models to determine policy premiums and coverage eligibility.",
+    "name_b": "Claims Management System",
+    "abstract_b": "A workflow automation tool for insurance providers to process, verify, and settle policyholder claims while preventing fraudulent activities.",
+    "label": 1
+  },
+  {
+    "name_a": "Medicine Delivery App",
+    "abstract_a": "A mobile storefront where users can upload prescriptions and order pharmaceutical products for same-day home delivery.",
+    "name_b": "Digital Pharmacy Platform",
+    "abstract_b": "An integrated e-commerce solution for pharmacies to manage digital inventory, verify medical prescriptions, and fulfill online patient orders.",
+    "label": 1
+  },
+  {
+    "name_a": "Symptom Checker Chatbot",
+    "abstract_a": "An AI-driven conversational interface that uses natural language processing to suggest potential medical conditions based on user-reported symptoms.",
+    "name_b": "Medical Chatbot Platform",
+    "abstract_b": "A virtual healthcare assistant designed to provide automated triage, answer health-related FAQs, and schedule clinical appointments.",
+    "label": 1
+  },
+  {
+    "name_a": "Demand Forecasting System",
+    "abstract_a": "A predictive modeling tool that analyzes seasonal trends and market volatility to project future consumer demand for specific product lines.",
+    "name_b": "Stock Inventory Forecasting System",
+    "abstract_b": "A machine learning solution for warehouse managers to predict stock depletion rates and optimize reorder points across multiple SKUs.",
+    "label": 1
+  },
+  {
+    "name_a": "Court Case Management System",
+    "abstract_a": "A judicial database for organizing legal dockets, tracking hearing schedules, and maintaining secure electronic copies of court filings.",
+    "name_b": "Lawyer Management Platform",
+    "abstract_b": "An administrative dashboard for legal firms to assign cases to associates, track billable hours, and monitor client communication history.",
+    "label": 1
+  },
+  {
+    "name_a": "Scholarship Award System",
+    "abstract_a": "A digital portal for students to apply for financial aid, featuring automated screening based on GPA and socio-economic criteria.",
+    "name_b": "Academic Grant System",
+    "abstract_b": "An institutional management tool for tracking the disbursement of research funds and merit-based awards to eligible university candidates.",
+    "label": 1
+  },
+  {
+    "name_a": "Bus Pass Management System",
+    "abstract_a": "A smart-card based system for commuters to purchase long-term transit passes and manage their travel credits via a mobile portal.",
+    "name_b": "Bus Ticket Management System",
+    "abstract_b": "An electronic fare collection platform that issues QR-coded tickets and tracks real-time passenger boarding for urban transit networks.",
+    "label": 1
+  },
+  {
+    "name_a": "Digital Art Gallery App",
+    "abstract_a": "A mobile application for artists to create virtual portfolios and exhibit digital illustrations to a global audience of curators.",
+    "name_b": "Online Art Gallery",
+    "abstract_b": "A web-based marketplace for displaying and selling original fine art, featuring high-resolution zoom capabilities and virtual exhibition rooms.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Psychological Support System",
+    "abstract_a": "A telehealth platform providing secure video and text-based mental health counseling sessions with licensed therapists.",
+    "name_b": "Virtual Psychologist Platform",
+    "abstract_b": "An interactive digital service that offers cognitive behavioral therapy tools and remote consultations with mental health professionals.",
+    "label": 1
+  },
+  {
+    "name_a": "Sustainability Tracker",
+    "abstract_a": "A corporate reporting tool that monitors energy consumption and waste production to ensure compliance with environmental regulations.",
+    "name_b": "Environmental Impact Tracker",
+    "abstract_b": "A metrics-driven dashboard that calculates the carbon footprint and ecological consequences of business operations and logistics.",
+    "label": 1
+  },
+  {
+    "name_a": "Grammar Learning System",
+    "abstract_a": "An educational software focused on linguistic syntax and morphology, providing interactive exercises for second language learners.",
+    "name_b": "Language Learning App",
+    "abstract_b": "A comprehensive mobile application for mastering foreign languages through vocabulary drills, audio lessons, and speech recognition.",
+    "label": 1
+  },
+  {
+    "name_a": "Distributed Team Management Platform",
+    "abstract_a": "A managerial tool for coordinating remote employees across different time zones using project boards and status updates.",
+    "name_b": "Virtual Team Management System",
+    "abstract_b": "An operational framework for leading offshore teams, integrating productivity tracking with synchronous communication tools.",
+    "label": 1
+  },
+  {
+    "name_a": "Digital Pharmacy Platform",
+    "abstract_a": "A centralized backend for pharmacies to manage e-prescriptions, medicinal stocks, and secure payment processing for patients.",
+    "name_b": "Digital Drug Store Platform",
+    "abstract_b": "An online retail interface allowing customers to browse, order, and receive home delivery of pharmaceutical and wellness products.",
+    "label": 1
+  },
+  {
+    "name_a": "Virtual Pharmacy System",
+    "abstract_a": "A telehealth-integrated platform where patients consult with pharmacists and order medications through a unified digital workflow.",
+    "name_b": "Home Medicine Delivery System",
+    "abstract_b": "A last-mile logistics application focused on the rapid fulfillment and delivery of life-saving drugs directly to residential addresses.",
+    "label": 1
+  },
+  {
+    "name_a": "One-on-One Tutoring System",
+    "abstract_a": "A private education platform connecting students with specialized tutors for personalized, live instruction in various academic subjects.",
+    "name_b": "Live Online Teaching Platform",
+    "abstract_b": "A video-centric educational portal for conducting synchronous lectures and interactive workshops for large groups of virtual students.",
+    "label": 1
+  },
+  {
+    "name_a": "Vehicle Emergency System",
+    "abstract_a": "An onboard telematics solution that automatically alerts emergency services in the event of a severe vehicular collision or mechanical failure.",
+    "name_b": "Vehicle Recovery System",
+    "abstract_b": "A GPS-based tracking service designed to locate and retrieve stolen or broken-down automobiles using real-time spatial data.",
+    "label": 1
+  },
+  {
+    "name_a": "Digital Workspace System",
+    "abstract_a": "A virtual desktop environment providing employees with secure access to corporate applications and internal resources from any location.",
+    "name_b": "Remote Workforce Platform",
+    "abstract_b": "An HR-focused suite for managing telecommuting staff, tracking attendance, and facilitating company-wide digital engagement.",
+    "label": 1
+  },
+  {
+    "name_a": "Resume Management Platform",
+    "abstract_a": "An ATS-integrated tool for parsing job seeker documents and ranking candidates based on technical keyword relevance.",
+    "name_b": "Automated CV Generator",
+    "abstract_b": "A web utility that allows professionals to input their skills and experience to produce structured, industry-standard resume documents.",
+    "label": 1
+  },
+  {
+    "name_a": "Animal Shelter Management System",
+    "abstract_a": "A logistical database for tracking rescue animals, managing adoption workflows, and organizing veterinary vaccination schedules.",
+    "name_b": "Pet Store Management System",
+    "abstract_b": "A retail application for pet shops to track live animal inventory, manage feed supplies, and handle customer transactions.",
+    "label": 1
+  },
+  {
+    "name_a": "Technology-Driven Agriculture System",
+    "abstract_a": "An advanced farming platform utilizing IoT sensors and drone imagery to optimize crop irrigation and fertilization strategies.",
+    "name_b": "Smart Agriculture System",
+    "abstract_b": "A precision farming solution that integrates real-time environmental data with automated machinery to increase overall agricultural productivity.",
+    "label": 1
+  },
+  {
+    "name_a": "Guided Meditation App",
+    "abstract_a": "A wellness mobile app featuring a library of audio-led mindfulness practices, breathing techniques, and stress reduction exercises.",
+    "name_b": "Online Meditation Platform",
+    "abstract_b": "A digital community and streaming service providing long-form meditation courses and live virtual zen retreats.",
+    "label": 1
+  },
+  {
+    "name_a": "Group Loan Management System",
+    "abstract_a": "A micro-finance tool for community lending groups to track member contributions and manage collective loan repayments.",
+    "name_b": "Village Savings System",
+    "abstract_b": "A cooperative financial application for rural areas to facilitate small-scale credit cycles and secure community savings.",
+    "label": 1
+  },
+  {
+    "name_a": "Aviation Operations System",
+    "abstract_a": "A professional tool for airline staff to coordinate crew rotations, flight refueling, and tarmac safety compliance.",
+    "name_b": "Airport Management System",
+    "abstract_b": "An infrastructure dashboard for controlling terminal facilities, passenger flow, and runway traffic at a civil aviation hub.",
+    "label": 1
+  },
+  {
+    "name_a": "Grassroots Banking System",
+    "abstract_a": "A simplified financial platform for providing essential banking services like savings and credit to underbanked rural populations.",
+    "name_b": "Electricity Usage Monitoring System",
+    "abstract_b": "An IoT-connected smart meter dashboard that displays real-time energy consumption and projects monthly utility bills for households.",
+    "label": 0
+  },
+  {
+    "name_a": "Healthy Eating Tracker",
+    "abstract_a": "A dietetic log for users to monitor their intake of micronutrients and fiber to maintain a balanced and nutritious lifestyle.",
+    "name_b": "Environmental Impact Tracker",
+    "abstract_b": "A sustainability application that estimates the ecological footprint of industrial manufacturing processes and corporate logistics.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Therapist Booking System",
+    "abstract_a": "A scheduling portal for patients to find available psychologists and book secure tele-health consultation sessions.",
+    "name_b": "Air Travel Booking System",
+    "abstract_b": "A travel aggregator platform for comparing economy and business class ticket prices for international and domestic flights.",
+    "label": 0
+  },
+  {
+    "name_a": "Animal Tracking System",
+    "abstract_a": "A wildlife conservation tool that utilizes GPS-enabled collars to monitor the migration patterns of endangered species in national parks.",
+    "name_b": "Borrower-Lender Matching System",
+    "abstract_b": "A fintech algorithm for a peer-to-peer lending platform that connects individual investors with vetted loan applicants based on credit scores.",
+    "label": 0
+  },
+  {
+    "name_a": "Carbon Footprint Tracker",
+    "abstract_a": "A personal calculator that determines the annual CO2 emissions of an individual based on their transportation and energy usage habits.",
+    "name_b": "Recyclable Material Tracker",
+    "abstract_b": "A logistical system for waste management centers to record the tonnage of plastic, glass, and paper sent for industrial recycling.",
+    "label": 0
+  },
+  {
+    "name_a": "Mass Collaboration Platform",
+    "abstract_a": "A high-scale digital environment for open-source developers to contribute code and manage large-scale software engineering projects.",
+    "name_b": "Online Meditation Platform",
+    "abstract_b": "A mental health web service that streams guided mindfulness audio and video content to help users achieve better sleep and relaxation.",
+    "label": 0
+  },
+  {
+    "name_a": "Stress Management App",
+    "abstract_a": "A consumer mobile tool that provides daily mindfulness reminders and heart rate variability tracking to combat occupational burnout.",
+    "name_b": "Mental Health Counseling App",
+    "abstract_b": "A clinical interface that connects users with professional psychiatrists for the diagnosis and treatment of clinical depression and anxiety.",
+    "label": 0
+  },
+  {
+    "name_a": "Legal Practice Management System",
+    "abstract_a": "An ERP solution for law firms to automate invoicing, manage client contracts, and securely store privileged legal documents.",
+    "name_b": "Construction Resource Management",
+    "abstract_b": "A heavy-industry tool for tracking on-site equipment, raw materials like cement and steel, and heavy machinery availability.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Resume Creator",
+    "abstract_a": "An AI-powered document editor that suggests professional formatting and phrasing to help job candidates pass through screening filters.",
+    "name_b": "Smart Parking System",
+    "abstract_b": "An urban infrastructure solution using IoT sensors to detect vacant parking spots and guide drivers via a mobile navigation app.",
+    "label": 0
+  },
+  {
+    "name_a": "Sustainability Tracker",
+    "abstract_a": "A monitoring system for organizations to record water conservation efforts and renewable energy adoption for annual ESG reporting.",
+    "name_b": "Recyclable Material Tracker",
+    "abstract_b": "An inventory system used by scrap dealers to categorize and track the resale of post-consumer metal and paper products.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Pharmacy System",
+    "abstract_a": "A secure web portal for ordering prescription drugs and managing digital health records for patients and healthcare providers.",
+    "name_b": "Smart Irrigation System",
+    "abstract_b": "An automated agricultural controller that schedules water pumps based on soil moisture data and localized weather forecasts.",
+    "label": 0
+  },
+  {
+    "name_a": "Crop Health Monitoring Platform",
+    "abstract_a": "A satellite-based analysis tool that identifies pest infestations and plant stress in large-scale commercial farming operations.",
+    "name_b": "Aquatic Environment Monitoring System",
+    "abstract_b": "A marine research tool for tracking ocean salinity, temperature, and coral reef health using underwater sensor arrays.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Art Gallery",
+    "abstract_a": "A digital exhibition space for independent painters to showcase their portfolios and sell prints to international art collectors.",
+    "name_b": "Online Electricity Bill System",
+    "abstract_b": "A utility company portal where residents can pay their power bills and view historical energy consumption data.",
+    "label": 0
+  },
+  {
+    "name_a": "Emotional Health Tracker",
+    "abstract_a": "A mental wellness journal that prompts users to record their mood fluctuations and identifies triggers for emotional distress.",
+    "name_b": "Healthy Eating Tracker",
+    "abstract_b": "A diet-centric application for logging caloric intake and tracking the nutritional quality of home-cooked and restaurant meals.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Vehicle System",
+    "abstract_a": "An integrated automotive platform featuring lane-keep assist, adaptive cruise control, and real-time engine health diagnostics.",
+    "name_b": "Smart Water Monitoring System",
+    "abstract_b": "An IoT-based utility system that detects leaks and measures water flow rates in municipal piping networks to prevent resource waste.",
+    "label": 0
+  },
+  {
+    "name_a": "Mental Health App",
+    "abstract_a": "A cognitive behavioral therapy tool that provides users with exercises to manage obsessive thoughts and improve overall mental resilience.",
+    "name_b": "Grocery Shopping App",
+    "abstract_b": "An e-commerce mobile application that allows consumers to order fresh produce and pantry staples from local supermarkets for delivery.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Resume Creator",
+    "abstract_a": "A dynamic web application that optimizes job applications by tailoring candidate profiles to specific employment opportunities.",
+    "name_b": "Smart Vehicle System",
+    "abstract_b": "A connected car interface that provides voice-activated navigation, entertainment controls, and remote security monitoring for drivers.",
+    "label": 0
+  },
+  {
+    "name_a": "Virtual Psychologist Platform",
+    "abstract_a": "A clinical tele-health service offering synchronous counseling sessions for individuals dealing with trauma or personal challenges.",
+    "name_b": "Literary Review Platform",
+    "abstract_b": "A web-based community for authors and readers to discuss book releases, write critical reviews, and manage personal reading lists.",
+    "label": 0
+  },
+  {
+    "name_a": "Diet Management System",
+    "abstract_a": "A nutritional planning tool that generates custom meal plans based on a user's metabolic rate and fitness objectives.",
+    "name_b": "Bursary Management System",
+    "abstract_b": "An administrative platform for educational foundations to process student applications for financial grants and tuition waivers.",
+    "label": 0
+  },
+  {
+    "name_a": "Travel Companion App",
+    "abstract_a": "A mobile guide that offers itinerary planning, local landmark suggestions, and offline maps for tourists exploring new cities.",
+    "name_b": "Virtual Interior Design App",
+    "abstract_b": "An augmented reality tool that allows users to place virtual 3D furniture models into their actual living rooms to preview layouts.",
+    "label": 0
+  },
+  {
+    "name_a": "Online News Portal",
+    "abstract_a": "A digital journalism platform delivering real-time news updates, editorial features, and multimedia reports on global current events.",
+    "name_b": "Online Book Club System",
+    "abstract_b": "A social networking tool for readers to organize virtual book discussions, vote on monthly titles, and share reading progress.",
+    "label": 0
+  },
+  {
+    "name_a": "Home Interior App",
+    "abstract_a": "A creative application for homeowners to experiment with wall paint colors, flooring textures, and lighting designs in a 3D environment.",
+    "name_b": "Person-to-Person Lending App",
+    "abstract_b": "A financial marketplace connecting individual borrowers seeking personal loans with private lenders looking for competitive interest returns.",
+    "label": 0
+  },
+  {
+    "name_a": "Student-Teacher Matching Platform",
+    "abstract_a": "A specialized marketplace that pairs K-12 students with tutors based on subject expertise, teaching style, and hourly rates.",
+    "name_b": "Water Safety Monitoring Platform",
+    "abstract_b": "A real-time environmental alert system that notifies coastal communities about water contamination or hazardous swimming conditions.",
+    "label": 0
+  },
+  {
+    "name_a": "Crop Output Estimation System",
+    "abstract_a": "An agricultural analytics tool that uses historical yield data and soil quality sensors to predict harvest volumes for seasonal crops.",
+    "name_b": "Inventory Optimization System",
+    "abstract_b": "A supply chain application that utilizes probability models to reduce stockholding costs while maintaining high product availability.",
+    "label": 0
+  },
+  {
+    "name_a": "Vulnerability Management System",
+    "abstract_a": "An enterprise security tool that scans IT infrastructure for software weaknesses and prioritizes patching to prevent cyberattacks.",
+    "name_b": "Water Supply Management System",
+    "abstract_b": "A municipal utility platform that controls reservoir discharge rates and monitors the pressure of clean water distribution networks.",
+    "label": 0
+  },
+  {
+    "name_a": "Procurement Forecasting System",
+    "abstract_a": "A supply chain analytics tool that predicts future raw material requirements based on historical production cycles and supplier lead times.",
+    "name_b": "Inventory Forecasting Platform",
+    "abstract_b": "A machine learning solution designed to estimate stock depletion rates and optimize replenishment schedules to prevent warehouse shortages.",
+    "label": 1
+  },
+  {
+    "name_a": "Microfinance Management System",
+    "abstract_a": "A specialized banking platform for administering small-scale loans and tracking repayment schedules for community-based credit unions.",
+    "name_b": "Stress Management App",
+    "abstract_b": "A mobile wellness tool providing guided mindfulness sessions and biofeedback tracking to help users reduce daily cortisol levels.",
+    "label": 0
+  },
+  {
+    "name_a": "Parking Lot Management System",
+    "abstract_a": "A facility oversight tool that monitors occupancy levels and automates entry/exit gate operations using license plate recognition.",
+    "name_b": "Parking Control System",
+    "abstract_b": "An infrastructure software designed to regulate vehicle flow and enforce parking durations within commercial parking structures.",
+    "label": 1
+  },
+  {
+    "name_a": "Airport Administration Platform",
+    "abstract_a": "A centralized dashboard for managing facility maintenance, gate scheduling, and ground crew assignments at major aviation hubs.",
+    "name_b": "Airport Operations System",
+    "abstract_b": "An enterprise resource planner used by aviation authorities to coordinate real-time flight data, baggage handling, and security protocols.",
+    "label": 1
+  },
+  {
+    "name_a": "Smart Parking System",
+    "abstract_a": "An IoT-enabled platform that directs drivers to available spaces via a mobile app, utilizing ultrasonic sensors embedded in the pavement.",
+    "name_b": "Vehicle Parking System",
+    "abstract_b": "A digital registration and payment portal for managing long-term and short-term parking permits in residential and commercial zones.",
+    "label": 1
+  },
+  {
+    "name_a": "Driver Behavior Monitoring System",
+    "abstract_a": "A telematics solution that analyzes data from vehicle sensors to score drivers on safety metrics like harsh braking and rapid acceleration.",
+    "name_b": "Aquatic Environment Monitoring System",
+    "abstract_b": "A marine research tool that utilizes underwater sensor arrays to track water salinity, temperature, and dissolved oxygen levels in real-time.",
+    "label": 0
+  },
+  {
+    "name_a": "Crop Production Forecasting System",
+    "abstract_a": "An agricultural model that integrates satellite imagery and weather data to estimate harvest yields for seasonal commercial crops.",
+    "name_b": "Baggage Handling System",
+    "abstract_b": "An automated conveyor and tracking framework designed to sort and route passenger luggage within international airport terminals.",
+    "label": 0
+  },
+  {
+    "name_a": "Threat Detection Platform",
+    "abstract_a": "A cybersecurity suite that monitors network traffic for anomalous patterns and known malware signatures to prevent data breaches.",
+    "name_b": "Reading Community Platform",
+    "abstract_b": "A social network for bibliophiles to share book reviews, track reading progress, and participate in digital book club discussions.",
+    "label": 0
+  },
+  {
+    "name_a": "Water Pollution Monitoring System",
+    "abstract_a": "An environmental safety system that detects chemical contaminants and heavy metals in industrial effluent before it enters local waterways.",
+    "name_b": "Groundwater Monitoring System",
+    "abstract_b": "A sensor-based network designed to track the depth and purity of underground aquifers to ensure sustainable water resource management.",
+    "label": 1
+  },
+  {
+    "name_a": "Smart Vehicle System",
+    "abstract_a": "A connected car interface featuring advanced driver-assistance systems (ADAS) and integrated telematics for predictive engine maintenance.",
+    "name_b": "Smart Irrigation System",
+    "abstract_b": "An automated agricultural controller that regulates water distribution to fields based on real-time soil moisture and evaporation data.",
+    "label": 0
+  },
+  {
+    "name_a": "Demand Forecasting System",
+    "abstract_a": "An algorithmic tool that analyzes consumer purchasing trends to predict future sales volumes and optimize inventory levels.",
+    "name_b": "Inventory Analytics Platform",
+    "abstract_b": "A business intelligence suite that visualizes stock movement patterns and identifies inefficiencies in warehouse stock management.",
+    "label": 1
+  },
+  {
+    "name_a": "Individual Loan System",
+    "abstract_a": "A peer-to-peer lending portal that connects retail borrowers with private investors through a secure digital contract environment.",
+    "name_b": "Online Loan Marketplace",
+    "abstract_b": "A financial platform that aggregates various credit offerings, allowing users to compare interest rates and apply for unsecured personal loans.",
+    "label": 1
+  },
+  {
+    "name_a": "24x7 Roadside Help App",
+    "abstract_a": "A mobile emergency dispatch service that connects stranded motorists with nearby mechanics for tire changes and jumpstarts.",
+    "name_b": "Auto Rescue Service System",
+    "abstract_b": "A coordinating platform for towing companies to manage emergency vehicle recovery requests and dispatch heavy-duty haulers.",
+    "label": 1
+  },
+  {
+    "name_a": "One-on-One Tutoring System",
+    "abstract_a": "An educational marketplace that facilitates private, live video sessions between students and specialized subject-matter experts.",
+    "name_b": "Peer Tutoring System",
+    "abstract_b": "A collaborative learning platform where students can book academic support sessions with high-achieving peers for study assistance.",
+    "label": 1
+  },
+  {
+    "name_a": "Wildlife Conservation Platform",
+    "abstract_a": "A digital tool for ecologists to manage biodiversity data and coordinate field efforts for the protection of endangered species.",
+    "name_b": "Endangered Species Tracking System",
+    "abstract_b": "A specialized monitoring system utilizing GPS-enabled collars and satellite imagery to track the migration of at-risk animal populations.",
+    "label": 1
+  },
+  {
+    "name_a": "Parking Reservation System",
+    "abstract_a": "A pre-booking application that allows commuters to reserve specific parking bays in urban garages prior to their arrival.",
+    "name_b": "Digital Parking System",
+    "abstract_b": "A cloud-based solution for processing contactless payments and managing occupancy data across a citywide network of parking meters.",
+    "label": 1
+  },
+  {
+    "name_a": "Fitness Management App",
+    "abstract_a": "A comprehensive tool for gym owners to manage member subscriptions, personal training schedules, and facility access logs.",
+    "name_b": "Risk Management and Disaster System",
+    "abstract_b": "A crisis response platform designed to coordinate emergency services and track resource allocation during natural disasters or urban emergencies.",
+    "label": 0
+  },
+  {
+    "name_a": "Supermarket Online System",
+    "abstract_a": "An e-commerce storefront that allows customers to browse local grocery inventories and schedule home deliveries for fresh produce.",
+    "name_b": "Digital Grocery Marketplace",
+    "abstract_b": "A platform connecting multiple local food vendors with urban consumers, featuring integrated payment processing and delivery logistics.",
+    "label": 1
+  },
+  {
+    "name_a": "Groundwater Monitoring System",
+    "abstract_a": "A geological monitoring tool that records fluctuations in water table levels to prevent over-extraction in agricultural and industrial zones.",
+    "name_b": "Automated Exam Monitoring System",
+    "abstract_b": "A remote proctoring solution that uses facial recognition and screen activity logs to ensure academic integrity during online tests.",
+    "label": 0
+  },
+  {
+    "name_a": "Microcredit System",
+    "abstract_a": "A financial application designed for high-volume, low-value lending to entrepreneurs in developing markets without traditional collateral.",
+    "name_b": "Microfinance Management System",
+    "abstract_b": "A robust administrative framework for managing donor-funded loan portfolios and tracking the social impact of community credit programs.",
+    "label": 1
+  },
+  {
+    "name_a": "Book Rating and Review App",
+    "abstract_a": "A mobile application for readers to publish critical appraisals of literature and receive recommendations based on their rating history.",
+    "name_b": "Language Translation Learning App",
+    "abstract_b": "An interactive education platform that teaches new languages by tasking users with translating phrases and identifying grammatical errors.",
+    "label": 0
+  },
+  {
+    "name_a": "Transparent Election Platform",
+    "abstract_a": "A blockchain-secured voting system that allows citizens to cast verifiable and immutable ballots from their personal devices.",
+    "name_b": "Car Parking Management Platform",
+    "abstract_b": "An administrative dashboard for parking lot operators to track daily revenue and monitor space utilization through real-time sensors.",
+    "label": 0
+  },
+  {
+    "name_a": "Person-to-Person Lending App",
+    "abstract_a": "A fintech platform that facilitates direct loan agreements between individuals, bypassing traditional banking intermediaries for lower rates.",
+    "name_b": "Prescription Medicine Delivery App",
+    "abstract_b": "A healthcare logistics tool that verifies medical scripts and manages the delivery of sensitive pharmaceuticals from pharmacies to patients.",
+    "label": 0
+  },
+  {
+    "name_a": "Water Supply Management System",
+    "abstract_a": "An infrastructure control system that manages the flow rates and pressure of treated water through a metropolitan distribution network.",
+    "name_b": "Flood Management System",
+    "abstract_b": "A civil engineering platform that monitors river levels and precipitation to trigger early warning alerts and deploy flood defenses.",
+    "label": 0
+  },
+  {
+    "name_a": "Hybrid Work Management System",
+    "abstract_a": "An HR coordination tool that manages hot-desking schedules and synchronizes tasks between office-based and remote employees.",
+    "name_b": "Work-at-Home Platform",
+    "abstract_b": "A virtual office environment designed to support remote staff with secure file sharing and synchronous communication tools.",
+    "label": 1
+  },
+  {
+    "name_a": "Art Buying and Selling Platform",
+    "abstract_a": "An online auction and retail site for fine art, connecting independent gallery owners with global private collectors.",
+    "name_b": "Digital Art Gallery App",
+    "abstract_b": "A mobile application that serves as a virtual exhibition space for digital creators to showcase their portfolios and sell limited edition NFT prints.",
+    "label": 1
+  },
+  {
+    "name_a": "Digital News Website",
+    "abstract_a": "A journalism portal that aggregates real-time news articles, investigative reports, and multimedia content for a global audience.",
+    "name_b": "Digital Art Platform",
+    "abstract_b": "A creative workspace where artists can upload, edit, and exhibit digital illustrations to a community of visual arts enthusiasts.",
+    "label": 0
+  },
+  {
+    "name_a": "Air Ticket Booking System",
+    "abstract_a": "A customer-facing application for searching flight schedules and confirming flight reservations across various international carriers.",
+    "name_b": "Tow Truck Booking System",
+    "abstract_b": "An on-demand logistics app that allows motorists to summon roadside recovery vehicles during mechanical breakdowns.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Counseling App",
+    "abstract_a": "A mental health platform offering secure messaging and video consultations with licensed therapists for stress and anxiety support.",
+    "name_b": "Academic Tutoring App",
+    "abstract_b": "A mobile education tool that connects students with tutors for help with mathematics, science, and standardized test preparation.",
+    "label": 0
+  },
+  {
+    "name_a": "Flight Booking System",
+    "abstract_a": "An online portal for selecting travel dates, seat preferences, and completing payment for commercial airline tickets.",
+    "name_b": "Parking Slot Booking System",
+    "abstract_b": "A mobile reservation tool for secure parking in high-traffic urban areas, featuring pre-payment and space-availability sensors.",
+    "label": 0
+  },
+  {
+    "name_a": "UAV Delivery Platform",
+    "abstract_a": "A logistical management system for autonomous drones to execute precise cargo deliveries in rural and hard-to-reach locations.",
+    "name_b": "Drone Logistics System",
+    "abstract_b": "A fleet management software that coordinates multiple unmanned aerial vehicles for the transport of medical supplies and parcels.",
+    "label": 1
+  },
+  {
+    "name_a": "Scholarship Application System",
+    "abstract_a": "A digital submission portal where students can upload transcripts and essays to apply for university-funded academic awards.",
+    "name_b": "Medicine Delivery App",
+    "abstract_b": "An e-pharmacy application that enables users to order medication online and track the status of their pharmacy delivery in real-time.",
+    "label": 0
+  },
+  {
+    "name_a": "IoT Agriculture Platform",
+    "abstract_a": "A precision farming system that integrates real-time weather and soil data to automate irrigation and fertilization processes.",
+    "name_b": "Art Buying and Selling Platform",
+    "abstract_b": "A dedicated e-commerce site for fine art, featuring authenticated listings for paintings, sculptures, and photography from various galleries.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Meditation Platform",
+    "abstract_a": "A web-based wellness service providing a library of guided mindfulness videos and virtual group meditation sessions.",
+    "name_b": "Daily Mindfulness App",
+    "abstract_b": "A mobile tool that sends daily reminders and provides short audio-guided exercises to improve mental focus and reduce stress.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Pet Store System",
+    "abstract_a": "A retail website for purchasing pet food, accessories, and grooming supplies with integrated home delivery logistics.",
+    "name_b": "Pet Care Management System",
+    "abstract_b": "An administrative platform for boarding facilities and groomers to manage animal intakes, medical history, and service scheduling.",
+    "label": 1
+  },
+  {
+    "name_a": "Network Security Monitoring System",
+    "abstract_a": "A network defense tool that monitors internal traffic for unauthorized access attempts and potential data exfiltration by hackers.",
+    "name_b": "Agricultural Disease Monitoring System",
+    "abstract_b": "A biosecurity platform that tracks the spread of plant pathogens and pest outbreaks across regional commercial farms.",
+    "label": 0
+  },
+  {
+    "name_a": "Recycling Management Platform",
+    "abstract_a": "An industrial tool for tracking the flow of materials from municipal collection centers to large-scale sorting and processing plants.",
+    "name_b": "Recyclable Material Tracker",
+    "abstract_b": "A sustainability app that logs the weight and type of domestic waste diverted from landfills for repurposing and reuse.",
+    "label": 1
+  },
+  {
+    "name_a": "Healthy Eating Tracker",
+    "abstract_a": "A nutritional diary for users to log macronutrients and track their progress toward long-term weight management and dietary goals.",
+    "name_b": "Food Diary App",
+    "abstract_b": "A lifestyle application that captures daily caloric intake and monitors eating patterns to identify unhealthy dietary habits.",
+    "label": 1
+  },
+  {
+    "name_a": "Forest Animal Monitoring System",
+    "abstract_a": "A conservation research tool that uses infrared camera traps to census nocturnal wildlife populations in densely forested areas.",
+    "name_b": "Crop Health Monitoring Platform",
+    "abstract_b": "An agritech solution that analyzes multi-spectral satellite data to identify nutrient deficiencies and water stress in corn and soy crops.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Greenhouse System",
+    "abstract_a": "An indoor farming controller that regulates temperature, humidity, and CO2 levels to create an optimal micro-climate for out-of-season produce.",
+    "name_b": "Smart Vehicle System",
+    "abstract_b": "An automotive technology suite that integrates satellite navigation with onboard engine diagnostics for real-time performance tracking.",
+    "label": 0
+  },
+  {
+    "name_a": "Inventory Optimization System",
+    "abstract_a": "A supply chain algorithm that calculates the ideal stock levels to minimize holding costs while maximizing order fulfillment rates.",
+    "name_b": "Predictive Inventory System",
+    "abstract_b": "A machine learning model that analyzes historical sales data to forecast future stock requirements and prevent overstocking.",
+    "label": 1
+  },
+  {
+    "name_a": "Individual Loan System",
+    "abstract_a": "A direct lending platform that evaluates the creditworthiness of applicants to facilitate unsecured private loans between individuals.",
+    "name_b": "Virtual Office System",
+    "abstract_b": "A cloud-based collaboration suite that provides remote teams with a shared digital workspace for project management and file storage.",
+    "label": 0
+  },
+  {
+    "name_a": "Junk Collection System",
+    "abstract_a": "A logistics dispatcher for scheduling the pickup of scrap metal and consumer electronics for industrial-grade recycling.",
+    "name_b": "Plastic Waste Tracking System",
+    "abstract_b": "An environmental management tool that monitors the tonnage of post-consumer plastics collected and processed at reclamation facilities.",
+    "label": 1
+  },
+  {
+    "name_a": "Smart Irrigation System",
+    "abstract_a": "A precision agricultural tool that uses sensors to detect soil dry-spots and trigger automated water pumps for localized hydration.",
+    "name_b": "Smart Vehicle System",
+    "abstract_b": "An advanced vehicle telematics platform that monitors fuel efficiency and driver fatigue levels for commercial fleet operators.",
+    "label": 0
+  },
+  {
+    "name_a": "Crowdlending Platform",
+    "abstract_a": "A peer-to-peer finance marketplace where a pool of investors provides capital for personal or small business loans at competitive rates.",
+    "name_b": "Direct Lending Platform",
+    "abstract_b": "A digital credit service that connects individual lenders with vetted borrowers, utilizing algorithmic risk assessment for loan approvals.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Invigilation System",
+    "abstract_a": "A remote testing platform that monitors candidates via webcam and microphone to prevent cheating during high-stakes digital examinations.",
+    "name_b": "Exam Proctoring Platform",
+    "abstract_b": "A secure educational tool that tracks browser activity and environmental noise to maintain the integrity of virtual assessments.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Interior Design Platform",
+    "abstract_a": "A virtual design portal that allows homeowners to consult with decorators and preview furniture layouts in a 3D simulated room.",
+    "name_b": "Virtual Psychologist Platform",
+    "abstract_b": "A telehealth application providing remote access to mental health professionals for confidential therapy sessions via encrypted video.",
+    "label": 0
+  },
+  {
+    "name_a": "Groundwater Monitoring System",
+    "abstract_a": "A hydrologic dashboard that tracks aquifer depletion and recharge rates to ensure a sustainable supply of potable water.",
+    "name_b": "Cybersecurity Monitoring System",
+    "abstract_b": "A 24/7 security operations center platform that scans firewalls and servers for potential vulnerabilities and intrusion attempts.",
+    "label": 0
+  },
+  {
+    "name_a": "News Publishing Platform",
+    "abstract_a": "A content management system for journalists to draft, edit, and publish digital news articles to multiple online platforms.",
+    "name_b": "Digital Media Portal",
+    "abstract_b": "A high-traffic web service that aggregates daily news headlines and editorial content for a large-scale readership.",
+    "label": 1
+  },
+  {
+    "name_a": "Food Health Tracker",
+    "abstract_a": "A dietetic tool that analyzes the nutritional profile of meals to help users manage their long-term health and wellness targets.",
+    "name_b": "Carbon Footprint Tracker",
+    "abstract_b": "A greenhouse gas calculator that estimates the environmental impact of a person's lifestyle, including travel and energy consumption.",
+    "label": 0
+  },
+  {
+    "name_a": "Driver Behavior Monitoring System",
+    "abstract_a": "An IoT-based telematics platform that utilizes accelerometer and gyroscope data to assess driver safety metrics like harsh braking and rapid cornering.",
+    "name_b": "Smart Vehicle System",
+    "abstract_b": "A connected car solution that aggregates engine diagnostics and driving patterns to provide real-time feedback on fuel efficiency and safety.",
+    "label": 1
+  },
+  {
+    "name_a": "Car Parking Management Platform",
+    "abstract_a": "A centralized dashboard for garage operators to monitor occupancy levels, manage barrier controls, and process digital payments for hourly parking.",
+    "name_b": "Smart Parking System",
+    "abstract_b": "A sensor-driven infrastructure that guides motorists to vacant spots in real-time through a mobile application to reduce urban traffic congestion.",
+    "label": 1
+  },
+  {
+    "name_a": "Infrastructure Project System",
+    "abstract_a": "A comprehensive tool for tracking project timelines, material procurement, and subcontractor coordination for large-scale civil engineering works.",
+    "name_b": "Construction Project Management",
+    "abstract_b": "An enterprise platform designed to oversee building lifecycles by managing resource allocation, budget compliance, and site safety logs.",
+    "label": 1
+  },
+  {
+    "name_a": "CV Builder Platform",
+    "abstract_a": "A web application that allows users to generate professional resumes by selecting from industry-standard templates and optimizing content for recruitment filters.",
+    "name_b": "Job Application Resume System",
+    "abstract_b": "An interactive tool for creating structured career profiles that highlight specific technical competencies and professional accomplishments for hiring managers.",
+    "label": 1
+  },
+  {
+    "name_a": "Smart Greenhouse System",
+    "abstract_a": "An automated agricultural environment that regulates temperature, humidity, and CO2 levels using a network of low-power wireless sensors.",
+    "name_b": "Digital Farming Solution",
+    "abstract_b": "A technology suite for indoor cultivation that optimizes crop yields by managing automated irrigation and specialized nutrient delivery systems.",
+    "label": 1
+  },
+  {
+    "name_a": "Pet Care Management System",
+    "abstract_a": "A database for animal boarding facilities to manage daily exercise routines, medical administration, and client contact information.",
+    "name_b": "Pet Care Management System",
+    "abstract_b": "A scheduling and record-keeping application designed for professional pet groomers to track client preferences and animal health history.",
+    "label": 1
+  },
+  {
+    "name_a": "Virtual Pharmacy System",
+    "abstract_a": "An e-commerce portal for pharmaceutical retailers to manage e-prescriptions and coordinate home delivery logistics for prescription medications.",
+    "name_b": "Digital Pharmacy Platform",
+    "abstract_b": "A healthcare application that connects patients with licensed pharmacists for medication counseling and online fulfillment of medical scripts.",
+    "label": 1
+  },
+  {
+    "name_a": "Pet Care Management System",
+    "abstract_a": "An administrative tool for animal hospitals to manage inpatient records, surgery schedules, and laboratory test results.",
+    "name_b": "Animal Care System",
+    "abstract_b": "A software platform focused on the welfare of domestic animals, coordinating feeding schedules and veterinary appointments in shelter environments.",
+    "label": 1
+  },
+  {
+    "name_a": "Individual Loan System",
+    "abstract_a": "A peer-to-peer lending engine that matches individual borrowers with private investors based on risk scores and desired interest rates.",
+    "name_b": "Social Lending System",
+    "abstract_b": "A crowdfunding finance platform where community members provide small loans to individuals using a decentralized credit assessment model.",
+    "label": 1
+  },
+  {
+    "name_a": "Fuel Stock Management System",
+    "abstract_a": "An industrial application for gas stations to monitor underground tank levels and detect potential leakages using pressure sensors.",
+    "name_b": "Gas Station Management System",
+    "abstract_b": "A retail operational tool that tracks nozzle transactions, fuel price updates, and daily revenue for service station owners.",
+    "label": 1
+  },
+  {
+    "name_a": "Gym Subscription System",
+    "abstract_a": "A membership management portal that automates monthly recurring billing and tracks facility access via RFID-enabled keycards.",
+    "name_b": "Gym Subscription System",
+    "abstract_b": "A backend service for fitness centers to manage member enrollment, class registrations, and automated renewal notifications.",
+    "label": 1
+  },
+  {
+    "name_a": "Vehicle Monitoring System",
+    "abstract_a": "A fleet tracking software that provides real-time GPS locations and engine idling reports for commercial delivery vehicles.",
+    "name_b": "Vehicle Telematics Platform",
+    "abstract_b": "An integrated hardware-software solution that captures and transmits diagnostic trouble codes and vehicle speed data over cellular networks.",
+    "label": 1
+  },
+  {
+    "name_a": "Stock Investment Platform",
+    "abstract_a": "A retail-focused trading application that provides market analysis tools and execution capabilities for equity and exchange-traded funds.",
+    "name_b": "Stock Portfolio Management System",
+    "abstract_b": "A financial management tool for investors to track asset performance, monitor dividend yields, and rebalance their holdings across various exchanges.",
+    "label": 1
+  },
+  {
+    "name_a": "Book Social Network",
+    "abstract_a": "A community-driven website where readers share personal reading lists, join discussion groups, and interact with authors online.",
+    "name_b": "Book Critique Platform",
+    "abstract_b": "A digital forum for professional and amateur reviewers to publish in-depth literary analysis and rate the latest book releases.",
+    "label": 1
+  },
+  {
+    "name_a": "On-Road Assistance App",
+    "abstract_a": "A mobile dispatch system that connects stranded drivers with mechanical help for roadside issues like flat tires or battery failures.",
+    "name_b": "Vehicle Recovery System",
+    "abstract_b": "A coordination platform for towing services to locate and retrieve disabled vehicles using geolocated service requests from users.",
+    "label": 1
+  },
+  {
+    "name_a": "Security Operations System",
+    "abstract_a": "An enterprise defense platform that correlates log data from firewalls and servers to identify and neutralize active cybersecurity threats.",
+    "name_b": "Data Security Monitoring Platform",
+    "abstract_b": "A continuous auditing tool that scans network traffic for unauthorized data exfiltration and ensures compliance with encryption standards.",
+    "label": 1
+  },
+  {
+    "name_a": "Electric Utility Management System",
+    "abstract_a": "A grid-level monitoring system that tracks electricity distribution and identifies power outages in municipal infrastructure.",
+    "name_b": "Online Electricity Bill System",
+    "abstract_b": "A customer-facing web portal for viewing historical energy consumption data and making electronic payments for utility services.",
+    "label": 1
+  },
+  {
+    "name_a": "Power Bill Payment System",
+    "abstract_a": "An automated billing platform for electricity providers to generate invoices based on meter readings and process online transactions.",
+    "name_b": "Power Bill Payment System",
+    "abstract_b": "A secure payment gateway integration designed specifically for municipal residents to settle their monthly energy debts via credit card.",
+    "label": 1
+  },
+  {
+    "name_a": "Digital Farming Solution",
+    "abstract_a": "A software-as-a-service platform that uses multispectral imaging to help farmers optimize fertilization and pesticide application.",
+    "name_b": "Precision Farming System",
+    "abstract_b": "An agritech framework that utilizes satellite data and automated machinery to maximize crop yield while minimizing input waste.",
+    "label": 1
+  },
+  {
+    "name_a": "Smart Resume Creator",
+    "abstract_a": "An AI-assisted editor that analyzes job descriptions to suggest relevant skills and experience bullet points for an optimized resume.",
+    "name_b": "Resume Template System",
+    "abstract_b": "A layout-focused web tool providing a variety of professionally designed formats for individuals to input and organize their work history.",
+    "label": 1
+  },
+  {
+    "name_a": "Sales Forecasting Platform",
+    "abstract_a": "A predictive analytics engine that uses historical transaction data to project future revenue and assist with inventory planning.",
+    "name_b": "Forecast Management System",
+    "abstract_b": "A business intelligence tool for supply chain managers to visualize demand trends and adjust production schedules accordingly.",
+    "label": 1
+  },
+  {
+    "name_a": "Digital Lending Platform",
+    "abstract_a": "A fintech application that automates the loan application and approval process using algorithmic credit risk assessment models.",
+    "name_b": "P2P Loan System",
+    "abstract_b": "A decentralized finance platform connecting individual lenders directly with borrowers for personal or small business financing.",
+    "label": 1
+  },
+  {
+    "name_a": "Micro-Task Platform",
+    "abstract_a": "A crowdsourcing site where complex projects are divided into simple data-entry or image-tagging tasks for a distributed workforce.",
+    "name_b": "Human Intelligence Task System",
+    "abstract_b": "A platform for gathering high-quality training data for AI by assigning micro-assignments to human workers for verification and labeling.",
+    "label": 1
+  },
+  {
+    "name_a": "Emergency Coordination Platform",
+    "abstract_a": "A multi-agency system for dispatching first responders and managing public communication during large-scale natural disasters.",
+    "name_b": "Emergency Coordination Platform",
+    "abstract_b": "A command-and-control dashboard for urban relief organizations to track resource distribution and shelter capacity during crises.",
+    "label": 1
+  },
+  {
+    "name_a": "Live Proctoring Application",
+    "abstract_a": "A security-focused video platform that allows remote invigilators to monitor students in real-time during online examinations.",
+    "name_b": "Exam Proctoring Platform",
+    "abstract_b": "A digital assessment tool that utilizes facial recognition and screen activity logs to prevent academic dishonesty in virtual tests.",
+    "label": 1
+  },
+  {
+    "name_a": "Construction Workflow System",
+    "abstract_a": "An engineering application designed to track phase-by-phase progress on building sites and manage architectural blueprint revisions.",
+    "name_b": "Online Book Club System",
+    "abstract_b": "A social platform for organizing monthly book readings and facilitating discussions among literary enthusiasts via virtual meeting rooms.",
+    "label": 0
+  },
+  {
+    "name_a": "Provident Fund Management System",
+    "abstract_a": "A financial database for tracking employee pension contributions, employer matching, and interest accrual over long-term savings periods.",
+    "name_b": "Smart Parking System",
+    "abstract_b": "An urban infrastructure tool using ground-embedded sensors to broadcast vacant stall locations to a mobile app for nearby drivers.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Meter Management System",
+    "abstract_a": "An IoT platform for utility companies to remotely read digital meters and detect unauthorized energy bypasses in the power grid.",
+    "name_b": "Smart Agriculture System",
+    "abstract_b": "A data-driven farming system that automates irrigation cycles and soil health monitoring using remote sensing and localized actuators.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Counseling Platform",
+    "abstract_a": "A HIPAA-compliant telehealth service connecting patients with licensed therapists for individual and group psychotherapy sessions via video link.",
+    "name_b": "Online News Portal",
+    "abstract_b": "A digital journalism site providing breaking news updates, editorial pieces, and investigative reports on current global and local events.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Farming Disease App",
+    "abstract_a": "A machine learning mobile app that identifies plant pathogens from photos of infected leaves and recommends botanical treatments.",
+    "name_b": "Smart Vehicle System",
+    "abstract_b": "An automotive software integration that provides heads-up displays for navigation and voice-activated controls for in-cabin entertainment.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Airline Booking System",
+    "abstract_a": "A consumer travel portal for comparing flight itineraries, selecting seat classes, and purchasing tickets from multiple airline carriers.",
+    "name_b": "Live Online Teaching Platform",
+    "abstract_b": "An interactive educational environment featuring digital whiteboards and student-teacher interaction tools for synchronous virtual learning.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Medicine Order System",
+    "abstract_a": "An e-pharmacy platform where customers can securely upload medical prescriptions and order home delivery of health products.",
+    "name_b": "Online Newspaper System",
+    "abstract_b": "A subscription-based digital media outlet that delivers daily news articles and interactive editorial content to electronic devices.",
+    "label": 0
+  },
+  {
+    "name_a": "Carbon Footprint Tracker",
+    "abstract_a": "A personal lifestyle calculator that estimates an individual's total CO2 emissions based on their travel patterns and dietary habits.",
+    "name_b": "Recyclable Material Tracker",
+    "abstract_b": "An industrial inventory system for waste management companies to monitor the tonnage of glass and plastic processed at recycling centers.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Artwork Display System",
+    "abstract_a": "A virtual gallery for fine art where painters can exhibit high-resolution digital scans of their work to potential art collectors globally.",
+    "name_b": "Online Pet Store System",
+    "abstract_b": "An e-commerce website offering a wide selection of animal nutrition products, toys, and grooming supplies with door-to-door shipping.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Art Gallery App",
+    "abstract_a": "A mobile portfolio tool for artists to showcase their creative works and manage commercial inquiries from gallery curators and buyers.",
+    "name_b": "Digital Drug Store Platform",
+    "abstract_b": "A comprehensive online healthcare retail platform providing over-the-counter medications and pharmaceutical support through an app.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Interior Design Platform",
+    "abstract_a": "A web-based service where users can collaborate with professional decorators to create 3D visualizations of residential living spaces.",
+    "name_b": "Online Resume Maker",
+    "abstract_b": "A web utility that assists job seekers in formatting their professional experience into structured, aesthetically pleasing curriculum vitae.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Insurance Platform",
+    "abstract_a": "A fintech application for purchasing health and auto insurance policies with automated underwriting and digital claims submission.",
+    "name_b": "Digital Wellness App",
+    "abstract_b": "A mobile application focused on mental health that provides guided breathing exercises, sleep sounds, and mood tracking features.",
+    "label": 0
+  },
+  {
+    "name_a": "Air Travel Booking System",
+    "abstract_a": "A global distribution system (GDS) interface for travel agents to book flight reservations and manage international travel itineraries.",
+    "name_b": "Online Parking Booking System",
+    "abstract_b": "A mobile application that allows drivers to find and reserve parking spaces in busy urban centers before starting their commute.",
+    "label": 0
+  },
+  {
+    "name_a": "Anti-Cheating Exam Platform",
+    "abstract_a": "An educational security tool that locks down web browsers and uses webcam monitoring to prevent plagiarism during remote testing.",
+    "name_b": "Cyber Defense Platform",
+    "abstract_b": "A network security solution that detects intrusion attempts and implements firewall rules to protect enterprise servers from external attacks.",
+    "label": 0
+  },
+  {
+    "name_a": "Flight Booking System",
+    "abstract_a": "A transaction-based platform for choosing airline seating, processing ticket payments, and receiving electronic boarding passes.",
+    "name_b": "Private Tutor Booking System",
+    "abstract_b": "A service marketplace that enables parents to browse teacher profiles and schedule one-on-one academic sessions for their children.",
+    "label": 0
+  },
+  {
+    "name_a": "Vehicle Monitoring System",
+    "abstract_a": "A logistic management software used by transport companies to monitor the speed, fuel level, and location of heavy-duty trucks.",
+    "name_b": "Smart Water Monitoring System",
+    "abstract_b": "An IoT-based utility tool that measures water flow and detects chemical impurities in municipal water supply networks.",
+    "label": 0
+  },
+  {
+    "name_a": "Emission Reduction Tracker",
+    "abstract_a": "A corporate software solution that monitors progress toward net-zero targets by tracking renewable energy use and carbon offsets.",
+    "name_b": "Recyclable Material Tracker",
+    "abstract_b": "A logistical tool for sorting facilities to log the volume of cardboard and paper recycled from local residential collection routes.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Bus Pass System",
+    "abstract_a": "A smart ticketing solution that allows commuters to purchase transit credits and use QR codes for boarding public buses.",
+    "name_b": "Digital Psychotherapy System",
+    "abstract_b": "A virtual clinic platform offering AI-driven mood monitoring and secure messaging with psychologists for mental health support.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Room Planner",
+    "abstract_a": "A design application that allows homeowners to test various floor plans and furniture arrangements in a 3D virtual environment.",
+    "name_b": "Digital Tourism Platform",
+    "abstract_b": "A travel app that provides AR-enabled historical tours and geolocated information about cultural landmarks for international visitors.",
+    "label": 0
+  },
+  {
+    "name_a": "Healthy Eating Tracker",
+    "abstract_a": "A mobile journal for users to input nutritional data from their meals to maintain a balanced diet and reach fitness goals.",
+    "name_b": "Environmental Impact Tracker",
+    "abstract_b": "A sustainability application that measures the ecological effect of commercial manufacturing processes on local air and water quality.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Meditation Platform",
+    "abstract_a": "A streaming service featuring guided mindfulness sessions, nature sounds, and expert-led workshops on emotional resilience.",
+    "name_b": "Online Psychological Support System",
+    "abstract_b": "A tele-counseling portal providing confidential therapy and crisis intervention services through encrypted video and chat channels.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Tourism Platform",
+    "abstract_a": "A comprehensive travel guide that helps users find local attractions, book tour guides, and navigate foreign cities via interactive maps.",
+    "name_b": "Digital Counseling App",
+    "abstract_b": "A wellness-focused mobile app providing cognitive behavioral therapy (CBT) tools and remote consultations with licensed mental health experts.",
+    "label": 0
+  },
+  {
+    "name_a": "Pet Store Management System",
+    "abstract_a": "A retail point-of-sale system for animal specialty shops to track inventory of high-end pet foods and manage customer loyalty programs.",
+    "name_b": "Fitness Management App",
+    "abstract_b": "A workout tracking application that provides custom exercise routines and monitors athletic performance metrics over time.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Tax Platform",
+    "abstract_a": "An online accounting service for individuals to calculate their liabilities and submit annual income tax returns to revenue authorities.",
+    "name_b": "Digital Grocery Marketplace",
+    "abstract_b": "A virtual shopping platform connecting consumers with local farmers and grocery stores for the home delivery of fresh food staples.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Art Platform",
+    "abstract_a": "A creative community site where digital illustrators can upload their portfolios, share design techniques, and find freelance commissions.",
+    "name_b": "Cyber Defense Platform",
+    "abstract_b": "An advanced security framework that utilizes machine learning to identify zero-day vulnerabilities and protect network infrastructure.",
+    "label": 0
+  },
+  {
+    "name_a": "Financial Aid Management System",
+    "abstract_a": "A specialized software solution for educational institutions to process scholarship applications, verify eligibility criteria, and automate the disbursement of academic funds.",
+    "name_b": "Scholarship Tracking Platform",
+    "abstract_b": "An end-to-end portal designed to monitor the status of educational grants and provide students with real-time updates on their financial aid approval process.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Kirana Store",
+    "abstract_a": "A localized e-commerce platform connecting neighborhood grocery shops with urban consumers for the home delivery of daily essential commodities.",
+    "name_b": "Digital Grocery Marketplace",
+    "abstract_b": "A comprehensive web-based shopping system that aggregates fresh produce and pantry staples from multiple vendors for streamlined residential delivery.",
+    "label": 1
+  },
+  {
+    "name_a": "Village Savings System",
+    "abstract_a": "A micro-finance application designed for community-led savings groups to track member contributions and manage small-scale peer-to-peer credit cycles.",
+    "name_b": "Small Loan Management System",
+    "abstract_b": "An administrative tool for micro-lending institutions to handle loan applications, interest calculations, and repayment schedules for individual borrowers.",
+    "label": 1
+  },
+  {
+    "name_a": "Music Playlist Management System",
+    "abstract_a": "A digital asset management tool that allows users to organize their audio libraries into custom categories based on metadata like genre and artist.",
+    "name_b": "Song Streaming Application",
+    "abstract_b": "A cloud-based media service providing on-demand access to a vast catalog of tracks with integrated social sharing and algorithmic recommendations.",
+    "label": 1
+  },
+  {
+    "name_a": "Exam Surveillance System",
+    "abstract_a": "A security-focused software that monitors student behavior during remote testing using webcam feeds and background process detection to prevent cheating.",
+    "name_b": "Exam Proctoring Platform",
+    "abstract_b": "An automated assessment integrity tool that utilizes AI-based facial recognition and screen activity logs to ensure a fair digital testing environment.",
+    "label": 1
+  },
+  {
+    "name_a": "Smart Vehicle System",
+    "abstract_a": "An integrated automotive platform that utilizes onboard sensors to provide drivers with real-time feedback on fuel efficiency and engine health.",
+    "name_b": "Telematics System",
+    "abstract_b": "A remote monitoring solution that captures GPS and diagnostic data from a vehicle fleet to optimize logistics and driver performance tracking.",
+    "label": 1
+  },
+  {
+    "name_a": "Blockchain Voting System",
+    "abstract_a": "A secure polling framework that uses distributed ledger technology to create immutable and verifiable records for organizational and civic elections.",
+    "name_b": "Smart Contract Voting System",
+    "abstract_b": "A cryptographic governance tool where votes are executed as self-verifying protocols on a blockchain to ensure complete transparency and zero tampering.",
+    "label": 1
+  },
+  {
+    "name_a": "Old Age Pension Platform",
+    "abstract_a": "A government-integrated portal designed for retirees to manage their monthly social security disbursements and update their financial records.",
+    "name_b": "Provident Fund Management System",
+    "abstract_b": "An enterprise financial system for tracking long-term employee savings contributions and calculating interest-bearing retirement payouts.",
+    "label": 1
+  },
+  {
+    "name_a": "News Publishing Platform",
+    "abstract_a": "A content management system tailored for digital newsrooms, allowing editors to draft, review, and push headlines to multiple web channels.",
+    "name_b": "Digital Media Portal",
+    "abstract_b": "A high-traffic web platform that aggregates breaking news, editorial features, and multimedia reports for a global audience of readers.",
+    "label": 1
+  },
+  {
+    "name_a": "Stress Management App",
+    "abstract_a": "A wellness-focused mobile application providing biofeedback tracking and guided relaxation techniques to help users mitigate the effects of daily anxiety.",
+    "name_b": "Mental Wellness System",
+    "abstract_b": "A comprehensive digital framework offering psychological self-assessment tools and interactive sessions to improve overall emotional resilience.",
+    "label": 1
+  },
+  {
+    "name_a": "Carbon Footprint Tracker",
+    "abstract_a": "A sustainability monitoring tool that calculates CO2 emissions based on user travel, energy usage, and consumption habits for personal environmental auditing.",
+    "name_b": "Environmental Impact Tracker",
+    "abstract_b": "A data-driven analytics platform designed to measure the ecological consequences of industrial activities and suggest strategies for emission reduction.",
+    "label": 1
+  },
+  {
+    "name_a": "Book Rating and Review App",
+    "abstract_a": "A social reading application where users can rate contemporary literature and share critical appraisals within a community of bibliophiles.",
+    "name_b": "Book Critique Platform",
+    "abstract_b": "A dedicated forum for in-depth literary analysis and reviews, allowing authors and readers to engage in structured discussions about new releases.",
+    "label": 1
+  },
+  {
+    "name_a": "Resume Generator System",
+    "abstract_a": "An automated document builder that formats professional experience and skill sets into industry-standard resumes optimized for recruitment systems.",
+    "name_b": "Job Application Resume System",
+    "abstract_b": "A web-based tool designed to help candidates create targeted curriculum vitae that align with specific job descriptions using structural templates.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Counseling Platform",
+    "abstract_a": "A HIPAA-compliant telehealth service connecting patients with licensed therapists for secure video and text-based psychotherapy sessions.",
+    "name_b": "Digital Counseling App",
+    "abstract_b": "A mobile interface that facilitates remote mental health consultations and provides access to a library of mindfulness and coping resources.",
+    "label": 1
+  },
+  {
+    "name_a": "Energy Billing Platform",
+    "abstract_a": "An automated financial portal for utility providers to generate invoices based on smart meter readings and manage customer payment history.",
+    "name_b": "Electricity Usage Monitoring System",
+    "abstract_b": "An IoT-enabled dashboard that provides homeowners with real-time data on their power consumption and identifies high-energy appliances.",
+    "label": 1
+  },
+  {
+    "name_a": "Sales Forecasting Platform",
+    "abstract_a": "A predictive analytics engine that utilizes historical transaction data and market trends to project future revenue and assist with financial planning.",
+    "name_b": "Inventory Optimization System",
+    "abstract_b": "A supply chain management tool that uses probability models to determine ideal stock levels and reduce the costs of overstocking or stockouts.",
+    "label": 1
+  },
+  {
+    "name_a": "Digital Pharmacy Platform",
+    "abstract_a": "A secure web portal for pharmaceutical retailers to verify e-prescriptions and manage the fulfillment of medication orders for home delivery.",
+    "name_b": "Digital Drug Store Platform",
+    "abstract_b": "An e-commerce mobile application allowing consumers to browse healthcare products and order prescription medicines from licensed local pharmacies.",
+    "label": 1
+  },
+  {
+    "name_a": "Intrusion Detection System",
+    "abstract_a": "A network security solution that monitors incoming traffic for malicious signatures and anomalous patterns to prevent unauthorized system access.",
+    "name_b": "Network Threat Analytics System",
+    "abstract_b": "An advanced defense platform that provides real-time visibility into server vulnerabilities and automates the identification of potential cyberattacks.",
+    "label": 1
+  },
+  {
+    "name_a": "Air Ticket Booking System",
+    "abstract_a": "A travel transaction system that allows users to compare flight itineraries, select seats, and complete airline ticket purchases through a single interface.",
+    "name_b": "Aviation Booking Platform",
+    "abstract_b": "A comprehensive flight reservation portal designed to handle high-volume ticket processing and manage passenger manifesting for global carriers.",
+    "label": 1
+  },
+  {
+    "name_a": "Pet Care Management System",
+    "abstract_a": "An administrative database for pet boarding and grooming businesses to track animal health records, dietary needs, and customer service history.",
+    "name_b": "Pet Appointment System",
+    "abstract_b": "A scheduling application for pet owners to book veterinary check-ups and grooming sessions with service providers via a real-time calendar.",
+    "label": 1
+  },
+  {
+    "name_a": "Remote Workforce Platform",
+    "abstract_a": "A collaborative office suite designed for distributed teams, featuring synchronous communication tools and integrated task tracking for virtual projects.",
+    "name_b": "Work-at-Home Platform",
+    "abstract_b": "A cloud-based workplace that enables employees to access internal corporate resources and stay productive while working from off-site locations.",
+    "label": 1
+  },
+  {
+    "name_a": "Parking Control System",
+    "abstract_a": "An infrastructure management tool that regulates entry and exit points in commercial garages using automated boom barriers and sensor tracking.",
+    "name_b": "Digital Parking System",
+    "abstract_b": "A smart city application that allows drivers to locate vacant parking spots and process contactless payments for urban parking bays.",
+    "label": 1
+  },
+  {
+    "name_a": "Construction Project Management",
+    "abstract_a": "A project coordination tool for engineers to track blueprint revisions, budget allocations, and site progress for large-scale building developments.",
+    "name_b": "Construction Resource Management",
+    "abstract_b": "An operational software for managing the logistics of heavy machinery, on-site personnel, and material inventory for architectural projects.",
+    "label": 1
+  },
+  {
+    "name_a": "Public Bus Card System",
+    "abstract_a": "A smart ticketing solution for urban transit that utilizes RFID cards for automated fare collection and passenger boarding verification.",
+    "name_b": "Transport Card Management System",
+    "abstract_b": "An administrative portal for commuters to manage their transit credits and renew monthly passes for integrated metropolitan bus networks.",
+    "label": 1
+  },
+  {
+    "name_a": "Crop Output Estimation System",
+    "abstract_a": "An agritech model that analyzes multi-spectral satellite imagery to forecast seasonal harvest volumes and project agricultural revenue.",
+    "name_b": "Agricultural Yield Forecasting System",
+    "abstract_b": "A predictive analytics platform that integrates soil data and historical rainfall patterns to estimate the productivity of commercial farmland.",
+    "label": 1
+  },
+  {
+    "name_a": "Song Streaming Application",
+    "abstract_a": "A high-fidelity audio platform providing on-demand access to a digital music library with social discovery and playlist curation features.",
+    "name_b": "Local Guide Application",
+    "abstract_b": "A mobile travel assistant that provides tourists with geolocated information on city attractions, restaurants, and historical landmarks.",
+    "label": 0
+  },
+  {
+    "name_a": "Scholarship Application System",
+    "abstract_a": "A digital portal where students can submit academic transcripts and essays to apply for merit-based financial grants from universities.",
+    "name_b": "Digital Art Gallery App",
+    "abstract_b": "An immersive mobile application that allows users to browse virtual exhibitions of fine art and purchase prints directly from independent artists.",
+    "label": 0
+  },
+  {
+    "name_a": "Stress Relief App",
+    "abstract_a": "A mindfulness application that offers guided breathing exercises and ambient nature sounds to assist users with daily relaxation.",
+    "name_b": "Mental Health App",
+    "abstract_b": "A clinical-grade mobile tool designed for monitoring severe psychological symptoms and connecting users with emergency psychiatric counseling.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Contract Voting System",
+    "abstract_a": "A blockchain-based governance tool that automates poll execution and ensures the cryptographic integrity of ballots cast by stakeholders.",
+    "name_b": "Smart Resume Creator",
+    "abstract_b": "An AI-powered document editor that suggests professional phrasing and formatting to help job seekers bypass applicant tracking system filters.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Room Planner",
+    "abstract_a": "A spatial design tool that allows users to place virtual 3D furniture into their floor plans to visualize home renovation projects before they begin.",
+    "name_b": "Digital Pharmacy Platform",
+    "abstract_b": "An enterprise portal for pharmacists to manage e-prescriptions, track medical inventory, and fulfill sensitive healthcare orders for patients.",
+    "label": 0
+  },
+  {
+    "name_a": "Veterinary Management System",
+    "abstract_a": "A healthcare software suite for animal clinics to manage surgery schedules, patient vaccinations, and client billing in a unified database.",
+    "name_b": "Scrap Management System",
+    "abstract_b": "A logistical application for waste processing centers to track the weight and type of industrial metals and recyclables collected from site.",
+    "label": 0
+  },
+  {
+    "name_a": "Nutrition Monitoring App",
+    "abstract_a": "A dietetic mobile app that logs daily caloric intake and monitors macronutrient balance to help users achieve specific health and fitness goals.",
+    "name_b": "Field Yield Monitoring System",
+    "abstract_b": "A precision farming tool that uses sensors on harvesting machinery to map the productivity of commercial crops across diverse soil zones.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Tutoring Platform",
+    "abstract_a": "An educational marketplace that matches students with qualified instructors for live one-on-one video lessons in various academic subjects.",
+    "name_b": "Online Supermarket System",
+    "abstract_b": "An e-commerce portal where consumers can purchase bulk groceries and fresh produce for home delivery from local distribution centers.",
+    "label": 0
+  },
+  {
+    "name_a": "Environmental Impact Tracker",
+    "abstract_a": "A corporate reporting tool that calculates the ecological footprint of manufacturing operations, including water pollution and waste output.",
+    "name_b": "Healthy Eating Tracker",
+    "abstract_b": "A lifestyle journal for tracking nutritional habits and analyzing the mineral content of daily meals for long-term health maintenance.",
+    "label": 0
+  },
+  {
+    "name_a": "Stress Management App",
+    "abstract_a": "A mental wellness tool that sends daily mindfulness reminders and tracks heart rate variability to identify periods of occupational burnout.",
+    "name_b": "Calorie Tracking App",
+    "abstract_b": "A weight-loss utility that uses a comprehensive food database to help users maintain a caloric deficit and reach their weight targets.",
+    "label": 0
+  },
+  {
+    "name_a": "Emergency Coordination Platform",
+    "abstract_a": "A crisis management dashboard for dispatching first responders and managing communication between government agencies during natural disasters.",
+    "name_b": "Interactive Language Platform",
+    "abstract_b": "A linguistic educational tool that utilizes voice recognition and gamified exercises to help users master foreign language vocabulary.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Parking Booking System",
+    "abstract_a": "A mobile application that allows drivers to reserve parking spaces in urban garages and pre-pay using an integrated digital wallet.",
+    "name_b": "Private Tutor Booking System",
+    "abstract_b": "A service portal that enables parents to schedule personalized academic sessions for their children with certified professional educators.",
+    "label": 0
+  },
+  {
+    "name_a": "Crop Health Monitoring Platform",
+    "abstract_a": "An agritech solution that uses aerial imagery to detect early signs of pest infestations and nutrient deficiencies in large-scale farms.",
+    "name_b": "Automated Exam Monitoring System",
+    "abstract_b": "A remote invigilation tool that uses biometric analysis to detect suspicious student activity during high-stakes digital certifications.",
+    "label": 0
+  },
+  {
+    "name_a": "Food Health Tracker",
+    "abstract_a": "An analytical tool for monitoring personal nutrition and identifying potential food allergies based on dietary intake logs.",
+    "name_b": "Sustainability Tracker",
+    "abstract_b": "A dashboard for organizations to record progress toward net-zero targets by monitoring renewable energy adoption and carbon offsets.",
+    "label": 0
+  },
+  {
+    "name_a": "Aquatic Environment Monitoring System",
+    "abstract_a": "A marine research platform that tracks water salinity and dissolved oxygen levels in coral reefs using underwater telemetry nodes.",
+    "name_b": "Cyber Threat Monitoring System",
+    "abstract_b": "A network defense suite that provides 24/7 surveillance of server logs to identify and block potential data breaches and hacks.",
+    "label": 0
+  },
+  {
+    "name_a": "Food Nutrition Tracker",
+    "abstract_a": "A mobile application that allows users to scan barcodes on food packaging to view detailed protein and carbohydrate information.",
+    "name_b": "Recyclable Material Tracker",
+    "abstract_b": "An inventory system for recycling centers to track the volume of glass and plastic processed for reuse in industrial manufacturing.",
+    "label": 0
+  },
+  {
+    "name_a": "Tow Truck Booking System",
+    "abstract_a": "An on-demand logistics app that connects stranded motorists with nearby vehicle recovery services during mechanical breakdowns.",
+    "name_b": "Private Tutor Booking System",
+    "abstract_b": "A digital marketplace where students can find and hire subject-matter experts for specialized help with university entrance exams.",
+    "label": 0
+  },
+  {
+    "name_a": "Income Tax Filing Portal",
+    "abstract_a": "A secure web portal for submitting annual income tax returns and managing individual fiscal deductions with government revenue services.",
+    "name_b": "Scholarship Portal",
+    "abstract_b": "A centralized academic database where students can search for available fellowships and manage their funding applications online.",
+    "label": 0
+  },
+  {
+    "name_a": "Online News Portal",
+    "abstract_a": "A digital journalism site providing real-time investigative reports and multimedia coverage of global political and economic current events.",
+    "name_b": "Electricity Payment Portal",
+    "abstract_b": "A utility payment gateway that allows residents to settle their monthly power bills and view historical kilowatt-hour consumption.",
+    "label": 0
+  },
+  {
+    "name_a": "Disaster Management System",
+    "abstract_a": "An administrative platform for coordinating search and rescue operations and tracking resource distribution in the wake of natural catastrophes.",
+    "name_b": "Remote Employee Management System",
+    "abstract_b": "A corporate HR tool for monitoring the productivity and attendance of home-based staff through project logs and time-tracking features.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Room Planner",
+    "abstract_a": "An architectural visualization tool that enables users to test wall colors and furniture arrangements in a 3D simulated interior space.",
+    "name_b": "Digital Art Platform",
+    "abstract_b": "A creative social network where digital illustrators can upload their work, share drawing techniques, and find freelance design opportunities.",
+    "label": 0
+  },
+  {
+    "name_a": "Network Security Monitoring System",
+    "abstract_a": "A security operations center dashboard that scans enterprise firewalls for intrusion attempts and unauthorized data exfiltration.",
+    "name_b": "Vehicle Monitoring System",
+    "abstract_b": "A logistics tracking tool for transport managers to monitor the real-time speed, location, and fuel levels of a commercial truck fleet.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Support Group Platform",
+    "abstract_a": "A moderated digital forum for individuals with shared life experiences to participate in peer-led therapeutic discussions and mutual aid.",
+    "name_b": "Online Painting Store",
+    "abstract_b": "An e-commerce marketplace for browsing and purchasing original oil and acrylic works from independent artists across the world.",
+    "label": 0
+  },
+  {
+    "name_a": "IoT Water Quality System",
+    "abstract_a": "A distributed network of sensors that provides real-time alerts on chemical contamination in municipal water supply reservoirs.",
+    "name_b": "Online Tax Return System",
+    "abstract_b": "A cloud-based accounting service for calculating personal tax liabilities and filing digital documents with the national revenue agency.",
+    "label": 0
+  },
+  {
+    "name_a": "Driver Behavior Monitoring System",
+    "abstract_a": "A telematics application that analyzes accelerometer data to detect unsafe driving habits like sudden braking or high-speed swerving.",
+    "name_b": "Groundwater Monitoring System",
+    "abstract_b": "A hydrologic research tool that measures the depth and purity of underground aquifers to ensure sustainable water extraction for agriculture.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Tutoring Service",
+    "abstract_a": "A cloud-based educational portal that facilitates real-time video sessions and virtual whiteboards for personalized distance learning.",
+    "name_b": "Online Tutoring Platform",
+    "abstract_b": "A web-enabled marketplace connecting students with certified instructors for one-on-one academic support and test preparation.",
+    "label": 1
+  },
+  {
+    "name_a": "Art Buying and Selling Platform",
+    "abstract_a": "An e-commerce hub for fine art collectors to acquire authenticated physical works and manage digital provenance records.",
+    "name_b": "Digital Art Gallery App",
+    "abstract_b": "A mobile application for artists to showcase high-resolution portfolios and facilitate direct sales of digital prints to global curators.",
+    "label": 1
+  },
+  {
+    "name_a": "Staff Retirement System",
+    "abstract_a": "An HR financial tool designed to calculate employee pension benefits and track mandatory contribution schedules over long-term service.",
+    "name_b": "Superannuation Management System",
+    "abstract_b": "A backend fiscal platform for administering retirement funds, ensuring compliance with state regulations regarding interest accrual and payouts.",
+    "label": 1
+  },
+  {
+    "name_a": "Emergency Mechanic Platform",
+    "abstract_a": "A dispatch software that geolocates stranded motorists and routes nearby mechanical support for on-site vehicle repairs.",
+    "name_b": "Vehicle Recovery System",
+    "abstract_b": "A coordination utility for towing services to manage pickup requests and track specialized haulage units in real-time.",
+    "label": 1
+  },
+  {
+    "name_a": "Court Case Management System",
+    "abstract_a": "A judicial database for organizing legal dockets, managing hearing calendars, and securing digital case filings for legal professionals.",
+    "name_b": "Court Records System",
+    "abstract_b": "A centralized archive for maintaining the historical integrity of litigation documents and tracking the final disposition of judicial proceedings.",
+    "label": 1
+  },
+  {
+    "name_a": "Revenue Tax Platform",
+    "abstract_a": "An integrated financial portal for processing annual income declarations and calculating corporate tax liabilities for government submission.",
+    "name_b": "Tax Calculation System",
+    "abstract_b": "A computational tool that applies regional fiscal codes to raw income data to automate the estimation of net tax owed.",
+    "label": 1
+  },
+  {
+    "name_a": "Agricultural Yield Forecasting System",
+    "abstract_a": "A predictive model that utilizes multi-spectral satellite imagery to estimate seasonal harvest volumes for commercial farming operations.",
+    "name_b": "Farm Output Prediction App",
+    "abstract_b": "A data-driven analytics tool that integrates historical rainfall and soil health metrics to project crop productivity for regional growers.",
+    "label": 1
+  },
+  {
+    "name_a": "Inventory Prediction System",
+    "abstract_a": "A machine learning engine that analyzes historical transaction patterns to forecast future stock requirements and optimize replenishment cycles.",
+    "name_b": "Predictive Inventory System",
+    "abstract_b": "A supply chain utility designed to minimize warehouse overhead by identifying future peaks in product demand before they occur.",
+    "label": 1
+  },
+  {
+    "name_a": "Grammar Learning System",
+    "abstract_a": "An educational software focused on mastery of linguistic syntax through interactive sentence reconstruction and real-time error feedback.",
+    "name_b": "Language Skill Development App",
+    "abstract_b": "A mobile learning platform utilizing gamified drills to improve foreign language proficiency and structural accuracy for second-language learners.",
+    "label": 1
+  },
+  {
+    "name_a": "Wild Animal Surveillance System",
+    "abstract_a": "A field research tool employing motion-activated thermal cameras to track population movements and nocturnal behaviors of native wildlife.",
+    "name_b": "Wildlife Data System",
+    "abstract_b": "A central repository for conservationists to log species sightings and manage ecological data collected from remote forest sensors.",
+    "label": 1
+  },
+  {
+    "name_a": "Alternative Finance Platform",
+    "abstract_a": "A peer-to-peer lending marketplace that connects non-traditional borrowers with individual investors using algorithmic risk profiling.",
+    "name_b": "Person-to-Person Lending App",
+    "abstract_b": "A mobile fintech application that facilitates direct micro-loans between individuals, bypassing conventional banking intermediaries for faster credit access.",
+    "label": 1
+  },
+  {
+    "name_a": "Water Quality Monitoring System",
+    "abstract_a": "An IoT-enabled infrastructure that detects chemical contaminants and heavy metals in reservoirs using real-time telemetry nodes.",
+    "name_b": "Groundwater Monitoring System",
+    "abstract_b": "A sensor-based platform designed to measure aquifer depth and salinity levels to ensure sustainable water extraction for regional use.",
+    "label": 1
+  },
+  {
+    "name_a": "Book Social Network",
+    "abstract_a": "A community-focused web portal where readers share personal bookshelves, join discussion groups, and follow literary influencers.",
+    "name_b": "Reader Review Portal",
+    "abstract_b": "A dedicated forum for the publication of user-generated critiques and ratings for contemporary and classic literature.",
+    "label": 1
+  },
+  {
+    "name_a": "Gym Management System",
+    "abstract_a": "An administrative software for health clubs to handle membership billing, trainer schedules, and secure facility access controls.",
+    "name_b": "Fitness Center Management System",
+    "abstract_b": "An end-to-end business tool for gym owners to track equipment maintenance logs and monitor monthly revenue through digital dashboards.",
+    "label": 1
+  },
+  {
+    "name_a": "Plant Pathology System",
+    "abstract_a": "A computer vision tool that identifies botanical diseases by analyzing digital photographs of foliage for fungal or viral symptoms.",
+    "name_b": "Agricultural Disease Monitoring System",
+    "abstract_b": "A regional surveillance platform that tracks the spread of crop-specific blights and provides early warning alerts to commercial farmers.",
+    "label": 1
+  },
+  {
+    "name_a": "Construction Resource Management",
+    "abstract_a": "A logistical platform for tracking on-site heavy machinery availability and coordinating the delivery of raw materials to building sites.",
+    "name_b": "Construction Administration System",
+    "abstract_b": "A project management tool designed to oversee civil engineering timelines, manage subcontracts, and track budget compliance for infrastructure works.",
+    "label": 1
+  },
+  {
+    "name_a": "Virtual Office System",
+    "abstract_a": "A collaborative digital environment that provides remote teams with shared file storage, synchronous chat, and integrated task boards.",
+    "name_b": "Remote Employee Management System",
+    "abstract_b": "An HR-focused tool for monitoring the productivity and attendance of home-based staff through encrypted log-in and activity tracking.",
+    "label": 1
+  },
+  {
+    "name_a": "Home Interior App",
+    "abstract_a": "A mobile design utility that allows users to test wall color schemes and virtual furniture layouts using augmented reality overlays.",
+    "name_b": "Online Home Decor System",
+    "abstract_b": "A web-based planning platform for homeowners to curate interior aesthetics and generate 3D visualizations of renovated living spaces.",
+    "label": 1
+  },
+  {
+    "name_a": "Digital News Management System",
+    "abstract_a": "A content production portal for journalists to draft investigative reports and manage the publication lifecycle of digital news cycles.",
+    "name_b": "Digital Media Platform",
+    "abstract_b": "A high-scale web infrastructure providing real-time news updates and multimedia features to a global audience of digital readers.",
+    "label": 1
+  },
+  {
+    "name_a": "Network Threat Analytics System",
+    "abstract_a": "A cybersecurity suite that scans firewall logs for anomalous packet signatures and potential intrusion attempts in corporate networks.",
+    "name_b": "Security Incident System",
+    "abstract_b": "A real-time response dashboard that prioritizes system alerts and coordinates the neutralization of active malware or unauthorized access.",
+    "label": 1
+  },
+  {
+    "name_a": "Scholarship Database System",
+    "abstract_a": "A searchable repository of global academic grants, allowing students to filter funding opportunities by merit and financial need.",
+    "name_b": "Scholarship Management System",
+    "abstract_b": "An administrative tool for educational foundations to process funding applications and manage the disbursement of student stipends.",
+    "label": 1
+  },
+  {
+    "name_a": "Calorie Tracking App",
+    "abstract_a": "A lifestyle mobile application for logging food intake and monitoring daily caloric deficits relative to user-defined weight goals.",
+    "name_b": "Nutritional Diary System",
+    "abstract_b": "A health-centric portal that analyzes macronutrient and mineral content of meals to provide comprehensive dietary insights.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Grocery Store",
+    "abstract_a": "A retail e-commerce platform where customers browse produce inventories and schedule home deliveries from local supermarkets.",
+    "name_b": "Grocery Shopping App",
+    "abstract_b": "A mobile interface designed for the fast ordering of household staples and fresh food through localized delivery networks.",
+    "label": 1
+  },
+  {
+    "name_a": "Water Supply Management System",
+    "abstract_a": "An infrastructure control system that regulates water pressure and monitors pipeline flow across a municipal distribution grid.",
+    "name_b": "Canal Management System",
+    "abstract_b": "A hydraulic utility platform used to control lock operations and monitor water levels in regional transport and irrigation channels.",
+    "label": 1
+  },
+  {
+    "name_a": "Insurance Underwriting System",
+    "abstract_a": "A risk assessment tool that uses actuarial models to determine policy premiums and evaluate applicant eligibility for coverage.",
+    "name_b": "Digital Insurance Platform",
+    "abstract_b": "A fintech portal for purchasing auto and health policies and submitting claims through a secure electronic interface.",
+    "label": 1
+  },
+  {
+    "name_a": "Electricity Usage Monitoring System",
+    "abstract_a": "An IoT smart-meter dashboard that provides homeowners with real-time feedback on kilowatt-hour consumption for household electronics.",
+    "name_b": "Groundwater Monitoring System",
+    "abstract_b": "A geological surveillance tool that records fluctuations in underground water table depth to prevent over-extraction in agricultural zones.",
+    "label": 0
+  },
+  {
+    "name_a": "Water Supply Management System",
+    "abstract_a": "A municipal utility application designed to coordinate the flow of treated water through city pipes and manage leak detection sensors.",
+    "name_b": "Home Medicine Delivery System",
+    "abstract_b": "An e-pharmacy logistics tool that verifies medical prescriptions and routes pharmacy technicians for the home delivery of pharmaceutical products.",
+    "label": 0
+  },
+  {
+    "name_a": "Automated Irrigation Platform",
+    "abstract_a": "A precision agriculture system that triggers water pumps based on soil moisture data collected from localized ground sensors.",
+    "name_b": "Energy Billing Platform",
+    "abstract_b": "A financial gateway for utility companies to generate invoices and process payments for residential gas and electric services.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Drug Store Platform",
+    "abstract_a": "A secure web portal where users can purchase over-the-counter medications and manage their personal health record data.",
+    "name_b": "Emergency Coordination Platform",
+    "abstract_b": "A command-and-control system used by first responders to dispatch resources and manage public safety during natural disasters.",
+    "label": 0
+  },
+  {
+    "name_a": "Mood Tracking App",
+    "abstract_a": "A mental health mobile journal for logging emotional states and identifying psychological patterns through daily user self-reporting.",
+    "name_b": "Job Application Resume System",
+    "abstract_b": "A professional document editor that helps candidates build structured curriculum vitae and optimize them for recruitment screening algorithms.",
+    "label": 0
+  },
+  {
+    "name_a": "Air Travel Booking System",
+    "abstract_a": "A travel search engine that aggregates commercial flight itineraries and manages seat reservations for international and domestic travel.",
+    "name_b": "Online Therapist Booking System",
+    "abstract_b": "A telehealth scheduling portal that allows patients to browse professional psychologist profiles and reserve private consultation times.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Parking System",
+    "abstract_a": "An urban infrastructure solution that uses ground-embedded sensors to guide drivers to vacant parking spots via a mobile navigation app.",
+    "name_b": "Smart Greenhouse System",
+    "abstract_b": "An automated farming environment that modulates interior temperature and lighting to provide optimal growing conditions for out-of-season crops.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Meditation Platform",
+    "abstract_a": "A wellness streaming service providing a catalog of guided mindfulness videos and ambient soundscapes for stress reduction.",
+    "name_b": "Online Collaboration Platform",
+    "abstract_b": "A virtual workplace suite enabling remote employees to co-author technical documents and manage project timelines in real-time.",
+    "label": 0
+  },
+  {
+    "name_a": "Pension Portal",
+    "abstract_a": "A secure financial interface for retirees to view their monthly benefit statements and update their direct deposit information.",
+    "name_b": "Breaking News Portal",
+    "abstract_b": "A digital journalism site providing live updates on political events, market shifts, and global news stories for a general audience.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Meditation Platform",
+    "abstract_a": "A subscription-based web service offering guided zen practices and instructional videos for mental clarity and relaxation.",
+    "name_b": "Car Parking Management Platform",
+    "abstract_b": "An administrative tool for lot owners to monitor garage occupancy, manage monthly permits, and process gate exit transactions.",
+    "label": 0
+  },
+  {
+    "name_a": "Environmental Monitoring App",
+    "abstract_a": "A personal tracking tool that estimates an individual's carbon footprint based on daily transportation and household waste metrics.",
+    "name_b": "Vehicle Monitoring System",
+    "abstract_b": "A fleet telematics application used by logistics managers to track the real-time speed, location, and fuel efficiency of commercial trucks.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Counseling Platform",
+    "abstract_a": "A HIPAA-compliant virtual clinic connecting users with licensed psychiatrists for remote clinical therapy and mental health treatment.",
+    "name_b": "Online Pharmacy System",
+    "abstract_b": "An e-commerce storefront for ordering pharmaceutical goods and managing digital health records through a secure web portal.",
+    "label": 0
+  },
+  {
+    "name_a": "Water Pollution Monitoring System",
+    "abstract_a": "An environmental sensor network designed to detect nitrate and heavy metal concentration in rivers near industrial processing sites.",
+    "name_b": "Crop Health Monitoring Platform",
+    "abstract_b": "An agritech solution that analyzes multi-spectral drone imagery to identify pest infestations and nutrient deficiencies in large-scale fields.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Greenhouse System",
+    "abstract_a": "An automated climate controller that uses sensors to regulate the humidity and ventilation within an indoor agricultural facility.",
+    "name_b": "Smart Contract Voting System",
+    "abstract_b": "A blockchain-integrated application where stakeholders use cryptographic tokens to cast verifiable and immutable ballots for organizational decisions.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Loan Marketplace",
+    "abstract_a": "A fintech site that aggregates various credit products, allowing users to compare interest rates and apply for personal micro-loans.",
+    "name_b": "Supermarket Online System",
+    "abstract_b": "An e-commerce retail platform that allows consumers to purchase bulk groceries and fresh produce for home delivery from local warehouses.",
+    "label": 0
+  },
+  {
+    "name_a": "Airport Management System",
+    "abstract_a": "An enterprise operations suite for managing gate assignments, terminal security protocols, and real-time flight data at aviation hubs.",
+    "name_b": "Bursary Management System",
+    "abstract_b": "An administrative tool for educational institutions to process student applications for financial grants and manage award disbursements.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Pharmacy Platform",
+    "abstract_a": "An online healthcare service providing access to pharmaceutical inventory, e-prescriptions, and medication counseling through an app.",
+    "name_b": "Digital Psychotherapy System",
+    "abstract_b": "A mental wellness platform offering synchronous video-based counseling and digital tools for cognitive behavioral therapy tracking.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Airline Booking System",
+    "abstract_a": "A travel transaction portal used to browse international flight paths, select seating classes, and purchase commercial air tickets.",
+    "name_b": "Private Tutor Booking System",
+    "abstract_b": "A service-oriented marketplace that enables parents to browse teacher profiles and schedule one-on-one academic lessons for students.",
+    "label": 0
+  },
+  {
+    "name_a": "Cyber Threat Monitoring System",
+    "abstract_a": "A network security solution that performs deep packet inspection to identify malware signatures and unauthorized data exfiltration attempts.",
+    "name_b": "Forest Animal Monitoring System",
+    "abstract_b": "A biodiversity research platform that utilizes remote acoustic sensors and camera traps to track wildlife populations in dense woodland areas.",
+    "label": 0
+  },
+  {
+    "name_a": "Remote Work Management System",
+    "abstract_a": "A collaborative platform for coordinating distributed staff through shared task lists, video conferencing, and asynchronous document sharing.",
+    "name_b": "Diet Management System",
+    "abstract_b": "A nutritional planning tool that creates custom meal plans and tracks macronutrient intake to help users reach health objectives.",
+    "label": 0
+  },
+  {
+    "name_a": "Hybrid Work Management System",
+    "abstract_a": "An HR software solution for managing hot-desking schedules and tracking the productivity of employees split between office and home.",
+    "name_b": "Fitness Management App",
+    "abstract_b": "A mobile workout assistant that allows users to log exercise routines and monitor heart rate and calorie burn during athletic training.",
+    "label": 0
+  },
+  {
+    "name_a": "Electricity Bill Management System",
+    "abstract_a": "A utility financial tool that calculates energy charges from meter data and processes monthly payments for household power consumers.",
+    "name_b": "Parking Space Management System",
+    "abstract_b": "An administrative portal for garage operators to track bay occupancy and manage long-term parking permits for commercial tenants.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Lending Platform",
+    "abstract_a": "A fintech application for processing micro-loan applications and evaluating borrower creditworthiness through algorithmic assessment.",
+    "name_b": "Digital News Website",
+    "abstract_b": "A digital journalism portal providing real-time updates on global events, investigative articles, and multimedia coverage for online readers.",
+    "label": 0
+  },
+  {
+    "name_a": "Relaxation Technique App",
+    "abstract_a": "A wellness-focused application providing guided breathing exercises and sleep-inducing soundscapes to improve mental focus and rest.",
+    "name_b": "Green Living App",
+    "abstract_b": "A sustainability tracker that monitors personal consumption habits and provides tips for reducing household waste and carbon emissions.",
+    "label": 0
+  },
+  {
+    "name_a": "Prescription Medicine Delivery App",
+    "abstract_a": "A pharmaceutical logistics tool that validates medical scripts and coordinates the home delivery of medication from local pharmacies.",
+    "name_b": "Home Tuition Finder App",
+    "abstract_b": "A mobile marketplace that allows parents to geolocate and hire private academic tutors for in-home educational support for their children.",
+    "label": 0
+  },
+  {
+    "name_a": "Exam Integrity Software",
+    "abstract_a": "A high-security browser lockdown tool that prevents students from accessing external resources and utilizes AI-driven gaze tracking to detect unauthorized assistance.",
+    "name_b": "Automated Exam Monitoring System",
+    "abstract_b": "A remote proctoring solution that records audio and video feeds to identify behavioral anomalies and verify student identities during digital assessments.",
+    "label": 1
+  },
+  {
+    "name_a": "Precision Irrigation Controller",
+    "abstract_a": "An automated agricultural system that optimizes water delivery to specific field zones based on real-time soil moisture and evapotranspiration data.",
+    "name_b": "Smart Watering System",
+    "abstract_b": "An IoT-enabled farming tool designed to reduce water waste by triggering localized irrigation cycles only when ground sensors detect critical dryness.",
+    "label": 1
+  },
+  {
+    "name_a": "Digital News Distribution Hub",
+    "abstract_a": "A backend content management system for media houses to syndicate breaking news stories and investigative reports across various digital publishing channels.",
+    "name_b": "Breaking News Portal",
+    "abstract_b": "A high-traffic journalism website providing real-time coverage of global events, featuring interactive editorial content and live multimedia updates.",
+    "label": 1
+  },
+  {
+    "name_a": "Mental Health Counseling App",
+    "abstract_a": "A mobile application providing secure video-based therapy sessions and confidential text consultations with licensed clinical psychologists.",
+    "name_b": "Online Psychological Support System",
+    "abstract_b": "A tele-health platform designed to connect individuals with mental health professionals for crisis intervention and emotional wellness management.",
+    "label": 1
+  },
+  {
+    "name_a": "Transit Card Management System",
+    "abstract_a": "A metropolitan ticketing solution for managing NFC-based travel passes and automating fare collection across a multi-modal transport network.",
+    "name_b": "Public Transport Pass System",
+    "abstract_b": "An administrative portal for commuters to purchase monthly travel credentials and track their public transit balance via a secure mobile wallet.",
+    "label": 1
+  },
+  {
+    "name_a": "Microcredit System",
+    "abstract_a": "A fintech platform tailored for providing small-scale unsecured loans to entrepreneurs in emerging markets using alternative risk-assessment models.",
+    "name_b": "Village Savings System",
+    "abstract_b": "A community-focused financial tool designed for small groups to manage collective savings and facilitate peer-to-peer micro-lending cycles.",
+    "label": 1
+  },
+  {
+    "name_a": "Carbon Emission Monitoring System",
+    "abstract_a": "An environmental tracking tool that quantifies greenhouse gas outputs from industrial facilities to ensure compliance with corporate net-zero targets.",
+    "name_b": "Sustainability Tracker",
+    "abstract_b": "A comprehensive dashboard for organizations to monitor their ecological footprint, including energy consumption, water usage, and waste diversion rates.",
+    "label": 1
+  },
+  {
+    "name_a": "Pet Adoption Platform",
+    "abstract_a": "A digital marketplace connecting animal rescue shelters with prospective pet owners, featuring verified animal health logs and adoption workflows.",
+    "name_b": "Animal Shelter Management System",
+    "abstract_b": "A logistical database for managing the intake, vaccination schedules, and housing requirements of rescued domestic animals within a shelter environment.",
+    "label": 1
+  },
+  {
+    "name_a": "Court Records System",
+    "abstract_a": "A judicial archive designed to maintain the historical integrity of litigation documents and provide legal professionals with searchable trial records.",
+    "name_b": "Litigation Management System",
+    "abstract_b": "A law firm productivity tool for tracking court dates, assembling legal evidence, and managing the lifecycle of ongoing judicial proceedings.",
+    "label": 1
+  },
+  {
+    "name_a": "Fleet Telematics Platform",
+    "abstract_a": "An integrated vehicle tracking solution that utilizes GPS and engine diagnostics to optimize fuel efficiency and monitor commercial driver behavior.",
+    "name_b": "Vehicle Monitoring System",
+    "abstract_b": "A real-time logistics dashboard for transportation managers to track the location, speed, and mechanical status of heavy-duty delivery trucks.",
+    "label": 1
+  },
+  {
+    "name_a": "Airport Administration Platform",
+    "abstract_a": "An enterprise operations suite for managing gate allocations, terminal maintenance schedules, and ground crew assignments at major air hubs.",
+    "name_b": "Aviation Operations System",
+    "abstract_b": "A coordination platform designed to synchronize real-time flight data with airport facilities to optimize aircraft turnaround and passenger flow.",
+    "label": 1
+  },
+  {
+    "name_a": "E-Tax Filing System",
+    "abstract_a": "A government-integrated portal for the digital submission of income tax returns and the secure management of individual fiscal records.",
+    "name_b": "Revenue Tax Platform",
+    "abstract_b": "A financial management system designed to automate the calculation of corporate tax liabilities and process electronic payments to revenue authorities.",
+    "label": 1
+  },
+  {
+    "name_a": "Crop Disease Identification App",
+    "abstract_a": "A machine learning mobile app that analyzes leaf imagery to identify botanical pathogens and recommend targeted fungicide treatments to farmers.",
+    "name_b": "Plant Pathology System",
+    "abstract_b": "An agritech surveillance tool designed to track the spread of agricultural blights and provide predictive alerts for potential crop infestations.",
+    "label": 1
+  },
+  {
+    "name_a": "Staff Retirement System",
+    "abstract_a": "An administrative financial tool for tracking employee pension contributions and managing the disbursement of long-term retirement benefits.",
+    "name_b": "Old Age Pension Platform",
+    "abstract_b": "A secure digital portal for retirees to access their monthly stipends and manage their pension fund records through a unified interface.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Resume Maker",
+    "abstract_a": "A web-based document editor that helps job seekers build structured curriculum vitae by optimizing content for applicant tracking systems.",
+    "name_b": "Smart Resume Creator",
+    "abstract_b": "An AI-powered career tool that suggests professional phrasing and formatting to help candidates tailor their resumes to specific job descriptions.",
+    "label": 1
+  },
+  {
+    "name_a": "Aquatic Environment Monitoring System",
+    "abstract_a": "A marine research platform that tracks water salinity and dissolved oxygen levels in coral reefs using underwater telemetry nodes.",
+    "name_b": "Real-Time Water Testing System",
+    "abstract_b": "A distributed network of sensors designed to detect chemical contamination in drinking water sources and provide immediate safety alerts.",
+    "label": 1
+  },
+  {
+    "name_a": "Sales Forecasting Platform",
+    "abstract_a": "A predictive analytics engine that utilizes historical transaction data to project future revenue and assist businesses with budgetary planning.",
+    "name_b": "Product Demand System",
+    "abstract_b": "A machine learning solution for retail managers to forecast future stock requirements based on seasonal trends and market volatility.",
+    "label": 1
+  },
+  {
+    "name_a": "Digital Pharmacy Platform",
+    "abstract_a": "A healthcare application that connects patients with licensed pharmacists for medication counseling and the online fulfillment of medical scripts.",
+    "name_b": "Prescription Medicine Delivery App",
+    "abstract_b": "A pharmaceutical logistics tool that validates medical prescriptions and coordinates the home delivery of medications from local pharmacies.",
+    "label": 1
+  },
+  {
+    "name_a": "Work-at-Home Platform",
+    "abstract_a": "A virtual office environment designed to support remote staff with secure file sharing, synchronous chat, and project management tools.",
+    "name_b": "Remote Employee Management System",
+    "abstract_b": "An HR-focused suite for monitoring the productivity and attendance of home-based staff through project logs and activity tracking.",
+    "label": 1
+  },
+  {
+    "name_a": "Gym Subscription System",
+    "abstract_a": "A digital portal for health clubs to manage member enrollment, automate recurring billing, and track facility access through RFID keycards.",
+    "name_b": "Gym Billing System",
+    "abstract_b": "A backend financial system designed to process membership fees and generate invoices for fitness centers with large-scale customer bases.",
+    "label": 1
+  },
+  {
+    "name_a": "Agricultural Yield Forecasting System",
+    "abstract_a": "An agritech model that analyzes satellite data and soil quality sensors to predict harvest volumes for large-scale commercial farming.",
+    "name_b": "Crop Output Estimation System",
+    "abstract_b": "A predictive analytics platform designed to estimate regional crop productivity based on historical rainfall patterns and climate projections.",
+    "label": 1
+  },
+  {
+    "name_a": "Art Portfolio System",
+    "abstract_a": "A digital exhibition tool for visual artists to curate high-quality galleries and manage their professional credentials for international buyers.",
+    "name_b": "Digital Art Platform",
+    "abstract_b": "A creative social network where digital illustrators can upload their work, share design techniques, and find freelance opportunities.",
+    "label": 1
+  },
+  {
+    "name_a": "Exam Proctoring Platform",
+    "abstract_a": "A secure educational tool that tracks browser activity and environmental noise to maintain the integrity of virtual assessments.",
+    "name_b": "Online Invigilation System",
+    "abstract_b": "A remote testing platform that monitors candidates via webcam and microphone to prevent cheating during high-stakes digital certifications.",
+    "label": 1
+  },
+  {
+    "name_a": "Bursary Management System",
+    "abstract_a": "An administrative tool for educational institutions to process student applications for financial grants and manage award disbursements.",
+    "name_b": "Financial Aid Management System",
+    "abstract_b": "A specialized software solution for universities to verify student eligibility for scholarships and automate the payment of academic stipends.",
+    "label": 1
+  },
+  {
+    "name_a": "Groundwater Monitoring System",
+    "abstract_a": "A geological surveillance tool that records fluctuations in underground water table depth to prevent over-extraction in agricultural zones.",
+    "name_b": "Water Quality Monitoring System",
+    "abstract_b": "An IoT-enabled infrastructure that detects chemical contaminants and heavy metals in reservoirs using real-time telemetry nodes.",
+    "label": 1
+  },
+  {
+    "name_a": "Staff Retirement System",
+    "abstract_a": "An HR financial tool designed to calculate employee pension benefits and track mandatory contribution schedules over long-term service.",
+    "name_b": "Gas Station Management System",
+    "abstract_b": "An integrated point-of-sale and inventory platform designed to synchronize fuel pump data with back-office accounting for petroleum businesses.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital News Website",
+    "abstract_a": "A journalism portal that aggregates real-time news articles, investigative reports, and multimedia content for a global audience.",
+    "name_b": "Digital Room Planner",
+    "abstract_b": "A spatial design tool that allows users to place virtual 3D furniture into their floor plans to visualize home renovation projects.",
+    "label": 0
+  },
+  {
+    "name_a": "Air Travel Booking System",
+    "abstract_a": "A consumer-facing web application that allows travelers to search, compare, and purchase flight tickets across various carriers.",
+    "name_b": "Online Parking Booking System",
+    "abstract_b": "A mobile application that allows drivers to find and reserve parking spaces in busy urban centers before starting their commute.",
+    "label": 0
+  },
+  {
+    "name_a": "Scholarship Application System",
+    "abstract_a": "A digital portal where students can submit academic transcripts and essays to apply for merit-based financial grants from universities.",
+    "name_b": "Medicine Delivery App",
+    "abstract_b": "An e-pharmacy application that enables users to order medication online and track the status of their pharmacy delivery in real-time.",
+    "label": 0
+  },
+  {
+    "name_a": "Stress Relief App",
+    "abstract_a": "A mindfulness application that offers guided breathing exercises and ambient nature sounds to assist users with daily relaxation.",
+    "name_b": "Mental Health Monitoring System",
+    "abstract_b": "A clinical-grade mobile tool designed for monitoring severe psychological symptoms and connecting users with emergency psychiatric counseling.",
+    "label": 0
+  },
+  {
+    "name_a": "Smart Greenhouse System",
+    "abstract_a": "An automated farming environment that modulates interior temperature and lighting to provide optimal growing conditions for crops.",
+    "name_b": "Smart Contract Voting System",
+    "abstract_b": "A blockchain-integrated application where stakeholders use cryptographic tokens to cast verifiable and immutable ballots.",
+    "label": 0
+  },
+  {
+    "name_a": "Veterinary Management System",
+    "abstract_a": "A healthcare software suite for animal clinics to manage surgery schedules, patient vaccinations, and client billing.",
+    "name_b": "Scrap Management System",
+    "abstract_b": "A logistical application for waste processing centers to track the weight and type of industrial metals and recyclables collected.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Tutoring Platform",
+    "abstract_a": "An educational marketplace that matches students with qualified instructors for live one-on-one video lessons in various academic subjects.",
+    "name_b": "Online Supermarket System",
+    "abstract_b": "An e-commerce portal where consumers can purchase bulk groceries and fresh produce for home delivery.",
+    "label": 0
+  },
+  {
+    "name_a": "Disaster Management System",
+    "abstract_a": "An administrative platform for coordinating search and rescue operations and tracking resource distribution in the wake of catastrophes.",
+    "name_b": "Remote Employee Management System",
+    "abstract_b": "A corporate HR tool for monitoring the productivity and attendance of home-based staff through project logs and time-tracking features.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Support Group Platform",
+    "abstract_a": "A moderated digital forum for individuals with shared life experiences to participate in peer-led therapeutic discussions and mutual aid.",
+    "name_b": "Online Painting Store",
+    "abstract_b": "An e-commerce marketplace for browsing and purchasing original oil and acrylic works from independent artists.",
+    "label": 0
+  },
+  {
+    "name_a": "Driver Behavior Monitoring System",
+    "abstract_a": "A telematics application that analyzes accelerometer data to detect unsafe driving habits like sudden braking or high-speed swerving.",
+    "name_b": "Groundwater Monitoring System",
+    "abstract_b": "A hydrologic research tool that measures the depth and purity of underground aquifers to ensure sustainable water extraction.",
+    "label": 0
+  },
+  {
+    "name_a": "Flight Booking System",
+    "abstract_a": "An online portal for managing airline travel plans, including seat selection, meal preferences, and digital boarding pass generation.",
+    "name_b": "Private Tutor Booking System",
+    "abstract_b": "A service marketplace that enables parents to browse teacher profiles and schedule one-on-one academic lessons for their children.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Pharmacy Platform",
+    "abstract_a": "An online healthcare service providing access to pharmaceutical inventory, e-prescriptions, and medication counseling.",
+    "name_b": "Digital Music Platform",
+    "abstract_b": "A cloud-based media service providing on-demand access to a vast library of digital audio files with integrated social sharing features.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Newspaper System",
+    "abstract_a": "A subscription-based journalism platform delivering daily editions of digital broadsheets and real-time investigative reporting to readers.",
+    "name_b": "Online Kirana Store",
+    "abstract_b": "A localized e-commerce platform connecting neighborhood grocery shops with urban consumers for home delivery of daily essentials.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Pet Store System",
+    "abstract_a": "A scheduling application for pet owners to book veterinary check-ups and grooming sessions with service providers.",
+    "name_b": "Online Electricity Bill System",
+    "abstract_b": "An electronic payment gateway for residential power consumers to settle their utility debts and download historical usage statements.",
+    "label": 0
+  },
+  {
+    "name_a": "Zero Waste Management System",
+    "abstract_a": "A logistical platform that monitors the collection and processing of recyclable materials to optimize diversion from industrial landfills.",
+    "name_b": "Parking Management System",
+    "abstract_b": "An administrative tool for lot owners to monitor garage occupancy, manage monthly permits, and process gate exit transactions.",
+    "label": 0
+  },
+  {
+    "name_a": "Aquifer Level Monitoring System",
+    "abstract_a": "A specialized sensor network that measures hydrostatic pressure in deep wells to monitor the replenishment rates of underground water reserves.",
+    "name_b": "Groundwater Monitoring System",
+    "abstract_b": "An environmental data platform that tracks the depth and chemical purity of sub-surface water tables to prevent over-extraction in rural areas.",
+    "label": 1
+  },
+  {
+    "name_a": "Precision Agriculture System",
+    "abstract_a": "A high-tech farming suite that utilizes GPS-guided machinery and soil sensors to deliver exact amounts of fertilizer to specific crop zones.",
+    "name_b": "Smart Farming Solution",
+    "abstract_b": "An integrated IoT ecosystem that automates agricultural workflows like irrigation and nutrient distribution based on real-time field telemetry.",
+    "label": 1
+  },
+  {
+    "name_a": "Security Operations Center Platform",
+    "abstract_a": "A centralized cybersecurity hub that aggregates log data from firewalls and endpoints to detect and orchestrate responses to network intrusions.",
+    "name_b": "Cyber Defense Platform",
+    "abstract_b": "A proactive security framework that utilizes machine learning to identify zero-day vulnerabilities and prevent unauthorized access to corporate servers.",
+    "label": 1
+  },
+  {
+    "name_a": "E-Learning Management System",
+    "abstract_a": "A digital education portal that allows instructors to upload course materials, track student grades, and facilitate asynchronous learning through forums.",
+    "name_b": "Virtual Classroom System",
+    "abstract_b": "A synchronous learning environment featuring live video conferencing and interactive whiteboards designed for real-time distance education.",
+    "label": 1
+  },
+  {
+    "name_a": "Employee Pension Portal",
+    "abstract_a": "A secure financial interface where retired staff can view their monthly benefit statements and manage their social security fund beneficiaries.",
+    "name_b": "Retirement Fund Management System",
+    "abstract_b": "An administrative backend tool designed to calculate provident fund interest and process long-term savings disbursements for corporate employees.",
+    "label": 1
+  },
+  {
+    "name_a": "Public Transport Pass System",
+    "abstract_a": "A metropolitan ticketing solution that enables passengers to purchase and validate electronic travel credentials via a mobile NFC application.",
+    "name_b": "Bus Pass Management System",
+    "abstract_b": "A smart-card based system for transit authorities to track passenger boarding and manage the lifecycle of monthly commuter subscriptions.",
+    "label": 1
+  },
+  {
+    "name_a": "Decentralized Voting Platform",
+    "abstract_a": "A blockchain-secured polling tool that ensures the immutability of cast ballots and provides a verifiable public ledger for election results.",
+    "name_b": "Smart Contract Voting System",
+    "abstract_b": "A cryptographic governance protocol where voting rules are hard-coded into a distributed network to eliminate the possibility of central manipulation.",
+    "label": 1
+  },
+  {
+    "name_a": "Crop Disease Detection System",
+    "abstract_a": "A computer vision application that identifies botanical infections by scanning high-resolution photos of plant leaves for specific fungal patterns.",
+    "name_b": "Agricultural Pathology Tool",
+    "abstract_b": "A diagnostic agritech software used by field agents to record outbreaks of plant viruses and suggest targeted pesticide applications.",
+    "label": 1
+  },
+  {
+    "name_a": "P2P Lending Marketplace",
+    "abstract_a": "A crowdfunding finance platform that connects individual lenders with retail borrowers to enable direct credit agreements at market-driven rates.",
+    "name_b": "Direct Credit Management System",
+    "abstract_b": "A peer-to-peer loan platform that utilizes proprietary risk-scoring algorithms to facilitate unsecured micro-loans between community members.",
+    "label": 1
+  },
+  {
+    "name_a": "Waste Recycling Tracking System",
+    "abstract_a": "A logistical dashboard for waste processing centers to record the tonnage of plastic and paper diverted from landfills for industrial reuse.",
+    "name_b": "Recyclable Material Tracker",
+    "abstract_b": "An environmental inventory system that monitors the collection and sorting of post-consumer waste at municipal reclamation facilities.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Pharmacy System",
+    "abstract_a": "A secure e-commerce portal for purchasing pharmaceutical goods and managing digital health records through a verified clinical interface.",
+    "name_b": "Medicine Delivery App",
+    "abstract_b": "A logistics-focused healthcare app that allows users to upload prescriptions and receive door-to-door delivery of medications from local chemists.",
+    "label": 1
+  },
+  {
+    "name_a": "Carbon Footprint Tracker",
+    "abstract_a": "A lifestyle audit tool that estimates annual CO2 emissions based on user travel patterns, energy consumption, and dietary choices.",
+    "name_b": "Environmental Impact Tracker",
+    "abstract_b": "A data-driven sustainability application designed to quantify the ecological consequences of personal and industrial consumption habits.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Art Gallery",
+    "abstract_a": "A curated digital marketplace where independent artists exhibit their portfolios and sell original oil and acrylic works to global collectors.",
+    "name_b": "Art Marketplace Platform",
+    "abstract_b": "An e-commerce storefront specializing in the trade of fine art, featuring high-resolution zoom views and authenticated provenance certificates.",
+    "label": 1
+  },
+  {
+    "name_a": "Airline Reservation System",
+    "abstract_a": "A global distribution system (GDS) interface used to manage commercial flight inventories, seating manifests, and passenger PNR data.",
+    "name_b": "Flight Booking System",
+    "abstract_b": "A customer-facing web application that aggregates flight itineraries and facilitates seat selection and payment for international travelers.",
+    "label": 1
+  },
+  {
+    "name_a": "Gym Management System",
+    "abstract_a": "A business suite for health clubs that automates membership billing, equipment maintenance logs, and trainer appointment scheduling.",
+    "name_b": "Fitness Center Management System",
+    "abstract_b": "An administrative tool designed to track gym member facility usage and manage locker allocations through a centralized dashboard.",
+    "label": 1
+  },
+  {
+    "name_a": "Legal Case Management System",
+    "abstract_a": "A judicial workflow tool for organizing trial dockets, maintaining secure evidence logs, and tracking the billable hours of legal counsel.",
+    "name_b": "Litigation Management System",
+    "abstract_b": "An enterprise law firm software designed to automate document assembly and synchronize hearing dates across multiple court jurisdictions.",
+    "label": 1
+  },
+  {
+    "name_a": "Scholarship Management System",
+    "abstract_a": "An administrative portal for educational foundations to process funding applications and manage the disbursement of student stipends.",
+    "name_b": "Academic Grant System",
+    "abstract_b": "A digital repository of available university fellowships that allows students to search and apply for merit-based financial aid online.",
+    "label": 1
+  },
+  {
+    "name_a": "Online Counseling Platform",
+    "abstract_a": "A HIPAA-compliant telehealth service offering synchronous video-based therapy and secure messaging with licensed mental health experts.",
+    "name_b": "Digital Therapy App",
+    "abstract_b": "A mobile mental health tool providing remote access to professional psychologists and a library of cognitive behavioral therapy exercises.",
+    "label": 1
+  },
+  {
+    "name_a": "Stock Market Trading System",
+    "abstract_a": "A high-performance financial engine for executing real-time equity trades and monitoring market volatility with technical indicators.",
+    "name_b": "Investment Portfolio Platform",
+    "abstract_b": "A retail-focused application that enables users to track asset performance and manage diversified stock and bond holdings in one interface.",
+    "label": 1
+  },
+  {
+    "name_a": "Construction Project Management",
+    "abstract_a": "A project coordination tool for engineers to track blueprint revisions, material procurement, and site progress for architectural developments.",
+    "name_b": "Infrastructure Planning System",
+    "abstract_b": "A logistical platform designed to oversee the phases of large-scale civil engineering works and manage subcontractor work schedules.",
+    "label": 1
+  },
+  {
+    "name_a": "Online News Portal",
+    "abstract_a": "A high-traffic journalism website providing real-time investigative reports, multimedia features, and editorial content to a global audience.",
+    "name_b": "Digital Media Site",
+    "abstract_b": "A web-based news aggregator that delivers breaking headlines and curated news cycles to readers through a responsive digital interface.",
+    "label": 1
+  },
+  {
+    "name_a": "Tourist Guide App",
+    "abstract_a": "A mobile travel assistant providing geolocated information on cultural landmarks, historical sites, and local dining to international visitors.",
+    "name_b": "Traveler Assistant Platform",
+    "abstract_b": "A digital itinerary planner that offers augmented reality tours and real-time navigation support for explorers in foreign cities.",
+    "label": 1
+  },
+  {
+    "name_a": "Parking Management System",
+    "abstract_a": "A garage oversight tool that monitors space occupancy and automates entry gate operations using license plate recognition technology.",
+    "name_b": "Smart Parking Platform",
+    "abstract_b": "An urban infrastructure solution utilizing IoT sensors to guide motorists to available street parking via a mobile navigation interface.",
+    "label": 1
+  },
+  {
+    "name_a": "Stock Inventory Forecasting System",
+    "abstract_a": "A machine learning engine that analyzes historical transaction data to predict future warehouse requirements and optimize supply chains.",
+    "name_b": "Predictive Demand Platform",
+    "abstract_b": "An analytics tool for retail managers to forecast future product depletion rates and automate the reordering of essential stock units.",
+    "label": 1
+  },
+  {
+    "name_a": "Water Quality Monitoring System",
+    "abstract_a": "An environmental sensor network that provides real-time telemetry on water turbidity, pH, and dissolved oxygen levels in municipal reservoirs.",
+    "name_b": "IoT Water Analysis System",
+    "abstract_b": "A distributed data collection framework designed to detect chemical contaminants in drinking water sources through localized sensor nodes.",
+    "label": 1
+  },
+  {
+    "name_a": "Stock Market Trading System",
+    "abstract_a": "A high-frequency trading interface used by professionals to execute bulk equity orders and monitor global market depth in real-time.",
+    "name_b": "Online Counseling Platform",
+    "abstract_b": "A telehealth application providing remote access to mental health professionals for confidential therapy sessions via encrypted video.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Pharmacy Platform",
+    "abstract_a": "An enterprise portal for pharmacists to manage e-prescriptions, track medical inventory, and fulfill sensitive healthcare orders for patients.",
+    "name_b": "Smart Agriculture System",
+    "abstract_b": "A precision farming platform that integrates real-time weather and soil data to automate irrigation and fertilization processes.",
+    "label": 0
+  },
+  {
+    "name_a": "Airport Management System",
+    "abstract_a": "An enterprise operations suite for managing gate assignments, terminal security protocols, and real-time flight data at aviation hubs.",
+    "name_b": "Gym Management System",
+    "abstract_b": "A business suite for fitness clubs that automates membership billing, trainer scheduling, and equipment maintenance tracking.",
+    "label": 0
+  },
+  {
+    "name_a": "Network Security Monitoring System",
+    "abstract_a": "A network defense tool that performs deep packet inspection to identify malware signatures and unauthorized data exfiltration attempts.",
+    "name_b": "Tourist Guide App",
+    "abstract_b": "A mobile travel assistant providing geolocated information on cultural landmarks, historical sites, and local dining to international visitors.",
+    "label": 0
+  },
+  {
+    "name_a": "Construction Project Management",
+    "abstract_a": "A project coordination tool for engineers to track blueprint revisions, material procurement, and site progress for architectural developments.",
+    "name_b": "Carbon Footprint Tracker",
+    "abstract_b": "A lifestyle audit tool that estimates annual CO2 emissions based on user travel patterns, energy consumption, and dietary choices.",
+    "label": 0
+  },
+  {
+    "name_a": "Online News Portal",
+    "abstract_a": "A high-traffic journalism website providing real-time investigative reports, multimedia features, and editorial content to a global audience.",
+    "name_b": "Parking Management System",
+    "abstract_b": "A garage oversight tool that monitors space occupancy and automates entry gate operations using license plate recognition technology.",
+    "label": 0
+  },
+  {
+    "name_a": "Water Quality Monitoring System",
+    "abstract_a": "An environmental sensor network that provides real-time telemetry on water turbidity, pH, and chemical concentrations in municipal reservoirs.",
+    "name_b": "Blockchain Voting System",
+    "abstract_b": "A secure polling framework that uses distributed ledger technology to create immutable and verifiable records for organizational and civic elections.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Pharmacy System",
+    "abstract_a": "A secure e-commerce portal for purchasing pharmaceutical goods and managing digital health records through a verified clinical interface.",
+    "name_b": "Stock Inventory Forecasting System",
+    "abstract_b": "A machine learning engine that analyzes historical transaction data to predict future warehouse requirements and optimize supply chains.",
+    "label": 0
+  },
+  {
+    "name_a": "Wildlife Monitoring System",
+    "abstract_a": "A field research tool utilizing GPS-enabled collars and satellite telemetry to monitor the migration patterns of at-risk animal populations.",
+    "name_b": "Online Tutoring Platform",
+    "abstract_b": "An educational marketplace that matches students with qualified instructors for live one-on-one video lessons in various academic subjects.",
+    "label": 0
+  },
+  {
+    "name_a": "Food Nutrition Tracker",
+    "abstract_a": "A dietary mobile journal that calculates caloric intake and monitors macronutrient balance to help users reach their fitness and weight goals.",
+    "name_b": "Airline Reservation System",
+    "abstract_b": "A global distribution system (GDS) interface used to manage commercial flight inventories, seating manifests, and passenger PNR data.",
+    "label": 0
+  },
+  {
+    "name_a": "Bus Pass Management System",
+    "abstract_a": "A smart-card based system for transit authorities to track passenger boarding and manage the lifecycle of monthly commuter subscriptions.",
+    "name_b": "Disaster Management System",
+    "abstract_b": "A crisis response platform designed to coordinate emergency services and track resource allocation during natural disasters or urban emergencies.",
+    "label": 0
+  },
+  {
+    "name_a": "Language Learning App",
+    "abstract_a": "A linguistic application focused on mastering vocabulary and grammar through comparative translation drills and immersive listening lessons.",
+    "name_b": "Insurance Management System",
+    "abstract_b": "A backend ERP for insurance providers to manage policy lifecycle, underwrite risks, and automate the calculation of monthly premiums.",
+    "label": 0
+  },
+  {
+    "name_a": "Crop Yield Prediction System",
+    "abstract_a": "An agritech model that analyzes satellite data and soil quality sensors to predict harvest volumes for large-scale commercial farming.",
+    "name_b": "Online Exam Proctoring System",
+    "abstract_b": "A remote invigilation tool that uses biometric analysis to detect suspicious student activity during high-stakes digital certifications.",
+    "label": 0
+  },
+  {
+    "name_a": "Crowdsourcing Platform",
+    "abstract_a": "An enterprise-grade hub that facilitates large-scale project participation and data collection from a distributed global audience.",
+    "name_b": "Pet Care Management System",
+    "abstract_b": "An administrative database for pet boarding and grooming businesses to track animal health records, dietary needs, and customer service history.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Interior Design Platform",
+    "abstract_a": "A web-based service where users can collaborate with professional decorators to create 3D visualizations of residential living spaces.",
+    "name_b": "Scholarship Management System",
+    "abstract_b": "An administrative tool for educational foundations to process funding applications and manage the disbursement of student stipends.",
+    "label": 0
+  },
+  {
+    "name_a": "Telematics System",
+    "abstract_a": "A remote monitoring solution that captures GPS and diagnostic data from a vehicle fleet to optimize logistics and driver performance tracking.",
+    "name_b": "Book Review Platform",
+    "abstract_b": "A social reading application where users can rate contemporary literature and share critical appraisals within a community of bibliophiles.",
+    "label": 0
+  },
+  {
+    "name_a": "Fuel Station Management System",
+    "abstract_a": "An operational management tool for fuel retailers to track nozzle transactions, monitor underground tank levels, and manage daily sales reports.",
+    "name_b": "Mental Health App",
+    "abstract_b": "A wellness-focused mobile application providing biofeedback tracking and guided relaxation techniques to help users mitigate the effects of daily anxiety.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Grocery Store",
+    "abstract_a": "A localized e-commerce platform connecting neighborhood grocery shops with urban consumers for the home delivery of daily essential commodities.",
+    "name_b": "Remote Work Management System",
+    "abstract_b": "A collaborative office suite designed for distributed teams, featuring synchronous communication tools and integrated task tracking.",
+    "label": 0
+  },
+  {
+    "name_a": "Blockchain Voting System",
+    "abstract_a": "A secure polling framework that uses distributed ledger technology to create immutable and verifiable records for elections.",
+    "name_b": "Tourist Guide App",
+    "abstract_b": "A mobile travel assistant providing geolocated information on cultural landmarks, historical sites, and local dining to international visitors.",
+    "label": 0
+  },
+  {
+    "name_a": "Digital Pharmacy Platform",
+    "abstract_a": "An online healthcare service providing access to pharmaceutical inventory, e-prescriptions, and medication counseling through an app.",
+    "name_b": "Construction Project Management",
+    "abstract_b": "A project coordination tool for engineers to track blueprint revisions, material procurement, and site progress for architectural developments.",
+    "label": 0
+  },
+  {
+    "name_a": "Stock Market Trading System",
+    "abstract_a": "A high-performance financial engine for executing real-time equity trades and monitoring market volatility with technical indicators.",
+    "name_b": "Wildlife Monitoring System",
+    "abstract_b": "A field research tool utilizing GPS-enabled collars and satellite telemetry to monitor the migration patterns of at-risk animal populations.",
+    "label": 0
+  },
+  {
+    "name_a": "Online News Portal",
+    "abstract_a": "A high-traffic journalism website providing real-time investigative reports, multimedia features, and editorial content to a global audience.",
+    "name_b": "Disaster Management System",
+    "abstract_b": "A crisis response platform designed to coordinate emergency services and track resource allocation during natural disasters or urban emergencies.",
+    "label": 0
+  },
+  {
+    "name_a": "Water Quality Monitoring System",
+    "abstract_a": "An environmental sensor network that provides real-time telemetry on water turbidity, pH, and chemical concentrations in municipal reservoirs.",
+    "name_b": "Airline Reservation System",
+    "abstract_b": "A global distribution system (GDS) interface used to manage commercial flight inventories, seating manifests, and passenger PNR data.",
+    "label": 0
+  },
+  {
+    "name_a": "Online Pharmacy System",
+    "abstract_a": "A secure e-commerce portal for purchasing pharmaceutical goods and managing digital health records through a verified clinical interface.",
+    "name_b": "Bus Pass Management System",
+    "abstract_b": "A smart-card based system for transit authorities to track passenger boarding and manage the lifecycle of monthly commuter subscriptions.",
+    "label": 0
+  },
+  {
+    "name_a": "Language Learning App",
+    "abstract_a": "A linguistic application focused on mastering vocabulary and grammar through comparative translation drills and immersive listening lessons.",
+    "name_b": "Online Exam Proctoring System",
+    "abstract_b": "A remote invigilation tool that uses biometric analysis to detect suspicious student activity during high-stakes digital certifications.",
+    "label": 0
   }
 ]

@@ -5998,5 +5998,6005 @@
     "Project Name": "Customer Service System",
     "Canonical Group": "Customer Relationship Management",
     "Group ID": "29"
+  },
+  {
+    "ID": "1001",
+    "Project Name": "Home Tuition Finder App",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1002",
+    "Project Name": "Gym Billing System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1003",
+    "Project Name": "Virtual Team Management System",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1004",
+    "Project Name": "Sustainability Tracker",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1005",
+    "Project Name": "Public Transport Pass System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1006",
+    "Project Name": "Online Flight Reservation System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1007",
+    "Project Name": "Litigation Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1008",
+    "Project Name": "Hybrid Work Management System",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1009",
+    "Project Name": "Air Travel Booking System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1010",
+    "Project Name": "Fuel Inventory Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1011",
+    "Project Name": "Security Information System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1012",
+    "Project Name": "Scholarship Management System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1013",
+    "Project Name": "Electricity Usage Monitoring System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1014",
+    "Project Name": "Local Guide Application",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1015",
+    "Project Name": "Aquatic Environment Monitoring System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1016",
+    "Project Name": "Fuel Sales Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1017",
+    "Project Name": "Stock Exchange Simulation System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1018",
+    "Project Name": "GPS Tracking System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1019",
+    "Project Name": "Mental Health Monitoring System",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1020",
+    "Project Name": "Real-Time Water Testing System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1021",
+    "Project Name": "Energy Bill Management Platform",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1022",
+    "Project Name": "Mental Wellness System",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1023",
+    "Project Name": "Commuter Pass Management System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1024",
+    "Project Name": "Crowdsourced Data Collection System",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1025",
+    "Project Name": "Auto Rescue Service System",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1026",
+    "Project Name": "Macronutrient Tracking System",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1027",
+    "Project Name": "Academic Tutoring App",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1028",
+    "Project Name": "Art Buying and Selling Platform",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1029",
+    "Project Name": "Small Loan Management System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1030",
+    "Project Name": "Language Learning App",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1031",
+    "Project Name": "Motor Insurance System",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1032",
+    "Project Name": "Parking Management System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1033",
+    "Project Name": "E-Tutoring Platform",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1034",
+    "Project Name": "Parking Space Management System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1035",
+    "Project Name": "Emergency Coordination Platform",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1036",
+    "Project Name": "Online Grocery Store",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1037",
+    "Project Name": "Blockchain Election System",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1038",
+    "Project Name": "Plant Pathology System",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1039",
+    "Project Name": "Clinical Assistant Bot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1040",
+    "Project Name": "Judiciary Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1041",
+    "Project Name": "Animal Tracking System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1042",
+    "Project Name": "Digital Grocery Marketplace",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1043",
+    "Project Name": "Environmental Monitoring App",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1044",
+    "Project Name": "Music Subscription Service",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1045",
+    "Project Name": "Stock Demand Planning System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1046",
+    "Project Name": "Token Voting Platform",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1047",
+    "Project Name": "Emergency Mechanic Platform",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1048",
+    "Project Name": "Airport Ground System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1049",
+    "Project Name": "Stock Market Trading System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1050",
+    "Project Name": "Digital Farming Solution",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1051",
+    "Project Name": "Digital Room Planner",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1052",
+    "Project Name": "Fuel Billing System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1053",
+    "Project Name": "Virtual Office System",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1054",
+    "Project Name": "Public Bus Card System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1055",
+    "Project Name": "Smart Agriculture System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1056",
+    "Project Name": "Vehicle Telematics Platform",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1057",
+    "Project Name": "Virtual Psychologist Platform",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1058",
+    "Project Name": "Fitness Management App",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1059",
+    "Project Name": "Building Site Management Platform",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1060",
+    "Project Name": "Service Station System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1061",
+    "Project Name": "Passenger Management System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1062",
+    "Project Name": "Eco-Conservation System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1063",
+    "Project Name": "Law Firm Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1064",
+    "Project Name": "Calamity Management System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1065",
+    "Project Name": "Farm Production Prediction System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1066",
+    "Project Name": "Disaster Management System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1067",
+    "Project Name": "Legal Practice Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1068",
+    "Project Name": "Grocery Ordering System",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1069",
+    "Project Name": "Legal Document Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1070",
+    "Project Name": "Digital Counseling App",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1071",
+    "Project Name": "Professional CV System",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1072",
+    "Project Name": "Contractor Management System",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1073",
+    "Project Name": "Online Tax Return System",
+    "Canonical Group": "Tax Filing System",
+    "Group ID": "33"
+  },
+  {
+    "ID": "1074",
+    "Project Name": "Online Vegetable Store",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1075",
+    "Project Name": "Remote Proctoring System",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1076",
+    "Project Name": "Virtual Health Assistant",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1077",
+    "Project Name": "Emergency Alert System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1078",
+    "Project Name": "Art Portfolio System",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1079",
+    "Project Name": "Water Distribution System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1080",
+    "Project Name": "Power Distribution Management System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1081",
+    "Project Name": "Air Parcel System",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1082",
+    "Project Name": "Aerial Delivery System",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1083",
+    "Project Name": "Petroleum Station System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1084",
+    "Project Name": "Book Social Network",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1085",
+    "Project Name": "Music Playlist Management System",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1086",
+    "Project Name": "First Aid Advisor Bot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1087",
+    "Project Name": "Symptom Checker Chatbot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1088",
+    "Project Name": "Digital Health Navigator",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1089",
+    "Project Name": "Community Contribution Platform",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1090",
+    "Project Name": "E-Counseling System",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1091",
+    "Project Name": "Microfinance Management System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1092",
+    "Project Name": "Stock Investment Platform",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1093",
+    "Project Name": "Water Safety Monitoring Platform",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1094",
+    "Project Name": "Airport Operations System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1095",
+    "Project Name": "E-Tax Filing System",
+    "Canonical Group": "Tax Filing System",
+    "Group ID": "33"
+  },
+  {
+    "ID": "1096",
+    "Project Name": "Song Streaming Application",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1097",
+    "Project Name": "Fuel Station Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1098",
+    "Project Name": "Life Insurance System",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1099",
+    "Project Name": "Bursary Management System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1100",
+    "Project Name": "Security Operations System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1101",
+    "Project Name": "Aviation Booking Platform",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1102",
+    "Project Name": "Home Medicine Delivery System",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1103",
+    "Project Name": "Electricity Bill Management System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1104",
+    "Project Name": "Rural Finance System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1105",
+    "Project Name": "Student Scholarship System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1106",
+    "Project Name": "Live Proctoring Application",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1107",
+    "Project Name": "Reservoir Management System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1108",
+    "Project Name": "Tow Truck Booking System",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1109",
+    "Project Name": "Breaking News Portal",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1110",
+    "Project Name": "Provident Fund Management System",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1111",
+    "Project Name": "Crop Health Monitoring Platform",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1112",
+    "Project Name": "Patient Support Chatbot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1113",
+    "Project Name": "Online Language Tutor System",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1114",
+    "Project Name": "Harvest Prediction Platform",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1115",
+    "Project Name": "Recyclable Material Tracker",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1116",
+    "Project Name": "Stock Portfolio Management System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1117",
+    "Project Name": "Flight Booking System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1118",
+    "Project Name": "Fitness Studio Management System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1119",
+    "Project Name": "Decentralized Voting Platform",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1120",
+    "Project Name": "Smart Resume Creator",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1121",
+    "Project Name": "AI Crop Yield System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1122",
+    "Project Name": "Online Art Gallery",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1123",
+    "Project Name": "Water Purity Testing System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1124",
+    "Project Name": "Virtual Tour Guide App",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1125",
+    "Project Name": "Retirement Benefit System",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1126",
+    "Project Name": "Nutritional Information System",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1127",
+    "Project Name": "Infrastructure Project System",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1128",
+    "Project Name": "Online Psychological Support System",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1129",
+    "Project Name": "Bus Ticket Management System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1130",
+    "Project Name": "Speech and Language App",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1131",
+    "Project Name": "Health Advisory Chatbot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1132",
+    "Project Name": "Gratuity Management System",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1133",
+    "Project Name": "Intrusion Detection System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1134",
+    "Project Name": "Reader Review Portal",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1135",
+    "Project Name": "Calorie Tracking App",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1136",
+    "Project Name": "Health Insurance Platform",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1137",
+    "Project Name": "Automated Exam Monitoring System",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1138",
+    "Project Name": "Animal Population Tracking System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1139",
+    "Project Name": "Airline Reservation System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1140",
+    "Project Name": "Product Demand System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1141",
+    "Project Name": "IoT Water Quality System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1142",
+    "Project Name": "Airline Management System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1143",
+    "Project Name": "Junk Collection System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1144",
+    "Project Name": "Petrol Pump Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1145",
+    "Project Name": "Virtual Proctoring Platform",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1146",
+    "Project Name": "Virtual Museum System",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1147",
+    "Project Name": "Vehicle Data Analytics System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1148",
+    "Project Name": "Water Analysis System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1149",
+    "Project Name": "Mood Tracking App",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1150",
+    "Project Name": "Waste Recycling Tracking System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1151",
+    "Project Name": "Tax Calculation System",
+    "Canonical Group": "Tax Filing System",
+    "Group ID": "33"
+  },
+  {
+    "ID": "1152",
+    "Project Name": "Material Recovery System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1153",
+    "Project Name": "Digital Proctoring Solution",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1154",
+    "Project Name": "Climate Impact Monitor",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1155",
+    "Project Name": "Zen Wellness Platform",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1156",
+    "Project Name": "Construction Resource Management",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1157",
+    "Project Name": "Scholarship Portal",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1158",
+    "Project Name": "Mindfulness App",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1159",
+    "Project Name": "Water Supply Management System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1160",
+    "Project Name": "Stock Inventory Forecasting System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1161",
+    "Project Name": "Virtual Pharmacy System",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1162",
+    "Project Name": "Vocabulary Building App",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1163",
+    "Project Name": "Crypto Voting Platform",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1164",
+    "Project Name": "Securities Trading System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1165",
+    "Project Name": "Scholarship Award System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1166",
+    "Project Name": "Online Meditation Platform",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1167",
+    "Project Name": "Veterinary Management System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1168",
+    "Project Name": "Online Tutoring Platform",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1169",
+    "Project Name": "Social Lending System",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1170",
+    "Project Name": "Wildlife Observation Platform",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1171",
+    "Project Name": "Online Parking Booking System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1172",
+    "Project Name": "Smart Parking System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1173",
+    "Project Name": "Remote Work Management System",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1174",
+    "Project Name": "Self Help Group Management System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1175",
+    "Project Name": "Grammar Learning System",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1176",
+    "Project Name": "Cooperative Finance System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1177",
+    "Project Name": "Trading Dashboard System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1178",
+    "Project Name": "Threat Detection Platform",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1179",
+    "Project Name": "GST Management System",
+    "Canonical Group": "Tax Filing System",
+    "Group ID": "33"
+  },
+  {
+    "ID": "1180",
+    "Project Name": "Digital Psychotherapy System",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1181",
+    "Project Name": "Transit Pass Management System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1182",
+    "Project Name": "Music Discovery Platform",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1183",
+    "Project Name": "Healthy Eating Tracker",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1184",
+    "Project Name": "Risk Management and Disaster System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1185",
+    "Project Name": "Gym Subscription System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1186",
+    "Project Name": "Job Application Resume System",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1187",
+    "Project Name": "Digital Drug Store Platform",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1188",
+    "Project Name": "Online Therapist Booking System",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1189",
+    "Project Name": "Home Interior App",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1190",
+    "Project Name": "Green Living App",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1191",
+    "Project Name": "Digital Lending Platform",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1192",
+    "Project Name": "Court Records System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1193",
+    "Project Name": "Space Planning App",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1194",
+    "Project Name": "Creative Art Platform",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1195",
+    "Project Name": "Mindfulness Training System",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1196",
+    "Project Name": "Airport Administration Platform",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1197",
+    "Project Name": "Airline Passenger System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1198",
+    "Project Name": "Tax Return Management System",
+    "Canonical Group": "Tax Filing System",
+    "Group ID": "33"
+  },
+  {
+    "ID": "1199",
+    "Project Name": "Emotional Health Tracker",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1200",
+    "Project Name": "Farm Automation System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1201",
+    "Project Name": "Scholarship Application System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1202",
+    "Project Name": "Blockchain Voting System",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1203",
+    "Project Name": "Vulnerability Management System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1204",
+    "Project Name": "Virtual Therapy Platform",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1205",
+    "Project Name": "Online Collaboration Platform",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1206",
+    "Project Name": "Medical Chatbot Platform",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1207",
+    "Project Name": "Health Query Chatbot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1208",
+    "Project Name": "Smart Vehicle System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1209",
+    "Project Name": "Airport Management System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1210",
+    "Project Name": "City Tour Guide System",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1211",
+    "Project Name": "Live Online Teaching Platform",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1212",
+    "Project Name": "Home Grocery Delivery System",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1213",
+    "Project Name": "Exam Surveillance System",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1214",
+    "Project Name": "Book Recommendation System",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1215",
+    "Project Name": "Plant Disease Identification App",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1216",
+    "Project Name": "Distributed Team Management Platform",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1217",
+    "Project Name": "Wild Animal Surveillance System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1218",
+    "Project Name": "Canal Management System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1219",
+    "Project Name": "Crop Disease Detection System",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1220",
+    "Project Name": "Baggage Handling System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1221",
+    "Project Name": "News Publishing Platform",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1222",
+    "Project Name": "Pension Management System",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1223",
+    "Project Name": "Wildlife Conservation Platform",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1224",
+    "Project Name": "Stock Brokerage Platform",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1225",
+    "Project Name": "Fleet Telematics System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1226",
+    "Project Name": "Student-Teacher Matching Platform",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1227",
+    "Project Name": "Legal Affairs System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1228",
+    "Project Name": "Vehicle Emergency System",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1229",
+    "Project Name": "AI Resume Builder",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1230",
+    "Project Name": "AI Doctor Chatbot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1231",
+    "Project Name": "Smart Water Monitoring System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1232",
+    "Project Name": "Flight Ticketing System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1233",
+    "Project Name": "3D Room Design System",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1234",
+    "Project Name": "Crop Protection System",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1235",
+    "Project Name": "Security Incident System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1236",
+    "Project Name": "Water Quality Monitoring System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1237",
+    "Project Name": "Collective Problem Solving Platform",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1238",
+    "Project Name": "Food Nutrition Tracker",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1239",
+    "Project Name": "Secure Online Exam System",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1240",
+    "Project Name": "Digital Pharmacy Platform",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1241",
+    "Project Name": "Procurement Forecasting System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1242",
+    "Project Name": "Smart Delivery Drone System",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1243",
+    "Project Name": "Groundwater Monitoring System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1244",
+    "Project Name": "Foreign Language Learning Platform",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1245",
+    "Project Name": "Online Invigilation System",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1246",
+    "Project Name": "Wildlife Monitoring System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1247",
+    "Project Name": "Online Artwork Display System",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1248",
+    "Project Name": "Carbon Offset System",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1249",
+    "Project Name": "Vehicle Monitoring System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1250",
+    "Project Name": "Insurance Underwriting System",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1251",
+    "Project Name": "Electric Utility Management System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1252",
+    "Project Name": "Virtual Art Exhibition System",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1253",
+    "Project Name": "Stress Relief App",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1254",
+    "Project Name": "Private Tutor Booking System",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1255",
+    "Project Name": "Emergency Response System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1256",
+    "Project Name": "Online Support Group Platform",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1257",
+    "Project Name": "Medical Information Bot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1258",
+    "Project Name": "Web-Based Counseling System",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1259",
+    "Project Name": "Digital Bus Pass System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1260",
+    "Project Name": "Relaxation Technique App",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1261",
+    "Project Name": "Parking Reservation System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1262",
+    "Project Name": "Construction Workflow System",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1263",
+    "Project Name": "Community Lending Platform",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1264",
+    "Project Name": "Reading Community Platform",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1265",
+    "Project Name": "Monthly Bus Pass System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1266",
+    "Project Name": "Circular Economy Platform",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1267",
+    "Project Name": "Daily Calm App",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1268",
+    "Project Name": "Scrap Management System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1269",
+    "Project Name": "Crop Output Estimation System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1270",
+    "Project Name": "One-on-One Tutoring System",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1271",
+    "Project Name": "National Park Management System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1272",
+    "Project Name": "Air Traffic Management System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1273",
+    "Project Name": "Interior Decoration Platform",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1274",
+    "Project Name": "Alternative Finance Platform",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1275",
+    "Project Name": "Daily Calorie Counter App",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1276",
+    "Project Name": "Collective Knowledge System",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1277",
+    "Project Name": "Environmental Impact Tracker",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1278",
+    "Project Name": "Pet Appointment System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1279",
+    "Project Name": "Demand Forecasting System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1280",
+    "Project Name": "Individual Loan System",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1281",
+    "Project Name": "Diet Management System",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1282",
+    "Project Name": "Travel Guide Application",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1283",
+    "Project Name": "Cyber Threat Monitoring System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1284",
+    "Project Name": "Agricultural Yield Forecasting System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1285",
+    "Project Name": "Stress Management App",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1286",
+    "Project Name": "Crop Production Forecasting System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1287",
+    "Project Name": "Irrigation Management System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1288",
+    "Project Name": "Online Kirana Store",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1289",
+    "Project Name": "Vehicle Parking System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1290",
+    "Project Name": "Online Newspaper System",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1291",
+    "Project Name": "Airport Terminal Management System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1292",
+    "Project Name": "Carbon Footprint Tracker",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1293",
+    "Project Name": "Fuel Stock Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1294",
+    "Project Name": "Web News Portal",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1295",
+    "Project Name": "Fellowship Management System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1296",
+    "Project Name": "Water Parameter Monitoring System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1297",
+    "Project Name": "Driver Behavior Monitoring System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1298",
+    "Project Name": "Network Security Monitoring System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1299",
+    "Project Name": "Old Age Pension Platform",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1300",
+    "Project Name": "Crop Yield Prediction System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1301",
+    "Project Name": "Online Counseling Platform",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1302",
+    "Project Name": "Tax Management System",
+    "Canonical Group": "Tax Filing System",
+    "Group ID": "33"
+  },
+  {
+    "ID": "1303",
+    "Project Name": "Zero Waste Management System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1304",
+    "Project Name": "Prescription Medicine Delivery App",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1305",
+    "Project Name": "Mass Collaboration Platform",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1306",
+    "Project Name": "Work-at-Home Platform",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1307",
+    "Project Name": "Tax Automation Software",
+    "Canonical Group": "Tax Filing System",
+    "Group ID": "33"
+  },
+  {
+    "ID": "1308",
+    "Project Name": "Digital Tutoring Service",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1309",
+    "Project Name": "Microcredit System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1310",
+    "Project Name": "Digital Tourism Platform",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1311",
+    "Project Name": "Smart Farming Disease App",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1312",
+    "Project Name": "Construction Project Management",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1313",
+    "Project Name": "Water Pollution Monitoring System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1314",
+    "Project Name": "Literary Review Platform",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1315",
+    "Project Name": "Book Discussion Forum",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1316",
+    "Project Name": "Unmanned Delivery Platform",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1317",
+    "Project Name": "Disaster Relief Platform",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1318",
+    "Project Name": "Language Translation Learning App",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1319",
+    "Project Name": "Online News Portal",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1320",
+    "Project Name": "Immutable Voting System",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1321",
+    "Project Name": "Plastic Waste Tracking System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1322",
+    "Project Name": "Supermarket Online System",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1323",
+    "Project Name": "24x7 Roadside Help App",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1324",
+    "Project Name": "Book Rating and Review App",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1325",
+    "Project Name": "On-Road Assistance App",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1326",
+    "Project Name": "Car Parking Management Platform",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1327",
+    "Project Name": "Digital Music Platform",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1328",
+    "Project Name": "Farm Output Prediction App",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1329",
+    "Project Name": "Cyber Defense Platform",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1330",
+    "Project Name": "Remote Therapy System",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1331",
+    "Project Name": "Recycling Management Platform",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1332",
+    "Project Name": "Automated CV Generator",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1333",
+    "Project Name": "NFT Art Marketplace",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1334",
+    "Project Name": "Online Book Review System",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1335",
+    "Project Name": "Share Trading System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1336",
+    "Project Name": "UAV Delivery Platform",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1337",
+    "Project Name": "Inventory Optimization System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1338",
+    "Project Name": "Site Management System",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1339",
+    "Project Name": "Interactive Language Platform",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1340",
+    "Project Name": "Connected Farm System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1341",
+    "Project Name": "Online Chemist System",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1342",
+    "Project Name": "Power Bill Payment System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1343",
+    "Project Name": "Smart Irrigation System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1344",
+    "Project Name": "Smart Greenhouse System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1345",
+    "Project Name": "Carbon Emission Monitoring System",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1346",
+    "Project Name": "Pet Care Management System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1347",
+    "Project Name": "Smart Contract Voting System",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1348",
+    "Project Name": "Rescue Operation System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1349",
+    "Project Name": "Medicine Delivery App",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1350",
+    "Project Name": "Remote Workforce Platform",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1351",
+    "Project Name": "CO2 Tracking System",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1352",
+    "Project Name": "Online Stock Trading Platform",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1353",
+    "Project Name": "AI Proctoring System",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1354",
+    "Project Name": "Technology-Driven Agriculture System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1355",
+    "Project Name": "Field Yield Monitoring System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1356",
+    "Project Name": "Civil Project Management System",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1357",
+    "Project Name": "Connected Vehicle System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1358",
+    "Project Name": "Precision Farming System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1359",
+    "Project Name": "Grocery Delivery App",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1360",
+    "Project Name": "Travel Companion App",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1361",
+    "Project Name": "Water Resource Management System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1362",
+    "Project Name": "Gate Management System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1363",
+    "Project Name": "Book Review Platform",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1364",
+    "Project Name": "Disaster Recovery Platform",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1365",
+    "Project Name": "Fuel Dispensing System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1366",
+    "Project Name": "Lawyer Management Platform",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1367",
+    "Project Name": "Tax Filing System",
+    "Canonical Group": "Tax Filing System",
+    "Group ID": "33"
+  },
+  {
+    "ID": "1368",
+    "Project Name": "Academic Grant System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1369",
+    "Project Name": "Book Critique Platform",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1370",
+    "Project Name": "Automated Parking System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1371",
+    "Project Name": "Legal Case Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1372",
+    "Project Name": "Bus Pass Management System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1373",
+    "Project Name": "Anti-Cheating Exam Platform",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1374",
+    "Project Name": "Virtual Home Staging System",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1375",
+    "Project Name": "Open Innovation System",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1376",
+    "Project Name": "Equity Trading System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1377",
+    "Project Name": "Multilingual Learning System",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1378",
+    "Project Name": "Data Security Monitoring Platform",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1379",
+    "Project Name": "Scholarship Database System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1380",
+    "Project Name": "Aviation Operations System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1381",
+    "Project Name": "Court Case Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1382",
+    "Project Name": "Peer Tutoring System",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1383",
+    "Project Name": "Travel Pass System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1384",
+    "Project Name": "Pet Health Tracking App",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1385",
+    "Project Name": "Online Share Market System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1386",
+    "Project Name": "Pet Clinic Management System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1387",
+    "Project Name": "Agri Yield Analytics System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1388",
+    "Project Name": "Peer-to-Peer Lending Platform",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1389",
+    "Project Name": "Breakdown Management System",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1390",
+    "Project Name": "Insurance Policy Management System",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1391",
+    "Project Name": "Food Health Tracker",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1392",
+    "Project Name": "Telecommute Management System",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1393",
+    "Project Name": "Smart Meter Management System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1394",
+    "Project Name": "Electricity Billing System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1395",
+    "Project Name": "Automotive Data System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1396",
+    "Project Name": "Inventory Analytics Platform",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1397",
+    "Project Name": "Online Book Club System",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1398",
+    "Project Name": "Digital News Website",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1399",
+    "Project Name": "Superannuation Management System",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1400",
+    "Project Name": "Language Skill Development App",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1401",
+    "Project Name": "Health Club Management System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1402",
+    "Project Name": "Dam Management System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1403",
+    "Project Name": "Emergency Road Help System",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1404",
+    "Project Name": "Online Drug Store",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1405",
+    "Project Name": "Agricultural Disease Monitoring System",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1406",
+    "Project Name": "Online Supermarket System",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1407",
+    "Project Name": "Student Bus Pass System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1408",
+    "Project Name": "Building Progress Tracking System",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1409",
+    "Project Name": "Supply Demand Analysis System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1410",
+    "Project Name": "Remote Employee Management System",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1411",
+    "Project Name": "Plant Diagnosis System",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1412",
+    "Project Name": "Group Loan Management System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1413",
+    "Project Name": "Power Consumption Tracking System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1414",
+    "Project Name": "Biodiversity Management System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1415",
+    "Project Name": "Emission Reduction Tracker",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1416",
+    "Project Name": "Insurance CRM System",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1417",
+    "Project Name": "Inventory Prediction System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1418",
+    "Project Name": "Exam Proctoring Platform",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1419",
+    "Project Name": "Audio Streaming App",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1420",
+    "Project Name": "Gym Administration System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1421",
+    "Project Name": "IoT Agriculture Platform",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1422",
+    "Project Name": "Market Investment Platform",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1423",
+    "Project Name": "P2P Loan System",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1424",
+    "Project Name": "Digital Media Platform",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1425",
+    "Project Name": "Healthcare Chatbot System",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1426",
+    "Project Name": "News Article Management System",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1427",
+    "Project Name": "Online Examination Proctoring System",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1428",
+    "Project Name": "Online Music Store",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1429",
+    "Project Name": "Vehicle Breakdown Service App",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1430",
+    "Project Name": "Predictive Farming System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1431",
+    "Project Name": "Guided Meditation App",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1432",
+    "Project Name": "Building Construction Management System",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1433",
+    "Project Name": "Music Content Platform",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1434",
+    "Project Name": "Drone Delivery System",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1435",
+    "Project Name": "Reading Review System",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1436",
+    "Project Name": "Waste Segregation System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1437",
+    "Project Name": "Music Library System",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1438",
+    "Project Name": "Pest and Disease Detection App",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1439",
+    "Project Name": "Air Ticket Booking System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1440",
+    "Project Name": "Pet Store Management System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1441",
+    "Project Name": "Digital Art Gallery App",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1442",
+    "Project Name": "Transport Card Management System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1443",
+    "Project Name": "Crisis Management System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1444",
+    "Project Name": "Grassroots Banking System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1445",
+    "Project Name": "Sports Club Management System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1446",
+    "Project Name": "Meal Nutrition Analyzer",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1447",
+    "Project Name": "Telematics System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1448",
+    "Project Name": "Destination Guide Platform",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1449",
+    "Project Name": "Online Resume Maker",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1450",
+    "Project Name": "Online Home Decor System",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1451",
+    "Project Name": "Online Loan Marketplace",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1452",
+    "Project Name": "Groundwater Management System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1453",
+    "Project Name": "AI Crop Health System",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1454",
+    "Project Name": "Car Rescue Platform",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1455",
+    "Project Name": "Resume Generator System",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1456",
+    "Project Name": "Forecast Management System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1457",
+    "Project Name": "Breathing Exercise App",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1458",
+    "Project Name": "Interior Design Consultation Platform",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1459",
+    "Project Name": "Person-to-Person Lending App",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1460",
+    "Project Name": "Fresh Produce Delivery App",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1461",
+    "Project Name": "Petrol Station Automation System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1462",
+    "Project Name": "Student Grant Management System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1463",
+    "Project Name": "Parking Slot Booking System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1464",
+    "Project Name": "Animal Shelter Management System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1465",
+    "Project Name": "Podcast and Music App",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1466",
+    "Project Name": "Anxiety Management Platform",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1467",
+    "Project Name": "Web3 Voting System",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1468",
+    "Project Name": "Last Mile Drone Delivery",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1469",
+    "Project Name": "Predictive Inventory System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1470",
+    "Project Name": "Gym Management System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1471",
+    "Project Name": "Construction Tracking System",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1472",
+    "Project Name": "Electricity Payment Portal",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1473",
+    "Project Name": "Hydrological Management System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1474",
+    "Project Name": "Drinking Water Quality System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1475",
+    "Project Name": "Crowdsourcing Platform",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1476",
+    "Project Name": "Fitness Center Management System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1477",
+    "Project Name": "AI Crop Management System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1478",
+    "Project Name": "Retirement Fund System",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1479",
+    "Project Name": "Energy Billing Platform",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1480",
+    "Project Name": "Virtual Interior Design App",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1481",
+    "Project Name": "Flying Delivery System",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1482",
+    "Project Name": "News Content Management System",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1483",
+    "Project Name": "Digital Wellness App",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1484",
+    "Project Name": "Online Painting Store",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1485",
+    "Project Name": "Income Tax Filing Portal",
+    "Canonical Group": "Tax Filing System",
+    "Group ID": "33"
+  },
+  {
+    "ID": "1486",
+    "Project Name": "Art Marketplace Platform",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1487",
+    "Project Name": "Music Streaming Platform",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1488",
+    "Project Name": "Transparent Election Platform",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1489",
+    "Project Name": "Scholarship Tracking Platform",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1490",
+    "Project Name": "Construction Administration System",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1491",
+    "Project Name": "CNG Station Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1492",
+    "Project Name": "Pet Adoption Platform",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1493",
+    "Project Name": "Harvest Management System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1494",
+    "Project Name": "Robotic Delivery System",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1495",
+    "Project Name": "Sensor-Based Farming System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1496",
+    "Project Name": "Insurance Management System",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1497",
+    "Project Name": "Solid Waste Recycling System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1498",
+    "Project Name": "Animal Care System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1499",
+    "Project Name": "Village Savings System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1500",
+    "Project Name": "Parking Lot Management System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1501",
+    "Project Name": "Airport Resource Management System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1502",
+    "Project Name": "Rainwater Harvesting System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1503",
+    "Project Name": "Psychological Wellness System",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1504",
+    "Project Name": "Pharma E-Commerce Platform",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1505",
+    "Project Name": "Diet Planning App",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1506",
+    "Project Name": "Staff Retirement System",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1507",
+    "Project Name": "Forest Animal Monitoring System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1508",
+    "Project Name": "Grocery Shopping App",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1509",
+    "Project Name": "Digital Resume Builder",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1510",
+    "Project Name": "Digital Parking System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1511",
+    "Project Name": "Water Conservation System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1512",
+    "Project Name": "Natural Disaster Monitoring System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1513",
+    "Project Name": "Tourist Guide App",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1514",
+    "Project Name": "Animal Hospital System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1515",
+    "Project Name": "Crowd Intelligence System",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1516",
+    "Project Name": "Digital Grocery Platform",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1517",
+    "Project Name": "Eco Footprint Calculator",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1518",
+    "Project Name": "Vehicle Recovery System",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1519",
+    "Project Name": "Career Profile Builder",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1520",
+    "Project Name": "Digital Insurance Platform",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1521",
+    "Project Name": "Language Mastery App",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1522",
+    "Project Name": "Community Idea Platform",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1523",
+    "Project Name": "Online Airline Booking System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1524",
+    "Project Name": "Resume Management Platform",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1525",
+    "Project Name": "Greenhouse Gas Monitor",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1526",
+    "Project Name": "Decentralized Election Management",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1527",
+    "Project Name": "Financial Inclusion Platform",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1528",
+    "Project Name": "Employee Pension System",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1529",
+    "Project Name": "Farm Disease Alert System",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1530",
+    "Project Name": "Furniture Arrangement Platform",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1531",
+    "Project Name": "Yoga and Meditation Platform",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1532",
+    "Project Name": "Language Practice Platform",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1533",
+    "Project Name": "Real-Time Vehicle Tracking System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1534",
+    "Project Name": "Pet Service Management App",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1535",
+    "Project Name": "Crowdlending Platform",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1536",
+    "Project Name": "Autonomous Delivery System",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1537",
+    "Project Name": "Roadside Assistance System",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1538",
+    "Project Name": "Bus Subscription System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1539",
+    "Project Name": "Financial Aid Management System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1540",
+    "Project Name": "Community Lending System",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1541",
+    "Project Name": "Digital Art Platform",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1542",
+    "Project Name": "Online Electricity Bill System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1543",
+    "Project Name": "Claims Management System",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1544",
+    "Project Name": "Network Threat Analytics System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1545",
+    "Project Name": "Workout Center Management Platform",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1546",
+    "Project Name": "Flood Management System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1547",
+    "Project Name": "Legal Case Tracking System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1548",
+    "Project Name": "Flight Operations Management System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1549",
+    "Project Name": "Insurance Premium System",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1550",
+    "Project Name": "Distributed Task System",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1551",
+    "Project Name": "Drone Logistics System",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1552",
+    "Project Name": "Revenue Tax Platform",
+    "Canonical Group": "Tax Filing System",
+    "Group ID": "33"
+  },
+  {
+    "ID": "1553",
+    "Project Name": "Cultural Heritage Guide System",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1554",
+    "Project Name": "Airplane Ticket System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1555",
+    "Project Name": "Policy Administration System",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1556",
+    "Project Name": "Gym Attendance System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1557",
+    "Project Name": "Distributed Ledger Voting System",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1558",
+    "Project Name": "Automated Irrigation Platform",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1559",
+    "Project Name": "IoT Vehicle System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1560",
+    "Project Name": "Leaf Disease Detection System",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1561",
+    "Project Name": "Pension Administration System",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1562",
+    "Project Name": "Insurance Portal",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1563",
+    "Project Name": "Sales Forecasting Platform",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1564",
+    "Project Name": "Retirement Savings System",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1565",
+    "Project Name": "CV Builder Platform",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1566",
+    "Project Name": "Advocate Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1567",
+    "Project Name": "Virtual Classroom Platform",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1568",
+    "Project Name": "News Subscription Platform",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1569",
+    "Project Name": "Mental Health Counseling App",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1570",
+    "Project Name": "Online Journalism Platform",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1571",
+    "Project Name": "Pension Portal",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1572",
+    "Project Name": "Online Home Tutor System",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1573",
+    "Project Name": "River Water Management System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1574",
+    "Project Name": "Parking Control System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1575",
+    "Project Name": "E-Waste Management System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1576",
+    "Project Name": "Digital Tax Platform",
+    "Canonical Group": "Tax Filing System",
+    "Group ID": "33"
+  },
+  {
+    "ID": "1577",
+    "Project Name": "Meditation and Wellness App",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1578",
+    "Project Name": "Online Pet Store System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1579",
+    "Project Name": "Micro Loan System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1580",
+    "Project Name": "Therapy Support App",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1581",
+    "Project Name": "Online Music Player",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1582",
+    "Project Name": "Online Interior Design Platform",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1583",
+    "Project Name": "E-Pharmacy System",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1584",
+    "Project Name": "Work From Home Management System",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1585",
+    "Project Name": "Sleep Improvement App",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1586",
+    "Project Name": "Mindfulness Meditation System",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1587",
+    "Project Name": "Micro-Task Platform",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1588",
+    "Project Name": "Mental Health Platform",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1589",
+    "Project Name": "Blockchain-Based Ballot System",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1590",
+    "Project Name": "Nutrition Monitoring App",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1591",
+    "Project Name": "Digital News Management System",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1592",
+    "Project Name": "Online Medicine Order System",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1593",
+    "Project Name": "Borrower-Lender Matching System",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1594",
+    "Project Name": "Endangered Species Tracking System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1595",
+    "Project Name": "Tourist Information System",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1596",
+    "Project Name": "Human Intelligence Task System",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1597",
+    "Project Name": "Home Design System",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1598",
+    "Project Name": "Gym Member Management System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1599",
+    "Project Name": "Gas Station Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1600",
+    "Project Name": "Direct Lending Platform",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1601",
+    "Project Name": "Cybersecurity Monitoring System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1602",
+    "Project Name": "Mental Health App",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1603",
+    "Project Name": "Digital Workspace System",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1604",
+    "Project Name": "Resume Template System",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1605",
+    "Project Name": "Food Diary App",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1606",
+    "Project Name": "Flight Seat Reservation System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1607",
+    "Project Name": "Automated Air Delivery System",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1608",
+    "Project Name": "Smart Tourism App",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1609",
+    "Project Name": "Traveler Assistant App",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1610",
+    "Project Name": "Wildlife Data System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1611",
+    "Project Name": "Online Pharmacy System",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1612",
+    "Project Name": "Tax Compliance System",
+    "Canonical Group": "Tax Filing System",
+    "Group ID": "33"
+  },
+  {
+    "ID": "1613",
+    "Project Name": "Online Meditation Platform",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1614",
+    "Project Name": "Stock Portfolio Management System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1615",
+    "Project Name": "Animal Population Tracking System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1616",
+    "Project Name": "Life Insurance System",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1617",
+    "Project Name": "Calorie Tracking App",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1618",
+    "Project Name": "Student Scholarship System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1619",
+    "Project Name": "Live Proctoring Application",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1620",
+    "Project Name": "Digital Drug Store Platform",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1621",
+    "Project Name": "First Aid Advisor Bot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1622",
+    "Project Name": "Pension Management System",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1623",
+    "Project Name": "Distributed Team Management Platform",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1624",
+    "Project Name": "Stock Investment Platform",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1625",
+    "Project Name": "Plant Pathology System",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1626",
+    "Project Name": "Aerial Delivery System",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1627",
+    "Project Name": "Digital Tourism Platform",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1628",
+    "Project Name": "Blockchain Voting System",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1629",
+    "Project Name": "Blockchain Election System",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1630",
+    "Project Name": "City Tour Guide System",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1631",
+    "Project Name": "Digital Drug Store Platform",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1632",
+    "Project Name": "Fitness Studio Management System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1633",
+    "Project Name": "Airport Administration Platform",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1634",
+    "Project Name": "Digital Farming Solution",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1635",
+    "Project Name": "Service Station System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1636",
+    "Project Name": "Risk Management and Disaster System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1637",
+    "Project Name": "Online Parking Booking System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1638",
+    "Project Name": "Water Supply Management System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1639",
+    "Project Name": "Song Streaming Application",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1640",
+    "Project Name": "Community Lending Platform",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1641",
+    "Project Name": "Live Proctoring Application",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1642",
+    "Project Name": "Aerial Delivery System",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1643",
+    "Project Name": "Water Analysis System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1644",
+    "Project Name": "Construction Project Management",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1645",
+    "Project Name": "Fellowship Management System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1646",
+    "Project Name": "Stock Portfolio Management System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1647",
+    "Project Name": "Work-at-Home Platform",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1648",
+    "Project Name": "IoT Water Quality System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1649",
+    "Project Name": "Mental Health Monitoring System",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1650",
+    "Project Name": "Crypto Voting Platform",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1651",
+    "Project Name": "Reading Community Platform",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1652",
+    "Project Name": "Digital Health Navigator",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1653",
+    "Project Name": "Air Travel Booking System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1654",
+    "Project Name": "Security Operations System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1655",
+    "Project Name": "Stress Management App",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1656",
+    "Project Name": "Plant Disease Identification App",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1657",
+    "Project Name": "Air Travel Booking System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1658",
+    "Project Name": "Water Supply Management System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1659",
+    "Project Name": "City Tour Guide System",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1660",
+    "Project Name": "Parking Space Management System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1661",
+    "Project Name": "Wild Animal Surveillance System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1662",
+    "Project Name": "Individual Loan System",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1663",
+    "Project Name": "Emergency Response System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1664",
+    "Project Name": "Agricultural Yield Forecasting System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1665",
+    "Project Name": "Art Buying and Selling Platform",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1666",
+    "Project Name": "Auto Rescue Service System",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1667",
+    "Project Name": "Space Planning App",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1668",
+    "Project Name": "Environmental Impact Tracker",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1669",
+    "Project Name": "Junk Collection System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1670",
+    "Project Name": "Unmanned Delivery Platform",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1671",
+    "Project Name": "Online Counseling Platform",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1672",
+    "Project Name": "Air Parcel System",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1673",
+    "Project Name": "Mass Collaboration Platform",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1674",
+    "Project Name": "Crop Protection System",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1675",
+    "Project Name": "Airline Reservation System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1676",
+    "Project Name": "Cooperative Finance System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1677",
+    "Project Name": "Small Loan Management System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1678",
+    "Project Name": "Language Translation Learning App",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1679",
+    "Project Name": "Construction Resource Management",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1680",
+    "Project Name": "Crop Production Forecasting System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1681",
+    "Project Name": "Zen Wellness Platform",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1682",
+    "Project Name": "Connected Farm System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1683",
+    "Project Name": "Crop Health Monitoring Platform",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1684",
+    "Project Name": "Procurement Forecasting System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1685",
+    "Project Name": "Online Meditation Platform",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1686",
+    "Project Name": "Bursary Management System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1687",
+    "Project Name": "Reading Community Platform",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1688",
+    "Project Name": "Stress Management App",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1689",
+    "Project Name": "Air Travel Booking System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1690",
+    "Project Name": "Stock Exchange Simulation System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1691",
+    "Project Name": "Passenger Management System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1692",
+    "Project Name": "Judiciary Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1693",
+    "Project Name": "Plastic Waste Tracking System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1694",
+    "Project Name": "Smart Greenhouse System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1695",
+    "Project Name": "Virtual Office System",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1696",
+    "Project Name": "Literary Review Platform",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1697",
+    "Project Name": "Public Transport Pass System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1698",
+    "Project Name": "Zero Waste Management System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1699",
+    "Project Name": "Procurement Forecasting System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1700",
+    "Project Name": "Airline Reservation System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1701",
+    "Project Name": "Electricity Bill Management System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1702",
+    "Project Name": "Junk Collection System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1703",
+    "Project Name": "Infrastructure Project System",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1704",
+    "Project Name": "Wildlife Conservation Platform",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1705",
+    "Project Name": "Clinical Assistant Bot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1706",
+    "Project Name": "Digital Room Planner",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1707",
+    "Project Name": "Stock Portfolio Management System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1708",
+    "Project Name": "Flight Booking System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1709",
+    "Project Name": "Digital Music Platform",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1710",
+    "Project Name": "Harvest Prediction Platform",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1711",
+    "Project Name": "Vehicle Emergency System",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1712",
+    "Project Name": "Fuel Station Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1713",
+    "Project Name": "Travel Guide Application",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1714",
+    "Project Name": "Foreign Language Learning Platform",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1715",
+    "Project Name": "E-Tax Filing System",
+    "Canonical Group": "Tax Filing System",
+    "Group ID": "33"
+  },
+  {
+    "ID": "1716",
+    "Project Name": "Fuel Sales Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1717",
+    "Project Name": "Transit Pass Management System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1718",
+    "Project Name": "Fitness Management App",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1719",
+    "Project Name": "Electricity Bill Management System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1720",
+    "Project Name": "Bursary Management System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1721",
+    "Project Name": "Mindfulness Training System",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1722",
+    "Project Name": "Zero Waste Management System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1723",
+    "Project Name": "Decentralized Voting Platform",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1724",
+    "Project Name": "Decentralized Voting Platform",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1725",
+    "Project Name": "Bus Ticket Management System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1726",
+    "Project Name": "Passenger Management System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1727",
+    "Project Name": "Travel Companion App",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1728",
+    "Project Name": "Auto Rescue Service System",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1729",
+    "Project Name": "Animal Tracking System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1730",
+    "Project Name": "Green Living App",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1731",
+    "Project Name": "Agricultural Yield Forecasting System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1732",
+    "Project Name": "Virtual Office System",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1733",
+    "Project Name": "Digital Bus Pass System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1734",
+    "Project Name": "Online Collaboration Platform",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1735",
+    "Project Name": "Airport Administration Platform",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1736",
+    "Project Name": "Space Planning App",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1737",
+    "Project Name": "Virtual Health Assistant",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1738",
+    "Project Name": "Air Traffic Management System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1739",
+    "Project Name": "Infrastructure Project System",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1740",
+    "Project Name": "Carbon Offset System",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1741",
+    "Project Name": "Agricultural Yield Forecasting System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1742",
+    "Project Name": "Daily Calm App",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1743",
+    "Project Name": "Reader Review Portal",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1744",
+    "Project Name": "Motor Insurance System",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1745",
+    "Project Name": "Online Support Group Platform",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1746",
+    "Project Name": "Online Meditation Platform",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1747",
+    "Project Name": "Job Application Resume System",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1748",
+    "Project Name": "E-Tutoring Platform",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1749",
+    "Project Name": "Scholarship Management System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1750",
+    "Project Name": "Digital Counseling App",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1751",
+    "Project Name": "Academic Tutoring App",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1752",
+    "Project Name": "Medical Information Bot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1753",
+    "Project Name": "Gym Subscription System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1754",
+    "Project Name": "Canal Management System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1755",
+    "Project Name": "Vehicle Telematics Platform",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1756",
+    "Project Name": "Mindfulness App",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1757",
+    "Project Name": "Digital Tourism Platform",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1758",
+    "Project Name": "Crowdsourced Data Collection System",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1759",
+    "Project Name": "Vehicle Monitoring System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1760",
+    "Project Name": "Scholarship Application System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1761",
+    "Project Name": "Small Loan Management System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1762",
+    "Project Name": "Groundwater Monitoring System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1763",
+    "Project Name": "CO2 Tracking System",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1764",
+    "Project Name": "Hybrid Work Management System",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1765",
+    "Project Name": "Digital Room Planner",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1766",
+    "Project Name": "Retirement Benefit System",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1767",
+    "Project Name": "Pet Care Management System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1768",
+    "Project Name": "Fuel Sales Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1769",
+    "Project Name": "Smart Resume Creator",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1770",
+    "Project Name": "Fuel Billing System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1771",
+    "Project Name": "Crop Disease Detection System",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1772",
+    "Project Name": "Intrusion Detection System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1773",
+    "Project Name": "Virtual Museum System",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1774",
+    "Project Name": "Groundwater Monitoring System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1775",
+    "Project Name": "Electric Utility Management System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1776",
+    "Project Name": "Airline Reservation System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1777",
+    "Project Name": "UAV Delivery Platform",
+    "Canonical Group": "Drone Delivery System",
+    "Group ID": "34"
+  },
+  {
+    "ID": "1778",
+    "Project Name": "Travel Pass System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1779",
+    "Project Name": "Health Advisory Chatbot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1780",
+    "Project Name": "Distributed Team Management Platform",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1781",
+    "Project Name": "Digital Pharmacy Platform",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1782",
+    "Project Name": "Diet Management System",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1783",
+    "Project Name": "Digital Room Planner",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1784",
+    "Project Name": "News Publishing Platform",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1785",
+    "Project Name": "Prescription Medicine Delivery App",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1786",
+    "Project Name": "Online Invigilation System",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1787",
+    "Project Name": "Legal Case Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1788",
+    "Project Name": "Threat Detection Platform",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1789",
+    "Project Name": "Exam Surveillance System",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1790",
+    "Project Name": "Live Online Teaching Platform",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1791",
+    "Project Name": "AI Resume Builder",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1792",
+    "Project Name": "Book Discussion Forum",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1793",
+    "Project Name": "Farm Production Prediction System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1794",
+    "Project Name": "Grammar Learning System",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1795",
+    "Project Name": "Calamity Management System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1796",
+    "Project Name": "Environmental Impact Tracker",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1797",
+    "Project Name": "Veterinary Management System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1798",
+    "Project Name": "Stock Investment Platform",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1799",
+    "Project Name": "Network Security Monitoring System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1800",
+    "Project Name": "Virtual Home Staging System",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1801",
+    "Project Name": "Parking Reservation System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1802",
+    "Project Name": "Online Meditation Platform",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1803",
+    "Project Name": "Building Site Management Platform",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1804",
+    "Project Name": "Passenger Management System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1805",
+    "Project Name": "Cooperative Finance System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1806",
+    "Project Name": "Social Lending System",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1807",
+    "Project Name": "Automated CV Generator",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1808",
+    "Project Name": "Smart Farming Disease App",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1809",
+    "Project Name": "Construction Workflow System",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1810",
+    "Project Name": "Emergency Alert System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1811",
+    "Project Name": "Online Newspaper System",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1812",
+    "Project Name": "Pet Clinic Management System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1813",
+    "Project Name": "Carbon Footprint Tracker",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1814",
+    "Project Name": "Work-at-Home Platform",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1815",
+    "Project Name": "IoT Water Quality System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1816",
+    "Project Name": "Emergency Coordination Platform",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1817",
+    "Project Name": "AI Doctor Chatbot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1818",
+    "Project Name": "Junk Collection System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1819",
+    "Project Name": "Real-Time Water Testing System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1820",
+    "Project Name": "Scholarship Portal",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1821",
+    "Project Name": "Cyber Defense Platform",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1822",
+    "Project Name": "Provident Fund Management System",
+    "Canonical Group": "Pension Management System",
+    "Group ID": "50"
+  },
+  {
+    "ID": "1823",
+    "Project Name": "Mass Collaboration Platform",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1824",
+    "Project Name": "Pet Care Management System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1825",
+    "Project Name": "Crop Output Estimation System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1826",
+    "Project Name": "Water Supply Management System",
+    "Canonical Group": "Water Resource Management System",
+    "Group ID": "49"
+  },
+  {
+    "ID": "1827",
+    "Project Name": "Demand Forecasting System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1828",
+    "Project Name": "Microcredit System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1829",
+    "Project Name": "Macronutrient Tracking System",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1830",
+    "Project Name": "Home Tuition Finder App",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1831",
+    "Project Name": "CO2 Tracking System",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1832",
+    "Project Name": "Power Bill Payment System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1833",
+    "Project Name": "Virtual Psychologist Platform",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1834",
+    "Project Name": "Crop Production Forecasting System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1835",
+    "Project Name": "Home Medicine Delivery System",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1836",
+    "Project Name": "Supermarket Online System",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1837",
+    "Project Name": "Fuel Stock Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1838",
+    "Project Name": "Crop Production Forecasting System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1839",
+    "Project Name": "NFT Art Marketplace",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1840",
+    "Project Name": "Professional CV System",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1841",
+    "Project Name": "Audio Streaming App",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1842",
+    "Project Name": "Smart Resume Creator",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1843",
+    "Project Name": "Water Analysis System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1844",
+    "Project Name": "Animal Tracking System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1845",
+    "Project Name": "Fuel Stock Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1846",
+    "Project Name": "Distributed Team Management Platform",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1847",
+    "Project Name": "Digital Pharmacy Platform",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1848",
+    "Project Name": "Legal Affairs System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1849",
+    "Project Name": "Daily Calorie Counter App",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1850",
+    "Project Name": "Equity Trading System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1851",
+    "Project Name": "Smart Contract Voting System",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1852",
+    "Project Name": "Breakdown Management System",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1853",
+    "Project Name": "Book Rating and Review App",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1854",
+    "Project Name": "Air Travel Booking System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1855",
+    "Project Name": "Stress Management App",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1856",
+    "Project Name": "Song Streaming Application",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1857",
+    "Project Name": "Electricity Billing System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1858",
+    "Project Name": "Automotive Data System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1859",
+    "Project Name": "Junk Collection System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1860",
+    "Project Name": "Smart Irrigation System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1861",
+    "Project Name": "Construction Resource Management",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1862",
+    "Project Name": "Open Innovation System",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1863",
+    "Project Name": "Parking Management System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1864",
+    "Project Name": "Music Discovery Platform",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1865",
+    "Project Name": "Veterinary Management System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1866",
+    "Project Name": "Cyber Threat Monitoring System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1867",
+    "Project Name": "Mental Wellness System",
+    "Canonical Group": "Mental Health App",
+    "Group ID": "4"
+  },
+  {
+    "ID": "1868",
+    "Project Name": "Student Bus Pass System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1869",
+    "Project Name": "Scholarship Award System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1870",
+    "Project Name": "Microfinance Management System",
+    "Canonical Group": "Microfinance Management System",
+    "Group ID": "16"
+  },
+  {
+    "ID": "1871",
+    "Project Name": "Legal Affairs System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1872",
+    "Project Name": "Remote Proctoring System",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1873",
+    "Project Name": "Secure Online Exam System",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1874",
+    "Project Name": "Smart Parking System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1875",
+    "Project Name": "Digital Counseling App",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1876",
+    "Project Name": "Health Club Management System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1877",
+    "Project Name": "Site Management System",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1878",
+    "Project Name": "Smart Parking System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1879",
+    "Project Name": "Cyber Defense Platform",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1880",
+    "Project Name": "Fitness Management App",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1881",
+    "Project Name": "Home Medicine Delivery System",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1882",
+    "Project Name": "Academic Grant System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1883",
+    "Project Name": "Security Information System",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1884",
+    "Project Name": "Literary Review Platform",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1885",
+    "Project Name": "Junk Collection System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1886",
+    "Project Name": "Vehicle Parking System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1887",
+    "Project Name": "Flight Ticketing System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1888",
+    "Project Name": "News Publishing Platform",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1889",
+    "Project Name": "Book Rating and Review App",
+    "Canonical Group": "Book Review Platform",
+    "Group ID": "32"
+  },
+  {
+    "ID": "1890",
+    "Project Name": "Decentralized Voting Platform",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1891",
+    "Project Name": "Health Query Chatbot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1892",
+    "Project Name": "CO2 Tracking System",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1893",
+    "Project Name": "Automated Parking System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1894",
+    "Project Name": "Digital Psychotherapy System",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1895",
+    "Project Name": "Vehicle Data Analytics System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1896",
+    "Project Name": "Smart Farming Disease App",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1897",
+    "Project Name": "Carbon Footprint Tracker",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1898",
+    "Project Name": "Water Analysis System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1899",
+    "Project Name": "Gym Subscription System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1900",
+    "Project Name": "Legal Practice Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1901",
+    "Project Name": "Data Security Monitoring Platform",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1902",
+    "Project Name": "Veterinary Management System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1903",
+    "Project Name": "Bus Pass Management System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1904",
+    "Project Name": "Digital News Website",
+    "Canonical Group": "Online News Portal",
+    "Group ID": "11"
+  },
+  {
+    "ID": "1905",
+    "Project Name": "On-Road Assistance App",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1906",
+    "Project Name": "GPS Tracking System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1907",
+    "Project Name": "Lawyer Management Platform",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1908",
+    "Project Name": "Construction Resource Management",
+    "Canonical Group": "Construction Project Management",
+    "Group ID": "20"
+  },
+  {
+    "ID": "1909",
+    "Project Name": "Live Proctoring Application",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1910",
+    "Project Name": "Decentralized Voting Platform",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1911",
+    "Project Name": "Individual Loan System",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1912",
+    "Project Name": "Service Station System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1913",
+    "Project Name": "Insurance Policy Management System",
+    "Canonical Group": "Insurance Management System",
+    "Group ID": "30"
+  },
+  {
+    "ID": "1914",
+    "Project Name": "Zen Wellness Platform",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1915",
+    "Project Name": "AI Doctor Chatbot",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1916",
+    "Project Name": "Vehicle Parking System",
+    "Canonical Group": "Parking Management System",
+    "Group ID": "1"
+  },
+  {
+    "ID": "1917",
+    "Project Name": "Calamity Management System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1918",
+    "Project Name": "Water Purity Testing System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1919",
+    "Project Name": "Crowdsourced Data Collection System",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1920",
+    "Project Name": "Pet Care Management System",
+    "Canonical Group": "Pet Care Management System",
+    "Group ID": "9"
+  },
+  {
+    "ID": "1921",
+    "Project Name": "Airport Administration Platform",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1922",
+    "Project Name": "Fellowship Management System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1923",
+    "Project Name": "Airport Administration Platform",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1924",
+    "Project Name": "Wild Animal Surveillance System",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1925",
+    "Project Name": "City Tour Guide System",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1926",
+    "Project Name": "Online Art Gallery",
+    "Canonical Group": "Online Art Gallery",
+    "Group ID": "48"
+  },
+  {
+    "ID": "1927",
+    "Project Name": "Electricity Billing System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1928",
+    "Project Name": "Online Kirana Store",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1929",
+    "Project Name": "Home Medicine Delivery System",
+    "Canonical Group": "Online Pharmacy System",
+    "Group ID": "41"
+  },
+  {
+    "ID": "1930",
+    "Project Name": "Farm Automation System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1931",
+    "Project Name": "Disaster Recovery Platform",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1932",
+    "Project Name": "Power Distribution Management System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1933",
+    "Project Name": "Wildlife Conservation Platform",
+    "Canonical Group": "Wildlife Monitoring System",
+    "Group ID": "35"
+  },
+  {
+    "ID": "1934",
+    "Project Name": "Diet Management System",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1935",
+    "Project Name": "Airline Management System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1936",
+    "Project Name": "Resume Generator System",
+    "Canonical Group": "AI Resume Builder",
+    "Group ID": "38"
+  },
+  {
+    "ID": "1937",
+    "Project Name": "Monthly Bus Pass System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1938",
+    "Project Name": "Smart Vehicle System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1939",
+    "Project Name": "Threat Detection Platform",
+    "Canonical Group": "Cybersecurity Monitoring System",
+    "Group ID": "46"
+  },
+  {
+    "ID": "1940",
+    "Project Name": "Private Tutor Booking System",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1941",
+    "Project Name": "Student Bus Pass System",
+    "Canonical Group": "Bus Pass Management System",
+    "Group ID": "7"
+  },
+  {
+    "ID": "1942",
+    "Project Name": "Disaster Recovery Platform",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1943",
+    "Project Name": "Supply Demand Analysis System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1944",
+    "Project Name": "Legal Document Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1945",
+    "Project Name": "Stock Market Trading System",
+    "Canonical Group": "Stock Market Trading System",
+    "Group ID": "13"
+  },
+  {
+    "ID": "1946",
+    "Project Name": "Plastic Waste Tracking System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1947",
+    "Project Name": "Precision Farming System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1948",
+    "Project Name": "Electricity Usage Monitoring System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1949",
+    "Project Name": "Water Pollution Monitoring System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1950",
+    "Project Name": "Remote Work Management System",
+    "Canonical Group": "Remote Work Management System",
+    "Group ID": "39"
+  },
+  {
+    "ID": "1951",
+    "Project Name": "Sports Club Management System",
+    "Canonical Group": "Gym Management System",
+    "Group ID": "21"
+  },
+  {
+    "ID": "1952",
+    "Project Name": "Exam Surveillance System",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1953",
+    "Project Name": "Risk Management and Disaster System",
+    "Canonical Group": "Disaster Management System",
+    "Group ID": "14"
+  },
+  {
+    "ID": "1954",
+    "Project Name": "Smart Vehicle System",
+    "Canonical Group": "Telematics System",
+    "Group ID": "25"
+  },
+  {
+    "ID": "1955",
+    "Project Name": "Judiciary Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1956",
+    "Project Name": "Fuel Stock Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1957",
+    "Project Name": "Interior Design Consultation Platform",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1958",
+    "Project Name": "Online Counseling Platform",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1959",
+    "Project Name": "Digital Health Navigator",
+    "Canonical Group": "Healthcare Chatbot System",
+    "Group ID": "36"
+  },
+  {
+    "ID": "1960",
+    "Project Name": "Electric Utility Management System",
+    "Canonical Group": "Electricity Bill Management System",
+    "Group ID": "10"
+  },
+  {
+    "ID": "1961",
+    "Project Name": "Technology-Driven Agriculture System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1962",
+    "Project Name": "Token Voting Platform",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1963",
+    "Project Name": "Travel Guide Application",
+    "Canonical Group": "Tourist Guide App",
+    "Group ID": "17"
+  },
+  {
+    "ID": "1964",
+    "Project Name": "IoT Agriculture Platform",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1965",
+    "Project Name": "P2P Loan System",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1966",
+    "Project Name": "Immutable Voting System",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1967",
+    "Project Name": "Airline Management System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1968",
+    "Project Name": "Airline Reservation System",
+    "Canonical Group": "Airline Reservation System",
+    "Group ID": "5"
+  },
+  {
+    "ID": "1969",
+    "Project Name": "Aquatic Environment Monitoring System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1970",
+    "Project Name": "Crop Disease Detection System",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "1971",
+    "Project Name": "Digital Counseling App",
+    "Canonical Group": "Online Counseling Platform",
+    "Group ID": "31"
+  },
+  {
+    "ID": "1972",
+    "Project Name": "Diet Management System",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1973",
+    "Project Name": "Petrol Pump Management System",
+    "Canonical Group": "Fuel Station Management System",
+    "Group ID": "18"
+  },
+  {
+    "ID": "1974",
+    "Project Name": "Sustainability Tracker",
+    "Canonical Group": "Carbon Footprint Tracker",
+    "Group ID": "12"
+  },
+  {
+    "ID": "1975",
+    "Project Name": "Exam Surveillance System",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1976",
+    "Project Name": "Collective Problem Solving Platform",
+    "Canonical Group": "Crowdsourcing Platform",
+    "Group ID": "45"
+  },
+  {
+    "ID": "1977",
+    "Project Name": "Grocery Ordering System",
+    "Canonical Group": "Online Grocery Store",
+    "Group ID": "3"
+  },
+  {
+    "ID": "1978",
+    "Project Name": "Recyclable Material Tracker",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1979",
+    "Project Name": "Online Tutoring Platform",
+    "Canonical Group": "Online Tutoring Platform",
+    "Group ID": "19"
+  },
+  {
+    "ID": "1980",
+    "Project Name": "Music Discovery Platform",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1981",
+    "Project Name": "Healthy Eating Tracker",
+    "Canonical Group": "Food Nutrition Tracker",
+    "Group ID": "37"
+  },
+  {
+    "ID": "1982",
+    "Project Name": "Digital Wellness App",
+    "Canonical Group": "Online Meditation Platform",
+    "Group ID": "22"
+  },
+  {
+    "ID": "1983",
+    "Project Name": "Person-to-Person Lending App",
+    "Canonical Group": "Peer-to-Peer Lending Platform",
+    "Group ID": "28"
+  },
+  {
+    "ID": "1984",
+    "Project Name": "Language Learning App",
+    "Canonical Group": "Language Learning App",
+    "Group ID": "15"
+  },
+  {
+    "ID": "1985",
+    "Project Name": "Scholarship Database System",
+    "Canonical Group": "Scholarship Management System",
+    "Group ID": "2"
+  },
+  {
+    "ID": "1986",
+    "Project Name": "Music Discovery Platform",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1987",
+    "Project Name": "Aviation Operations System",
+    "Canonical Group": "Airport Management System",
+    "Group ID": "47"
+  },
+  {
+    "ID": "1988",
+    "Project Name": "Digital Room Planner",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
+  },
+  {
+    "ID": "1989",
+    "Project Name": "Legal Document Management System",
+    "Canonical Group": "Legal Case Management System",
+    "Group ID": "51"
+  },
+  {
+    "ID": "1990",
+    "Project Name": "Exam Proctoring Platform",
+    "Canonical Group": "Online Examination Proctoring System",
+    "Group ID": "6"
+  },
+  {
+    "ID": "1991",
+    "Project Name": "Crypto Voting Platform",
+    "Canonical Group": "Blockchain Voting System",
+    "Group ID": "40"
+  },
+  {
+    "ID": "1992",
+    "Project Name": "Groundwater Monitoring System",
+    "Canonical Group": "Water Quality Monitoring System",
+    "Group ID": "8"
+  },
+  {
+    "ID": "1993",
+    "Project Name": "Inventory Optimization System",
+    "Canonical Group": "Stock Inventory Forecasting System",
+    "Group ID": "27"
+  },
+  {
+    "ID": "1994",
+    "Project Name": "Farm Automation System",
+    "Canonical Group": "Smart Agriculture System",
+    "Group ID": "29"
+  },
+  {
+    "ID": "1995",
+    "Project Name": "Agricultural Yield Forecasting System",
+    "Canonical Group": "Crop Yield Prediction System",
+    "Group ID": "42"
+  },
+  {
+    "ID": "1996",
+    "Project Name": "Breakdown Management System",
+    "Canonical Group": "Roadside Assistance System",
+    "Group ID": "44"
+  },
+  {
+    "ID": "1997",
+    "Project Name": "Waste Segregation System",
+    "Canonical Group": "Waste Recycling Tracking System",
+    "Group ID": "23"
+  },
+  {
+    "ID": "1998",
+    "Project Name": "Online Music Store",
+    "Canonical Group": "Music Streaming Platform",
+    "Group ID": "24"
+  },
+  {
+    "ID": "1999",
+    "Project Name": "Plant Diagnosis System",
+    "Canonical Group": "Crop Disease Detection System",
+    "Group ID": "26"
+  },
+  {
+    "ID": "2000",
+    "Project Name": "Virtual Interior Design App",
+    "Canonical Group": "Online Interior Design Platform",
+    "Group ID": "43"
   }
 ]
