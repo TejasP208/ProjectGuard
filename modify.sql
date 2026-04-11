@@ -1,1 +1,1 @@
-delete  *  from teams;
+delete  *  from project;

@@ -187,6 +187,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'nav-dashboard': 'view-dashboard',
         'nav-find': 'view-find',
         'nav-submit': 'view-submit',
+        'nav-team': 'view-team',
         'nav-plagiarism': 'view-plagiarism',
         'nav-settings': 'view-settings'
     };
@@ -326,6 +327,111 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // setupAxiomAI('dashboard-chat-input', 'dashboard-send-btn', 'dashboard-chat-box'); // Removed per layout changes
     setupAxiomAI('find-chat-input', 'find-send-btn', 'find-chat-box');
+
+    // --- Team Form Toggle Logic --- //
+    const btnShowCreateTeam = document.getElementById('btn-show-create-team');
+    const btnShowJoinTeam = document.getElementById('btn-show-join-team');
+    const createTeamForm = document.getElementById('create-team-form');
+    const joinTeamForm = document.getElementById('join-team-form');
+    const cancelCreateTeam = document.getElementById('cancel-create-team');
+    const cancelJoinTeam = document.getElementById('cancel-join-team');
+
+    if (btnShowCreateTeam) {
+        btnShowCreateTeam.addEventListener('click', () => {
+            createTeamForm.style.display = 'block';
+            btnShowCreateTeam.style.display = 'none';
+        });
+    }
+    if (cancelCreateTeam) {
+        cancelCreateTeam.addEventListener('click', () => {
+            createTeamForm.style.display = 'none';
+            btnShowCreateTeam.style.display = 'inline-flex';
+        });
+    }
+    if (btnShowJoinTeam) {
+        btnShowJoinTeam.addEventListener('click', () => {
+            joinTeamForm.style.display = 'block';
+            btnShowJoinTeam.style.display = 'none';
+        });
+    }
+    if (cancelJoinTeam) {
+        cancelJoinTeam.addEventListener('click', () => {
+            joinTeamForm.style.display = 'none';
+            btnShowJoinTeam.style.display = 'inline-flex';
+        });
+    }
+
+    // Create Team form submission
+    const createTeamFormEl = document.getElementById('create-team-form');
+    if (createTeamFormEl) {
+        createTeamFormEl.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const teamName = document.getElementById('team-name').value;
+            const description = document.getElementById('team-desc')?.value || "";
+            const maxMembers = document.getElementById('team-max')?.value || 4;
+
+            try {
+                const response = await fetch('http://127.0.0.1:8000/create-team', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        team_name: teamName,
+                        description: description,
+                        max_members: parseInt(maxMembers)
+                    })
+                });
+
+                const data = await response.json();
+
+                if (response.ok) {
+                    alert(`Success! Team "${teamName}" created.\nYOUR TEAM CODE: ${data.team_code}\nShare this code with your teammates.`);
+                    createTeamForm.style.display = 'none';
+                    btnShowCreateTeam.style.display = 'inline-flex';
+                    createTeamFormEl.reset();
+                } else {
+                    alert(data.detail || 'Failed to create team');
+                }
+            } catch (error) {
+                console.error('Create Team error:', error);
+                alert('Connection error. Is the server running?');
+            }
+        });
+    }
+
+    // Join Team form submission
+    const joinTeamFormEl = document.getElementById('join-team-form');
+    if (joinTeamFormEl) {
+        joinTeamFormEl.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const teamCode = document.getElementById('team-code').value;
+            const rollNo = document.getElementById('join-roll').value;
+
+            try {
+                const response = await fetch('http://127.0.0.1:8000/join-team', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        team_code: teamCode,
+                        roll_no: rollNo
+                    })
+                });
+
+                const data = await response.json();
+
+                if (response.ok) {
+                    alert('Successfully joined the team!');
+                    joinTeamForm.style.display = 'none';
+                    btnShowJoinTeam.style.display = 'inline-flex';
+                    joinTeamFormEl.reset();
+                } else {
+                    alert(data.detail || data.error || 'Failed to join team');
+                }
+            } catch (error) {
+                console.error('Join Team error:', error);
+                alert('Connection error. Is the server running?');
+            }
+        });
+    }
 });
 const input = document.getElementById("find-chat-input");
 const sendBtn = document.getElementById("find-send-btn");
@@ -380,4 +486,84 @@ async function sendMessage() {
         aiMessage.textContent = "Error connecting to server";
         console.error(err);
     }
+}
+async function submitProject() {
+    const groupEl = document.getElementById("group-no");
+    const titleEl = document.getElementById("project-title");
+    const descEl = document.getElementById("project-desc");
+
+    const teamName = localStorage.getItem("loggedInTeam"); // already saved during login
+
+    if (!teamName) {
+        alert("Session expired. Please log in again.");
+        window.location.href = "auth.html";
+        return;
+    }
+
+    if (!groupEl.value || !titleEl.value) {
+        alert("Please fill in Group No and Project Title.");
+        return;
+    }
+
+    const data = {
+        team_name: teamName,
+        group_no: parseInt(groupEl.value),
+        project_name: titleEl.value,
+        project_abstract: descEl ? descEl.value : ""
+    };
+
+    const btnSubmit = document.getElementById("btn-submit");
+    btnSubmit.disabled = true;
+    btnSubmit.innerHTML = '<i class="ph ph-spinner-gap"></i> Submitting...';
+
+    try {
+        const res = await fetch("http://127.0.0.1:8000/submit-project", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(data)
+        });
+
+        if (!res.ok) {
+            const err = await res.json();
+            throw new Error(err.detail || "Server error");
+        }
+
+        const result = await res.json();
+        alert(result.message);
+        btnSubmit.innerHTML = '<i class="ph ph-check"></i> Submitted';
+        btnSubmit.style.background = "var(--status-verified)";
+    } catch (err) {
+        alert("Submission failed: " + err.message);
+        btnSubmit.disabled = false;
+        btnSubmit.innerHTML = '<i class="ph ph-upload-simple"></i> Submit Your Project';
+    }
+}
+async function createTeam() {
+    const data = {
+        team_name: document.getElementById("team-name").value
+    };
+
+    const res = await fetch("http://127.0.0.1:8000/create-team", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify(data)
+    });
+
+    const result = await res.json();
+    alert("Team Code: " + result.team_code);  // 🔥 show code
+}
+async function joinTeam() {
+    const data = {
+        team_code: document.getElementById("team-code").value,
+        roll_no: document.getElementById("roll").value
+    };
+
+    const res = await fetch("http://127.0.0.1:8000/join-team", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify(data)
+    });
+
+    const result = await res.json();
+    alert(result.message || result.error);
 }

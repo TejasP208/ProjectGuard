@@ -20,6 +20,12 @@ Behavior rules:
 Never:
 - Generate plagiarized content.
 - Encourage copying.
+
+Give the answer in plain text.
+Do NOT use *, **, markdown, or bullet symbols.
+Keep formatting simple and clean.
+Also consider the past history of the chat.
+do consider the project title and project absract and project ppt 
 """
 
 def Chatbot_stream(prompt: str):

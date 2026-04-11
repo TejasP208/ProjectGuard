@@ -33,8 +33,12 @@
                     <span>Submit Project</span>
                 </a>
                 <a href="#" class="nav-item" id="nav-find">
-                    <i class="ph ph-folder-open"></i>
-                    <span>Find your Project</span>
+                    <i class="ph ph-atom"></i>
+                    <span>Ask Axiom</span>
+                </a>
+                <a href="#" class="nav-item" id="nav-team">
+                    <i class="ph ph-users"></i>
+                    <span>Find your Team</span>
                 </a>
             </nav>
 
@@ -159,7 +163,7 @@
                         </div>
                         
                         <div class="form-group">
-                            <label for="project-desc">Project Description</label>
+                            <label for="project-desc">Project Abstract</label>
                             <textarea id="project-desc" rows="4" placeholder="Briefly describe the objective and methodology of your project..." ></textarea>
                         </div>
                         
@@ -224,7 +228,7 @@
                                 <i class="ph-fill ph-shield-check"></i>
                                 Check Plagiarism
                             </button>
-                            <button type="submit" class="btn btn-primary" id="btn-submit" disabled>
+                            <button onclick="submitProject()" type="submit" class="btn btn-primary" id="btn-submit" disabled>
                                 <i class="ph ph-upload-simple"></i>
                                 Submit Your Project
                             </button>
@@ -232,7 +236,8 @@
                     </form>
                 </div>
             </div>
-            
+            </div>
+
             <!-- Plagiarism Check View (Placeholder) -->
             <div id="view-plagiarism" class="content-view hidden">
                 <header class="top-header">
@@ -245,6 +250,109 @@
                     </button>
                 </header>
                 <div class="glass-card"><p>Plagiarism checking tools go here.</p></div>
+            </div>
+
+            <!-- Find Your Team View -->
+            <div id="view-team" class="content-view hidden">
+                <header class="top-header">
+                    <div>
+                        <h1 class="page-title">Find your Team</h1>
+                        <p class="page-subtitle">Create a new team or join an existing one</p>
+                    </div>
+                    <button class="icon-btn glass-btn notification-btn">
+                        <i class="ph ph-bell"></i>
+                        <span class="notification-badge"></span>
+                    </button>
+                </header>
+
+                <div class="team-options-container">
+                    <!-- Create Team Card -->
+                    <div class="card glass-card team-option-card" id="create-team-card">
+                        <div class="team-option-icon create-icon">
+                            <i class="ph ph-users-three"></i>
+                        </div>
+                        <h2>Create Team</h2>
+                        <p>Start a new team and invite your classmates to collaborate on a project together.</p>
+                        <form id="create-team-form" class="team-form" style="display: none;">
+                            <div class="form-group">
+                                <label for="team-name">Team Name</label>
+                                <input type="text" id="team-name" placeholder="e.g., Team Alpha" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="team-max">Max Members</label>
+                                <input type="number" id="team-max" value="4" min="2" max="10">
+                            </div>
+                            <div class="form-actions">
+                                <button type="button" class="btn btn-secondary" id="cancel-create-team">Cancel</button>
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="ph ph-plus-circle"></i>
+                                    Create Team
+                                </button>
+                            </div>
+                        </form>
+                        <button class="btn btn-primary team-action-btn" id="btn-show-create-team">
+                            <i class="ph ph-plus-circle"></i>
+                            Create a New Team
+                        </button>
+                    </div>
+
+                    <!-- Join Team Card -->
+                    <div class="card glass-card team-option-card" id="join-team-card">
+                        <div class="team-option-icon join-icon">
+                            <i class="ph ph-sign-in"></i>
+                        </div>
+                        <h2>Join Team</h2>
+                        <p>Enter a team code shared by your teammate to join an existing project team.</p>
+                        <form id="join-team-form" class="team-form" style="display: none;">
+                            <div class="form-group">
+                                <label for="team-code">Team Code</label>
+                                <input type="text" id="team-code" placeholder="e.g., TEAM-A1B2C3" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="join-roll">Your Roll Number</label>
+                                <input type="text" id="join-roll" placeholder="e.g., 21XXYYZZ" required>
+                            </div>
+                            <div class="form-actions">
+                                <button type="button" class="btn btn-secondary" id="cancel-join-team">Cancel</button>
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="ph ph-sign-in"></i>
+                                    Join Team
+                                </button>
+                            </div>
+                        </form>
+                        <button class="btn btn-primary team-action-btn" id="btn-show-join-team">
+                            <i class="ph ph-sign-in"></i>
+                            Join an Existing Team
+                        </button>
+                    </div>
+                </div>
+
+                <!-- NEW: Success Result Interface -->
+                <div id="team-creation-result" class="card glass-card result-card hidden">
+                    <div class="result-header">
+                        <div class="success-icon animate-pop">
+                            <i class="ph ph-check-circle"></i>
+                        </div>
+                        <div class="result-text">
+                            <h3>Team Created Successfully!</h3>
+                            <p>Your team code is ready. Share it with your classmates to have them join your team.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="code-display-box">
+                        <span class="code-label">TEAM CODE</span>
+                        <div class="code-value-wrapper">
+                            <code id="display-team-code">-------</code>
+                            <button id="btn-copy-code" class="icon-btn glass-btn" title="Copy to clipboard">
+                                <i class="ph ph-copy"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="result-actions">
+                        <button id="btn-dismiss-result" class="btn btn-secondary btn-sm">Dismiss</button>
+                    </div>
+                </div>
             </div>
 
             <!-- Settings View (Placeholder) -->
