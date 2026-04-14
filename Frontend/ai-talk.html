@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Student Portal - Acceptance Testing</title>
+    <title>Student Portal - AI Talk</title>
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -36,11 +36,11 @@
                     <i class="ph ph-upload-simple"></i>
                     <span>Submit Project</span>
                 </a>
-                <a href="acceptance.html" class="nav-item active">
+                <a href="acceptance.html" class="nav-item">
                     <i class="ph ph-check-square"></i>
                     <span>Acceptance testing</span>
                 </a>
-                <a href="ai-talk.html" class="nav-item">
+                <a href="ai-talk.html" class="nav-item active">
                     <i class="ph ph-chat-circle-dots"></i>
                     <span>Ai talk</span>
                 </a>
@@ -71,36 +71,26 @@
         <main class="main-content">
             <header class="top-header">
                 <div>
-                    <h1 class="page-title">Acceptance Testing</h1>
-                    <p class="page-subtitle">Test and review your project specifications</p>
+                    <h1 class="page-title">AI Talk</h1>
+                    <p class="page-subtitle">Chat with our AI Assistant regarding your projects</p>
                 </div>
-                <!-- Optional notification icon -->
-                <button class="icon-btn glass-btn">
-                    <i class="ph ph-bell"></i>
-                </button>
             </header>
 
-            <div class="submission-container">
-                <div class="card glass-card">
-                    
-                    <form id="acceptance-form" class="submission-form">
-                        
-                        <!-- Inputs -->
-                        <div class="form-group">
-                            <label for="project-title">Project Title</label>
-                            <input type="text" id="project-title" placeholder="e.g., Advanced AI Algorithms" required>
-                        </div>
-                        
-                        <div class="form-group">
-                            <label for="project-desc">Project Description</label>
-                            <textarea id="project-desc" rows="4" placeholder="Briefly describe the objective and methodology of your project..." ></textarea>
-                        </div>
-                        
-                        <!-- Actions -->
-                        <div class="form-actions">
-                            <button type="submit" class="btn btn-primary" id="btn-submit">
-                                <i class="ph ph-check-square"></i>
-                                Start Acceptance Test
+            <div class="chat-container">
+                <div id="chat-messages" class="chat-messages">
+                    <!-- Chat messages will appear here -->
+                    <div class="message ai-message">
+                        <i class="ph-fill ph-sparkle"></i>
+                        <span>Hello! How's it going? What's on your mind today?</span>
+                    </div>
+                </div>
+                
+                <div class="chat-input-wrapper">
+                    <form id="chat-form" class="chat-form-gemini">
+                        <textarea id="chat-input" placeholder="Ask Gemini..." rows="1" required></textarea>
+                        <div class="chat-input-actions">
+                            <button type="submit" class="gemini-send-btn">
+                                <i class="ph-bold ph-caret-right"></i>
                             </button>
                         </div>
                     </form>
@@ -109,6 +99,6 @@
         </main>
     </div>
     
-    <script src="script.js"></script>
+    <script type="module" src="ai-talk.js"></script>
 </body>
 </html>

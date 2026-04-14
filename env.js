@@ -1,9 +1,30 @@
-export const firebaseConfig = {
-    apiKey: "AIzaSyBGXgPMyXLGZAXYq0aLFvD1EIHpNlDeM0A",
-    authDomain: "project-guard-19f21.firebaseapp.com",
-    projectId: "project-guard-19f21",
-    storageBucket: "project-guard-19f21.firebasestorage.app",
-    messagingSenderId: "334400351259",
-    appId: "1:334400351259:web:9460acdd8bbc5844585cbe",
-    measurementId: "G-WEMJ0J7C13"
-};
+export async function getEnv() {
+    try {
+        const response = await fetch('../.env');
+        const text = await response.text();
+        const env = {};
+        
+        text.split('\n').forEach(line => {
+            const [key, ...value] = line.split('=');
+            if (key && value.length > 0) {
+                env[key.trim()] = value.join('=').trim();
+            }
+        });
+
+        return {
+            firebaseConfig: {
+                apiKey: env.FIREBASE_API_KEY,
+                authDomain: env.FIREBASE_AUTH_DOMAIN,
+                projectId: env.FIREBASE_PROJECT_ID,
+                storageBucket: env.FIREBASE_STORAGE_BUCKET,
+                messagingSenderId: env.FIREBASE_MESSAGING_SENDER_ID,
+                appId: env.FIREBASE_APP_ID,
+                measurementId: env.FIREBASE_MEASUREMENT_ID
+            },
+            aiApiKey: env.AI_API_KEY
+        };
+    } catch (e) {
+        console.error("Failed to load .env file", e);
+        return { firebaseConfig: {}, aiApiKey: "" };
+    }
+}
