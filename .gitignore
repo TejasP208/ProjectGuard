@@ -1,0 +1,11 @@
+.env
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+*.db
+.vscode/
+.idea/
+node_modules/
+dist/
+build/
