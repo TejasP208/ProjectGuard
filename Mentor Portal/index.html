@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mentor Portal - Dashboard</title>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Phosphor Icons for modern, clean icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar -->
+        <aside class="sidebar glass-panel">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <i class="ph ph-graduation-cap"></i>
+                    <span>ProjectGaurd</span>
+                </div>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="#" class="nav-item active" id="nav-dashboard">
+                    <i class="ph ph-squares-four"></i>
+                    <span>Dashboard</span>
+                </a>
+                <a href="#" class="nav-item" id="nav-project-list">
+                    <i class="ph ph-folder-open"></i>
+                    <span>Project List</span>
+                </a>
+                <a href="#" class="nav-item" id="nav-student-list">
+                    <i class="ph ph-users"></i>
+                    <span>Student List</span>
+                </a>
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="user-profile">
+                    <img src="https://i.pravatar.cc/150?img=11" alt="Mentor Profile" class="avatar">
+                    <div class="user-info">
+                        <span class="user-name">Mentor Name</span>
+                        <span class="user-role">Mentor</span>
+                    </div>
+                </div>
+                <div class="logout-wrapper" style="margin-top: 1rem; border-top: 1px solid var(--glass-border); padding-top: 1rem;">
+                    <a href="auth.html" class="nav-item">
+                        <i class="ph ph-sign-out"></i>
+                        <span>Logout</span>
+                    </a>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header class="top-header">
+                <div>
+                    <h1 class="page-title" id="main-title">Mentor Dashboard</h1>
+                    <p class="page-subtitle" id="main-subtitle">Overview of your assigned student groups</p>
+                </div>
+                <!-- Optional notification icon -->
+                <button class="icon-btn glass-btn">
+                    <i class="ph ph-bell"></i>
+                </button>
+            </header>
+
+            <div class="submission-container" id="content-container">
+                <!-- Dashboard content is empty as requested -->
+                <div class="card glass-card" style="min-height: 400px; display: flex; align-items: center; justify-content: center; flex-direction: column; text-align: center; color: var(--text-muted);">
+                    <i class="ph ph-squares-four" style="font-size: 3rem; margin-bottom: 1rem; opacity: 0.5;"></i>
+                    <h2>Dashboard Empty</h2>
+                    <p>Metrics and updates will appear here.</p>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
