@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,6 +13,7 @@
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
     <div class="app-container">
         <!-- Sidebar -->
@@ -22,7 +24,7 @@
                     <span>ProjectGuard</span>
                 </div>
             </div>
-            
+
             <nav class="sidebar-nav">
                 <a href="#" class="nav-item" id="nav-dashboard">
                     <i class="ph ph-squares-four"></i>
@@ -50,7 +52,8 @@
                         <span class="user-role">Student</span>
                     </div>
                 </div>
-                <div class="logout-wrapper" style="margin-top: 1rem; border-top: 1px solid var(--glass-border); padding-top: 1rem;">
+                <div class="logout-wrapper"
+                    style="margin-top: 1rem; border-top: 1px solid var(--glass-border); padding-top: 1rem;">
                     <a href="#" class="nav-item" id="logout-btn">
                         <i class="ph ph-sign-out"></i>
                         <span>Logout</span>
@@ -61,7 +64,7 @@
 
         <!-- Main Content -->
         <main class="main-content">
-            
+
             <!-- Dashboard View -->
             <div id="view-dashboard" class="content-view hidden">
                 <header class="top-header">
@@ -93,7 +96,7 @@
                             <li class="pending"><i class="ph ph-circle"></i>Final Submission</li>
                         </ul>
                     </div>
-                    
+
                 </div>
             </div>
 
@@ -124,14 +127,17 @@
                     <div id="find-chat-box" class="chatbot-messages expanded-chat">
                         <div class="message-wrapper ai-wrapper">
                             <div class="message-avatar"><i class="ph-fill ph-terminal-window"></i></div>
-                            <div class="ai-message premium-glass-bubble"><p>I'm Axiom, ready to search your project . What do you need?</p></div>
+                            <div class="ai-message premium-glass-bubble">
+                                <p>I'm Axiom, ready to search your project . What do you need?</p>
+                            </div>
                         </div>
                     </div>
                     <div class="ai-chat-box premium-input-container">
                         <div class="input-wrapper glowing-input">
                             <i class="ph ph-terminal-window ai-sparkle-icon"></i>
                             <input type="text" id="find-chat-input" placeholder="e.g., Help me find my Project...">
-                            <button id="find-send-btn" class="btn btn-primary premium-send-btn chat-send"><i class="ph-bold ph-arrow-right"></i></button>
+                            <button id="find-send-btn" class="btn btn-primary premium-send-btn chat-send"><i
+                                    class="ph-bold ph-arrow-right"></i></button>
                         </div>
                     </div>
                 </div>
@@ -151,91 +157,98 @@
                     </button>
                 </header>
 
-            <div class="submission-container">
-                <div class="card glass-card">
-                    
-                    <form id="submission-form" class="submission-form">
-                        
-                        <!-- Inputs -->
-                        <div class="form-group">
-                            <label for="project-title">Project Title</label>
-                            <input type="text" id="project-title" placeholder="e.g., Advanced AI Algorithms" required>
-                        </div>
-                        
-                        <div class="form-group">
-                            <label for="project-desc">Project Abstract</label>
-                            <textarea id="project-desc" rows="4" placeholder="Briefly describe the objective and methodology of your project..." ></textarea>
-                        </div>
-                        
-                        <!-- Drag & Drop Area -->
-                        <div class="form-group">
-                            <label>Upload Project File</label>
-                            <div class="drop-zone" id="drop-zone">
-                                <div class="drop-zone-content">
-                                    <div class="upload-icon-wrapper">
-                                        <i class="ph ph-plus"></i>
-                                    </div>
-                                    <h3>Drag & Drop your files here</h3>
-                                    <p>or click to browse</p>
-                                    <span class="file-formats">Supported formats: PDF, DOCX, ZIP (Max 50MB)</span>
-                                </div>
-                                <input type="file" id="file-input" hidden accept=".pdf,.docx,.zip">
-                            </div>
-                            
-                            <!-- State: Upload Progress (Hidden initially) -->
-                            <div class="upload-progress-container" id="upload-progress-area" style="display: none;">
-                                <div class="file-info-bar">
-                                    <div class="file-details">
-                                        <i class="ph ph-file-doc"></i>
-                                        <span id="file-name-display">project_final_v2.pdf</span>
-                                    </div>
-                                    <button type="button" class="remove-file-btn" id="remove-file"><i class="ph ph-x"></i></button>
-                                </div>
-                                <div class="progress-bar-wrapper">
-                                    <div class="progress-bar" id="upload-progress-bar"></div>
-                                </div>
-                                <div class="progress-stats">
-                                    <span id="upload-status-text">Uploading...</span>
-                                    <span id="upload-percentage">0%</span>
-                                </div>
-                            </div>
-                        </div>
-                        
-                        <!-- Evaluation Status Area (Hidden initially) -->
-                        <div class="evaluation-panel" id="evaluation-panel" style="display: none;">
-                            <div class="status-grid">
-                                <div class="status-item">
-                                    <span class="status-label">Submission Status</span>
-                                    <div class="chips">
-                                        <span class="chip pending" id="chip-pending">Pending</span>
-                                        <span class="chip checking" id="chip-checking" style="display: none;">Checking</span>
-                                        <span class="chip verified" id="chip-verified" style="display: none;">Verified</span>
-                                    </div>
-                                </div>
-                                <div class="status-item score-container" id="score-container" style="display: none;">
-                                    <span class="status-label">Plagiarism Score</span>
-                                    <div class="score-indicator" id="score-value">
-                                        <span class="score-number safe">12%</span>
-                                        <span class="chip similarity safe">Low Similarity</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                <div class="submission-container">
+                    <div class="card glass-card">
 
-                        <!-- Actions -->
-                        <div class="form-actions">
-                            <button type="button" class="btn btn-secondary" id="btn-check" disabled>
-                                <i class="ph-fill ph-shield-check"></i>
-                                Check Plagiarism
-                            </button>
-                            <button onclick="submitProject()" type="submit" class="btn btn-primary" id="btn-submit" disabled>
-                                <i class="ph ph-upload-simple"></i>
-                                Submit Your Project
-                            </button>
-                        </div>
-                    </form>
+                        <form id="submission-form" class="submission-form">
+
+                            <!-- Inputs -->
+                            <div class="form-group">
+                                <label for="project-title">Project Title</label>
+                                <input type="text" id="project-title" placeholder="e.g., Advanced AI Algorithms"
+                                    required>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="project-desc">Project Abstract</label>
+                                <textarea id="project-desc" rows="4"
+                                    placeholder="Briefly describe the objective and methodology of your project..."></textarea>
+                            </div>
+
+                            <!-- Drag & Drop Area -->
+                            <div class="form-group">
+                                <label>Upload Project File</label>
+                                <div class="drop-zone" id="drop-zone">
+                                    <div class="drop-zone-content">
+                                        <div class="upload-icon-wrapper">
+                                            <i class="ph ph-plus"></i>
+                                        </div>
+                                        <h3>Drag & Drop your files here</h3>
+                                        <p>or click to browse</p>
+                                        <span class="file-formats">Supported formats: PDF, DOCX, ZIP (Max 50MB)</span>
+                                    </div>
+                                    <input type="file" id="file-input" hidden accept=".pdf,.docx,.zip">
+                                </div>
+
+                                <!-- State: Upload Progress (Hidden initially) -->
+                                <div class="upload-progress-container" id="upload-progress-area" style="display: none;">
+                                    <div class="file-info-bar">
+                                        <div class="file-details">
+                                            <i class="ph ph-file-doc"></i>
+                                            <span id="file-name-display">project_final_v2.pdf</span>
+                                        </div>
+                                        <button type="button" class="remove-file-btn" id="remove-file"><i
+                                                class="ph ph-x"></i></button>
+                                    </div>
+                                    <div class="progress-bar-wrapper">
+                                        <div class="progress-bar" id="upload-progress-bar"></div>
+                                    </div>
+                                    <div class="progress-stats">
+                                        <span id="upload-status-text">Uploading...</span>
+                                        <span id="upload-percentage">0%</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Evaluation Status Area (Hidden initially) -->
+                            <div class="evaluation-panel" id="evaluation-panel" style="display: none;">
+                                <div class="status-grid">
+                                    <div class="status-item">
+                                        <span class="status-label">Submission Status</span>
+                                        <div class="chips">
+                                            <span class="chip pending" id="chip-pending">Pending</span>
+                                            <span class="chip checking" id="chip-checking"
+                                                style="display: none;">Checking</span>
+                                            <span class="chip verified" id="chip-verified"
+                                                style="display: none;">Verified</span>
+                                        </div>
+                                    </div>
+                                    <div class="status-item score-container" id="score-container"
+                                        style="display: none;">
+                                        <span class="status-label">Plagiarism Score</span>
+                                        <div class="score-indicator" id="score-value">
+                                            <span class="score-number safe">12%</span>
+                                            <span class="chip similarity safe">Low Similarity</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Actions -->
+                            <div class="form-actions">
+                                <button type="button" class="btn btn-secondary" id="btn-check" disabled>
+                                    <i class="ph-fill ph-shield-check"></i>
+                                    Check Plagiarism
+                                </button>
+                                <button onclick="submitProject()" type="submit" class="btn btn-primary" id="btn-submit"
+                                    disabled>
+                                    <i class="ph ph-upload-simple"></i>
+                                    Submit Your Project
+                                </button>
+                            </div>
+                        </form>
+                    </div>
                 </div>
-            </div>
             </div>
 
             <!-- Plagiarism Check View (Placeholder) -->
@@ -249,7 +262,9 @@
                         <span class="notification-badge"></span>
                     </button>
                 </header>
-                <div class="glass-card"><p>Plagiarism checking tools go here.</p></div>
+                <div class="glass-card">
+                    <p>Plagiarism checking tools go here.</p>
+                </div>
             </div>
 
             <!-- Find Your Team View -->
@@ -329,30 +344,46 @@
 
                 <!-- NEW: Success Result Interface -->
                 <div id="team-creation-result" class="card glass-card result-card hidden">
-                    <div class="result-header">
-                        <div class="success-icon animate-pop">
-                            <i class="ph ph-check-circle"></i>
-                        </div>
-                        <div class="result-text">
-                            <h3>Team Created Successfully!</h3>
-                            <p>Your team code is ready. Share it with your classmates to have them join your team.</p>
-                        </div>
+                    <!-- Decorative particles -->
+                    <div class="result-particles">
+                        <span class="particle"></span>
+                        <span class="particle"></span>
+                        <span class="particle"></span>
+                        <span class="particle"></span>
+                        <span class="particle"></span>
+                        <span class="particle"></span>
                     </div>
-                    
+
+                    <div class="result-header">
+                        <div class="success-icon-wrapper animate-pop">
+                            <div class="success-icon-ring"></div>
+                            <div class="success-icon">
+                                <i class="ph-fill ph-check-circle"></i>
+                            </div>
+                        </div>
+                        <h3 class="result-title">Team Created Successfully!</h3>
+                        <p class="result-subtitle">Share this code with your classmates to have them join your team.</p>
+                    </div>
+
                     <div class="code-display-box">
-                        <span class="code-label">TEAM CODE</span>
+                        <span class="code-label">YOUR TEAM CODE</span>
                         <div class="code-value-wrapper">
                             <code id="display-team-code">-------</code>
-                            <button id="btn-copy-code" class="icon-btn glass-btn" title="Copy to clipboard">
+                            <button id="btn-copy-code" class="copy-btn" title="Copy to clipboard">
                                 <i class="ph ph-copy"></i>
+                                <span class="copy-tooltip">Copy</span>
                             </button>
                         </div>
                     </div>
 
                     <div class="result-actions">
-                        <button id="btn-dismiss-result" class="btn btn-secondary btn-sm">Dismiss</button>
+                        <button id="btn-dismiss-result" class="btn btn-secondary btn-sm">
+                            <i class="ph ph-x"></i>
+                            Dismiss
+                        </button>
                     </div>
                 </div>
+
             </div>
 
             <!-- Settings View (Placeholder) -->
@@ -366,12 +397,15 @@
                         <span class="notification-badge"></span>
                     </button>
                 </header>
-                <div class="glass-card"><p>Account settings go here.</p></div>
+                <div class="glass-card">
+                    <p>Account settings go here.</p>
+                </div>
             </div>
 
         </main>
     </div>
-    
+
     <script src="script.js"></script>
 </body>
+
 </html>

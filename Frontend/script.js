@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const progressBar = document.getElementById('upload-progress-bar');
     const uploadPercentage = document.getElementById('upload-percentage');
     const uploadStatusText = document.getElementById('upload-status-text');
-    
+
     // Buttons
     const btnSubmit = document.getElementById('btn-submit');
     const btnCheck = document.getElementById('btn-check');
@@ -20,12 +20,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const chipVerified = document.getElementById('chip-verified');
     const scoreContainer = document.getElementById('score-container');
     const scoreValue = document.getElementById('score-value');
-    
+    const teamCreationResult = document.getElementById('team-creation-result');
+    const displayTeamCode = document.getElementById('display-team-code');
+    const btnCopyCode = document.getElementById('btn-copy-code');
+    const btnDismissResult = document.getElementById('btn-dismiss-result');
+
     // File state
     let currentFile = null;
 
     // --- Drag and Drop Logic --- //
-    
+
     // Prevent default drag behaviors
     ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
         dropZone.addEventListener(eventName, preventDefaults, false);
@@ -54,12 +58,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Click to upload
     dropZone.addEventListener('click', () => {
-        if(!currentFile) {
+        if (!currentFile) {
             fileInput.click();
         }
     });
 
-    fileInput.addEventListener('change', function() {
+    fileInput.addEventListener('change', function () {
         handleFiles(this.files);
     });
 
@@ -77,15 +81,15 @@ document.addEventListener('DOMContentLoaded', () => {
         dropZone.style.display = 'none';
         uploadProgressArea.style.display = 'block';
         evalPanel.style.display = 'block'; // Show eval panel as Pending
-        
+
         fileNameDisplay.textContent = fileName;
         progressBar.style.width = '0%';
         uploadPercentage.textContent = '0%';
         uploadStatusText.textContent = 'Uploading...';
-        
+
         // Reset eval state
         resetEvalState();
-        
+
         // Disable buttons during upload
         btnSubmit.disabled = true;
         btnCheck.disabled = true;
@@ -107,7 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
         uploadStatusText.textContent = 'Upload Complete';
         uploadStatusText.style.color = 'var(--status-verified)';
         progressBar.style.background = 'var(--status-verified)';
-        
+
         // Enable buttons
         btnSubmit.disabled = false;
         btnCheck.disabled = false;
@@ -120,7 +124,7 @@ document.addEventListener('DOMContentLoaded', () => {
         dropZone.style.display = 'block';
         uploadProgressArea.style.display = 'none';
         evalPanel.style.display = 'none';
-        
+
         btnSubmit.disabled = true;
         btnCheck.disabled = true;
         progressBar.style.background = 'linear-gradient(90deg, var(--primary), var(--secondary))';
@@ -130,16 +134,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- Anti-Gravity Checking Simulation --- //
     btnCheck.addEventListener('click', () => {
-        if(!currentFile) return;
+        if (!currentFile) return;
 
         // Ui State Updates
         btnCheck.disabled = true;
         btnCheck.innerHTML = '<i class="ph-fill ph-spinner-gap"></i> Checking...';
         btnSubmit.disabled = true;
-        
+
         chipPending.style.display = 'none';
         chipChecking.style.display = 'inline-flex';
-        
+
         // Simulate checking process
         setTimeout(() => {
             finishChecking();
@@ -155,7 +159,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Show Score
         scoreContainer.style.display = 'flex';
-        
+
         // Add subtle animation
         scoreContainer.style.animation = 'fadeIn 0.5s ease frontwards';
     }
@@ -165,7 +169,7 @@ document.addEventListener('DOMContentLoaded', () => {
         chipChecking.style.display = 'none';
         chipVerified.style.display = 'none';
         scoreContainer.style.display = 'none';
-        
+
         btnCheck.innerHTML = '<i class="ph-fill ph-shield-check"></i> Check  Plagiarism';
     }
 
@@ -174,7 +178,7 @@ document.addEventListener('DOMContentLoaded', () => {
     form.addEventListener('submit', (e) => {
         e.preventDefault();
         btnSubmit.innerHTML = '<i class="ph ph-spinner-gap"></i> Submitting...';
-        
+
         setTimeout(() => {
             alert('Project submitted successfully! Your instructor will review it soon.');
             btnSubmit.innerHTML = '<i class="ph ph-check"></i> Submitted';
@@ -242,24 +246,24 @@ document.addEventListener('DOMContentLoaded', () => {
 
         function sendMessage() {
             const text = input.value.trim();
-            if(!text) return;
+            if (!text) return;
 
             // Add user message with premium styling
             const userWrapper = document.createElement('div');
             userWrapper.className = 'message-wrapper user-wrapper';
-            
+
             const userAvatar = document.createElement('div');
             userAvatar.className = 'message-avatar';
             userAvatar.innerHTML = '<i class="ph-fill ph-user"></i>';
-            
+
             const userMsg = document.createElement('div');
             userMsg.className = 'premium-glass-bubble';
             userMsg.textContent = text;
-            
+
             userWrapper.appendChild(userAvatar);
             userWrapper.appendChild(userMsg);
             chatBox.appendChild(userWrapper);
-            
+
             input.value = '';
             chatBox.scrollTop = chatBox.scrollHeight;
 
@@ -271,15 +275,15 @@ document.addEventListener('DOMContentLoaded', () => {
             // Show AI Typing Indicator
             const aiWrapper = document.createElement('div');
             aiWrapper.className = 'message-wrapper ai-wrapper';
-            
+
             const aiAvatar = document.createElement('div');
             aiAvatar.className = 'message-avatar';
             aiAvatar.innerHTML = '<i class="ph-fill ph-terminal-window"></i>';
-            
+
             const typingMsg = document.createElement('div');
             typingMsg.className = 'typing-indicator';
             typingMsg.innerHTML = '<div class="typing-dot"></div><div class="typing-dot"></div><div class="typing-dot"></div>';
-            
+
             aiWrapper.appendChild(aiAvatar);
             aiWrapper.appendChild(typingMsg);
             chatBox.appendChild(aiWrapper);
@@ -289,17 +293,17 @@ document.addEventListener('DOMContentLoaded', () => {
             setTimeout(() => {
                 // Pick a random smart response
                 const responseText = responses[Math.floor(Math.random() * responses.length)];
-                
+
                 // Replace typing indicator with empty glass bubble
                 aiWrapper.removeChild(typingMsg);
                 const finalMsg = document.createElement('div');
                 finalMsg.className = 'ai-message premium-glass-bubble';
                 finalMsg.innerHTML = `<p><strong>Axiom AI:</strong> <span class="typing-text"></span></p>`;
                 aiWrapper.appendChild(finalMsg);
-                
+
                 const textSpan = finalMsg.querySelector('.typing-text');
                 let charIndex = 0;
-                
+
                 // Typing effect
                 const typeInterval = setInterval(() => {
                     if (charIndex < responseText.length) {
@@ -310,18 +314,18 @@ document.addEventListener('DOMContentLoaded', () => {
                         clearInterval(typeInterval);
                         btn.innerHTML = originalBtnHtml;
                         btn.disabled = false;
-                        
+
                         // Give input focus back
                         input.focus();
                     }
                 }, 20); // 20ms per character for fast reading
-                
+
             }, 1200); // 1.2s thinking time
         }
 
         btn.addEventListener('click', sendMessage);
         input.addEventListener('keypress', (e) => {
-            if(e.key === 'Enter') sendMessage();
+            if (e.key === 'Enter') sendMessage();
         });
     }
 
@@ -384,9 +388,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 const data = await response.json();
 
                 if (response.ok) {
-                    alert(`Success! Team "${teamName}" created.\nYOUR TEAM CODE: ${data.team_code}\nShare this code with your teammates.`);
                     createTeamForm.style.display = 'none';
-                    btnShowCreateTeam.style.display = 'inline-flex';
+                    btnShowCreateTeam.style.display = 'none';
+                    teamCreationResult.classList.remove('hidden');
+                    displayTeamCode.textContent = data.team_code;
                     createTeamFormEl.reset();
                 } else {
                     alert(data.detail || 'Failed to create team');
@@ -538,32 +543,34 @@ async function submitProject() {
         btnSubmit.innerHTML = '<i class="ph ph-upload-simple"></i> Submit Your Project';
     }
 }
-async function createTeam() {
-    const data = {
-        team_name: document.getElementById("team-name").value
-    };
-
-    const res = await fetch("http://127.0.0.1:8000/create-team", {
-        method: "POST",
-        headers: {"Content-Type": "application/json"},
-        body: JSON.stringify(data)
+// Copy button
+const btnCopyCodeEl = document.getElementById('btn-copy-code');
+if (btnCopyCodeEl) {
+    btnCopyCodeEl.addEventListener('click', () => {
+        const codeEl = document.getElementById('display-team-code');
+        const code = codeEl.textContent;
+        navigator.clipboard.writeText(code).then(() => {
+            const originalHTML = btnCopyCodeEl.innerHTML;
+            btnCopyCodeEl.innerHTML = '<i class="ph ph-check"></i>';
+            btnCopyCodeEl.style.background = 'var(--status-verified)';
+            btnCopyCodeEl.style.color = 'white';
+            
+            setTimeout(() => {
+                btnCopyCodeEl.innerHTML = originalHTML;
+                btnCopyCodeEl.style.background = '';
+                btnCopyCodeEl.style.color = '';
+            }, 2000);
+        });
     });
-
-    const result = await res.json();
-    alert("Team Code: " + result.team_code);  // 🔥 show code
 }
-async function joinTeam() {
-    const data = {
-        team_code: document.getElementById("team-code").value,
-        roll_no: document.getElementById("roll").value
-    };
 
-    const res = await fetch("http://127.0.0.1:8000/join-team", {
-        method: "POST",
-        headers: {"Content-Type": "application/json"},
-        body: JSON.stringify(data)
+// Dismiss button
+const btnDismissResultEl = document.getElementById('btn-dismiss-result');
+if (btnDismissResultEl) {
+    btnDismissResultEl.addEventListener('click', () => {
+        const resultCard = document.getElementById('team-creation-result');
+        const showCreateBtn = document.getElementById('btn-show-create-team');
+        resultCard.classList.add('hidden');
+        if (showCreateBtn) showCreateBtn.style.display = 'inline-flex';
     });
-
-    const result = await res.json();
-    alert(result.message || result.error);
-}
+}
